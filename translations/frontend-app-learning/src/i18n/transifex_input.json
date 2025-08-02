@@ -288,7 +288,6 @@
   "progress.gradeSummary.grade": "Grade",
   "progress.courseGrade.grades": "Grades",
   "progress.courseGrade.gradesAndCredit": "Grades & Credit",
-  "progress.courseGrade.gradeRange.Tooltip": "Grade range tooltip",
   "progress.gradeSummary": "Grade summary",
   "progress.gradeSummary.limitedAccessExplanation": "You have limited access to graded assignments as part of the audit track in this course. {upgradeLink}",
   "progress.gradeSummary.tooltip.alt": "Grade summary tooltip",
