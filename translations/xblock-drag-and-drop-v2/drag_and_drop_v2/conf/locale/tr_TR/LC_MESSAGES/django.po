@@ -1,0 +1,225 @@
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+# 
+# Translators:
+# Brian Smith, 2024
+# Nathan Robertson, 2024
+# Ali Işıngör <ali@artistanbul.io>, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-06-13 08:00+0000\n"
+"PO-Revision-Date: 2023-04-21 00:43+0000\n"
+"Last-Translator: Ali Işıngör <ali@artistanbul.io>, 2025\n"
+"Language-Team: Turkish (Turkey) (https://app.transifex.com/open-edx/teams/6205/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: default_data.py:5
+msgid ""
+"An isosceles triangle with three layers of similar height. It is shown "
+"upright, so the widest layer is located at the bottom, and the narrowest "
+"layer is located at the top."
+msgstr ""
+"Benzer yükseklikte üç katmana sahip bir ikizkenar üçgen. Dik olarak "
+"gösterilir, böylece en geniş katman altta, en dar katman ise üstte bulunur."
+
+#: default_data.py:14
+msgid "The Top Zone"
+msgstr "Üst Bölge"
+
+#: default_data.py:15
+msgid "The Middle Zone"
+msgstr "Orta Bölge"
+
+#: default_data.py:16
+msgid "The Bottom Zone"
+msgstr "Alt Bölge"
+
+#: default_data.py:18
+msgid "Use this zone to associate an item with the top layer of the triangle."
+msgstr ""
+"Bir öğeyi üçgenin üst katmanıyla ilişkilendirmek için bu bölgeyi kullanın."
+
+#: default_data.py:22
+msgid "Correct! This one belongs to The Top Zone."
+msgstr "Doğru! Bu, Üst Bölge'ye ait."
+
+#: default_data.py:23
+msgid "Correct! This one belongs to The Middle Zone."
+msgstr "Doğru! Bu Orta Bölge'ye ait."
+
+#: default_data.py:29
+msgid "Goes to the top"
+msgstr "En üste gider"
+
+#: default_data.py:33
+msgid "I don't belong anywhere"
+msgstr "Hiçbir yere ait değilim"
+
+#: drag_and_drop_v2.py:83
+msgid "Title"
+msgstr "Ünvan"
+
+#: drag_and_drop_v2.py:86
+msgid "Drag and Drop"
+msgstr "Sürükle ve Bırak"
+
+#: drag_and_drop_v2.py:91
+msgid "Mode"
+msgstr "Mod"
+
+#: drag_and_drop_v2.py:100
+msgid "Standard"
+msgstr "Standart"
+
+#: drag_and_drop_v2.py:101
+msgid "Assessment"
+msgstr "Değerlendirme"
+
+#: drag_and_drop_v2.py:108
+msgid "Maximum attempts"
+msgstr "Maksimum deneme sayısı"
+
+#: drag_and_drop_v2.py:119
+msgid "Show title"
+msgstr "Başlığı göster"
+
+#: drag_and_drop_v2.py:127
+msgid "Problem text"
+msgstr "Problem metni"
+
+#: drag_and_drop_v2.py:142
+msgid "Show answer"
+msgstr "Yanıtı göster"
+
+#: drag_and_drop_v2.py:149
+msgid "Default"
+msgstr "Öntanımlı"
+
+#: drag_and_drop_v2.py:150
+msgid "Always"
+msgstr "Her Zaman"
+
+#: drag_and_drop_v2.py:151
+msgid "Answered"
+msgstr "Yanıtlandı"
+
+#: drag_and_drop_v2.py:152
+msgid "Attempted or Past Due"
+msgstr "Denendi veya Süresi Geçmiş"
+
+#: drag_and_drop_v2.py:153
+msgid "Closed"
+msgstr "Kapatıldı"
+
+#: drag_and_drop_v2.py:154
+msgid "Finished"
+msgstr "Bitirildi"
+
+#: drag_and_drop_v2.py:155
+msgid "Correct or Past Due"
+msgstr "Doğru veya Süresi Geçmiş"
+
+#: drag_and_drop_v2.py:156
+msgid "Past Due"
+msgstr "Zaman Aşımına Uğramış"
+
+#: drag_and_drop_v2.py:157
+msgid "Never"
+msgstr "Asla"
+
+#: drag_and_drop_v2.py:158
+msgid "After All Attempts"
+msgstr "Tüm Denemelerden Sonra"
+
+#: drag_and_drop_v2.py:159
+msgid "After All Attempts or Correct"
+msgstr "Tüm Denemelerden ya da Doğru Cevaptan Sonra"
+
+#: drag_and_drop_v2.py:160
+msgid "Attempted"
+msgstr "Denendi"
+
+#: drag_and_drop_v2.py:198
+msgid "Problem data"
+msgstr "Problem verileri"
+
+#: drag_and_drop_v2.py:217
+msgid "Number of attempts learner used"
+msgstr "Öğrencinin kullandığı deneme sayısı"
+
+#: drag_and_drop_v2.py:648
+msgid "The answer is unavailable"
+msgstr "Cevap mevcut değil"
+
+#: drag_and_drop_v2.py:794 drag_and_drop_v2.py:912
+msgid "Max number of attempts reached"
+msgstr "Maksimum deneme sayısına ulaşıldı"
+
+#: templates/html/drag_and_drop.html:4
+msgid "Loading drag and drop problem."
+msgstr "Sürükle bırak problemi yükleniyor."
+
+#: templates/html/drag_and_drop_edit.html:10
+msgid "Basic Settings"
+msgstr "Temel Ayarlar"
+
+#: templates/html/drag_and_drop_edit.html:100
+msgid "Explanation Text"
+msgstr "Açıklama Metni"
+
+#: templates/html/drag_and_drop_edit.html:109
+msgid "Zones"
+msgstr "Bölgeler"
+
+#: templates/html/drag_and_drop_edit.html:114
+msgid "Background Image"
+msgstr "Arka plan görüntüsü"
+
+#: templates/html/drag_and_drop_edit.html:126
+msgid "Background URL"
+msgstr "Arka plan URL'si"
+
+#: templates/html/drag_and_drop_edit.html:133
+msgid "Change background"
+msgstr "Arka planı değiştir"
+
+#: templates/html/drag_and_drop_edit.html:142
+msgid "Number of columns"
+msgstr "Sütun sayısı"
+
+#: templates/html/drag_and_drop_edit.html:150
+msgid "Number of rows"
+msgstr "Satır sayısı"
+
+#: templates/html/drag_and_drop_edit.html:157
+msgid "Number of columns and rows."
+msgstr "Sütun ve satır sayısı."
+
+#: templates/html/drag_and_drop_edit.html:161
+msgid "Zone Size"
+msgstr "Bölge Boyutu"
+
+#: templates/html/drag_and_drop_edit.html:163
+msgid "Zone width"
+msgstr "Bölge genişliği"
+
+#: templates/html/drag_and_drop_edit.html:171
+msgid "Zone height"
+msgstr "Bölge yüksekliği"
+
+#: templates/html/drag_and_drop_edit.html:206
+msgid "Zone borders"
+msgstr "Bölge sınırları"
+
+#: public/js/drag_and_drop.js:357 public/js/drag_and_drop.js:547
+msgid "Close"
+msgstr "Kapat"
