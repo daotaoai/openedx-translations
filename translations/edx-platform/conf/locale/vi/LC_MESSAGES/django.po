@@ -26620,3 +26620,167 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+#: xmodule/exam_result_module.py:88
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: xmodule/exam_result_module.py:89
+msgid "The display name for this component."
+msgstr "Tên hiển thị cho thành phần này."
+
+#: xmodule/exam_result_module.py:95
+msgid "Hide email of student"
+msgstr "Ẩn email của học viên"
+
+#: xmodule/exam_result_module.py:96
+msgid "Select \"True\" if you want hide email of student"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn email của học viên"
+
+#: xmodule/exam_result_module.py:101
+msgid "Hide username"
+msgstr "Ẩn tên đăng nhập"
+
+#: xmodule/exam_result_module.py:102
+msgid "Select \"True\" if you want hide username of student"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn tên đăng nhập của học viên"
+
+#: xmodule/exam_result_module.py:107
+msgid "Hide full name"
+msgstr "Ẩn họ và tên"
+
+#: xmodule/exam_result_module.py:108
+msgid "Select \"True\" if you want hide full name of student"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn họ và tên của học viên"
+
+#: xmodule/exam_result_module.py:113
+msgid "Hide exam name"
+msgstr "Ẩn tên bài thi"
+
+#: xmodule/exam_result_module.py:114
+msgid "Select \"True\" if you want hide exam name"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn tên bài thi"
+
+#: xmodule/exam_result_module.py:119
+msgid "Hide number of correct multiple-choice answers"
+msgstr "Ẩn số câu trả lời đúng trắc nghiệm"
+
+#: xmodule/exam_result_module.py:120
+msgid "Select \"True\" if you want hide number of correct multiple-choice answers"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn số câu trả lời đúng trắc nghiệm"
+
+#: xmodule/exam_result_module.py:125
+msgid "Hide number of submitted answer (include ORA questions)"
+msgstr "Ẩn số câu đã nộp (bao gồm câu hỏi ORA)"
+
+#: xmodule/exam_result_module.py:126
+msgid "Select \"True\" if you want to hide number of submitted answers (include ORA questions)"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn số câu đã nộp (bao gồm câu hỏi ORA)"
+
+#: xmodule/exam_result_module.py:131
+msgid "Hide total questions"
+msgstr "Ẩn tổng số câu hỏi"
+
+#: xmodule/exam_result_module.py:132
+msgid "Select \"True\" if you want to hide total questions of exam"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn tổng số câu hỏi của bài thi"
+
+#: xmodule/exam_result_module.py:137
+msgid "Hide reported time"
+msgstr "Ẩn thời gian báo cáo"
+
+#: xmodule/exam_result_module.py:138
+msgid "Select \"True\" if you want to hide the reported time"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn thời gian báo cáo"
+
+#: xmodule/exam_result_module.py:143
+msgid "Hide total ORA questions"
+msgstr "Ẩn tổng số câu hỏi ORA"
+
+#: xmodule/exam_result_module.py:144
+msgid "Select \"True\" if you want to hide total ORA questions"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn tổng số câu hỏi ORA"
+
+#: xmodule/exam_result_module.py:149
+msgid "Hide submitted ORA question"
+msgstr "Ẩn câu hỏi ORA đã nộp"
+
+#: xmodule/exam_result_module.py:150
+msgid "Select \"True\" if you want to hide the total submitted ORA"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn tổng số ORA đã nộp"
+
+#: xmodule/exam_result_module.py:155
+msgid "Hide answer table"
+msgstr "Ẩn bảng câu trả lời"
+
+#: xmodule/exam_result_module.py:156
+msgid "Select \"True\" if you want to hide the answer table"
+msgstr "Chọn \"True\" nếu bạn muốn ẩn bảng câu trả lời"
+
+#: xmodule/exam_result_module.py:216
+msgid "submitted"
+msgstr "đã nộp"
+
+#: xmodule/exam_result_module.py:377
+msgid "Information"
+msgstr "Thông tin"
+
+#: xmodule/exam_result_module.py:378
+msgid "Full name"
+msgstr "Họ và tên"
+
+#: xmodule/exam_result_module.py:379
+msgid "Account name"
+msgstr "Tên tài khoản"
+
+#: xmodule/exam_result_module.py:380
+msgid "Email"
+msgstr "Email"
+
+#: xmodule/exam_result_module.py:381
+msgid "Exam"
+msgstr "Bài thi"
+
+#: xmodule/exam_result_module.py:385
+msgid "Auto-graded questions"
+msgstr "Câu hỏi tự động chấm điểm"
+
+#: xmodule/exam_result_module.py:386
+msgid "Total questions"
+msgstr "Tổng số câu hỏi"
+
+#: xmodule/exam_result_module.py:387
+msgid "Submitted answers"
+msgstr "Câu trả lời đã nộp"
+
+#: xmodule/exam_result_module.py:388
+msgid "Correct answers"
+msgstr "Câu trả lời đúng"
+
+#: xmodule/exam_result_module.py:397
+msgid "Manual graded questions"
+msgstr "Câu hỏi chấm điểm thủ công"
+
+#: xmodule/exam_result_module.py:400
+msgid "Programming questions"
+msgstr "Câu hỏi lập trình"
+
+#: xmodule/exam_result_module.py:401
+msgid "Report date & time"
+msgstr "Ngày và giờ báo cáo"
+
+#: xmodule/exam_result_module.py:348
+msgid "No answer"
+msgstr "Chưa trả lời"
+
+#: xmodule/exam_result_module.py:404
+msgid "The user cannot be found to retrieve their score."
+msgstr "Không thể tìm thấy người dùng để lấy điểm số của họ."
+
+#: xmodule/exam_result_module.py:406
+msgid "This content has not been established by the teacher. Please contact your teacher for assistance"
+msgstr "Nội dung này chưa được giáo viên thiết lập. Vui lòng liên hệ với giáo viên để được hỗ trợ"
+
+#: xmodule/exam_result_module/templates/exam_result/exam_result_module.html:9
+msgid "Report"
+msgstr "Báo cáo"

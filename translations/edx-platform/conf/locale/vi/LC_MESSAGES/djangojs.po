@@ -11392,3 +11392,7 @@ msgstr[0] "Tải kết quả {num_items} tiếp theo"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Xin lỗi, không tìm thấy kết quả nào."
+
+#: xmodule/exam_result_module/public/js/exam_result_block_view.js:66
+msgid "Something went wrong. Please try again later."
+msgstr "Đã xảy ra lỗi. Vui lòng thử lại sau."
