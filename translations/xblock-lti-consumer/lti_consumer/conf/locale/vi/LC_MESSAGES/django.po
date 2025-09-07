@@ -2,11 +2,11 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -70,7 +70,7 @@ msgid ""
 "Enter the name that students see for this component. Analytics reports may "
 "also use the display name to identify this component."
 msgstr ""
-"Nhập tên mà học sinh nhìn thấy cho thành phần này. Báo cáo phân tích cũng có"
+"Nhập tên mà học viên nhìn thấy cho thành phần này. Báo cáo phân tích cũng có"
 " thể sử dụng tên hiển thị để xác định thành phần này."
 
 #: lti_xblock.py:267
@@ -432,7 +432,7 @@ msgstr ""
 
 #: lti_xblock.py:545
 msgid "Comment as returned from grader, LTI2.0 spec"
-msgstr "Nhận xét được trả về từ học sinh, thông số LTI2.0"
+msgstr "Nhận xét được trả về từ người chấm bài, thông số LTI2.0"
 
 #: lti_xblock.py:550
 msgid "Hide External Tool"

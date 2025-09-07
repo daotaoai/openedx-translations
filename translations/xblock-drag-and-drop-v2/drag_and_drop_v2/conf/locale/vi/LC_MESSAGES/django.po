@@ -2,11 +2,11 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -245,7 +245,7 @@ msgstr "Đã cố gắng"
 
 #: drag_and_drop_v2.py:166
 msgid "Problem Weight"
-msgstr "Vấn đề cân nặng"
+msgstr "Trọng số bài tập"
 
 #: drag_and_drop_v2.py:167
 msgid "Defines the number of points the problem is worth."

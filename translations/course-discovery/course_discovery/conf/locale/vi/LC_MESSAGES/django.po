@@ -2,13 +2,13 @@
 # edX translation file
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-platform\n"
@@ -702,7 +702,7 @@ msgstr "Nhóm điều phối dự án"
 
 #: apps/course_metadata/emails.py:212
 msgid "course team"
-msgstr "đội khóa học"
+msgstr "ban quản lý khóa học"
 
 #: apps/course_metadata/emails.py:221
 #, python-brace-format
@@ -1308,13 +1308,13 @@ msgstr "Câu hỏi thường gặp"
 
 #: apps/course_metadata/models.py:1504
 msgid "Total number of learners who have enrolled in this course"
-msgstr "Tổng số học viên đã ghi danh khóa học này"
+msgstr "Tổng số học viên đã đăng ký khóa học này"
 
 #: apps/course_metadata/models.py:1509
 msgid ""
 "Total number of learners who have enrolled in this course in the last 6 "
 "months"
-msgstr "Tổng số học viên đã ghi danh khóa học này trong 6 tháng qua"
+msgstr "Tổng số học viên đã đăng ký khóa học này trong 6 tháng qua"
 
 #: apps/course_metadata/models.py:1523
 msgid "Course number format e.g CS002x, BIO1.1x, BIO1.2x"

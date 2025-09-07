@@ -3,19 +3,19 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
 # Brian Smith, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -72,7 +72,7 @@ msgstr "Liên kết này sẽ mở trong cửa sổ/tab trình duyệt mới"
 
 #: cms/static/js/base.js:120
 msgid "This link will open in a modal window"
-msgstr "Liên kết này sẽ mở trong một cửa sổ phương thức"
+msgstr "Liên kết này sẽ mở trong cửa sổ modal"
 
 #: cms/static/js/certificates/models/certificate.js:78
 msgid "Certificate name is required."
@@ -254,7 +254,7 @@ msgstr ""
 #: cms/static/js/factories/manage_users_lib.js:22
 #: common/static/common/templates/discussion/templates.underscore:344
 msgid "Staff"
-msgstr "Nhân viên"
+msgstr "Đội ngũ giảng dạy"
 
 #: cms/static/js/factories/manage_users.js:20
 #: cms/static/js/factories/manage_users_lib.js:23
@@ -1004,7 +1004,7 @@ msgstr ""
 
 #: cms/static/js/views/license.js:35
 msgid "No Derivatives"
-msgstr "Không có công cụ phái sinh"
+msgstr "Không phái sinh"
 
 #: cms/static/js/views/license.js:38
 msgid ""
@@ -1347,20 +1347,20 @@ msgstr "Loại bỏ các thay đổi"
 
 #: cms/static/js/views/pages/container_subviews.js:283
 msgid "Hiding from Students"
-msgstr "Ẩn khỏi sinh viên"
+msgstr "Ẩn khỏi học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:286
 msgid "Explicitly Hiding from Students"
-msgstr "Rõ ràng trốn học sinh"
+msgstr "Ẩn rõ ràng khỏi học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:289
 msgid "Inheriting Student Visibility"
-msgstr "Kế thừa khả năng hiển thị của sinh viên"
+msgstr "Kế thừa khả năng hiển thị của học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:292
 #: cms/static/js/views/pages/container_subviews.js:294
 msgid "Make Visible to Students"
-msgstr "Hiển thị cho sinh viên"
+msgstr "Hiển thị cho học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:293
 msgid ""
@@ -1374,7 +1374,7 @@ msgstr ""
 
 #: cms/static/js/views/pages/container_subviews.js:296
 msgid "Making Visible to Students"
-msgstr "Hiển thị cho sinh viên"
+msgstr "Đang hiển thị cho học viên"
 
 #: cms/static/js/views/pages/course_outline.js:248
 msgid "Course Index"
@@ -3160,7 +3160,7 @@ msgstr ""
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
-msgstr "Đã xóa thành công sinh viên khỏi danh sách cho phép chứng chỉ."
+msgstr "Đã xóa thành công học viên khỏi danh sách cho phép chứng chỉ."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:69
 msgid ""
@@ -3519,7 +3519,7 @@ msgstr "Hiện ghi chú"
 
 #: lms/static/js/edxnotes/views/notes_visibility_factory.js:83
 msgid "Notes hidden"
-msgstr "ghi chú ẩn"
+msgstr "Ghi chú ẩn"
 
 #: lms/static/js/edxnotes/views/search_box.js:22
 msgid "Please enter a term in the {anchorStart} search field{anchorEnd}."
@@ -3690,7 +3690,7 @@ msgstr ""
 
 #: lms/static/js/groups/views/cohorts.js:269
 msgid "Assign students to cohorts by uploading a CSV file."
-msgstr "Chỉ định học sinh vào nhóm thuần tập bằng cách tải lên tệp CSV."
+msgstr "Phân công học viên vào nhóm bằng cách tải lên tệp CSV."
 
 #: lms/static/js/groups/views/cohorts.js:270
 msgid "Choose a .csv file"
@@ -3702,7 +3702,7 @@ msgstr "Chỉ các tệp .csv được định dạng đúng mới được ch�
 
 #: lms/static/js/groups/views/cohorts.js:272
 msgid "Upload File and Assign Students"
-msgstr "Tải tệp lên và phân công học sinh"
+msgstr "Tải tệp lên và phân công học viên"
 
 #: lms/static/js/groups/views/cohorts.js:278
 msgid ""
@@ -3721,11 +3721,11 @@ msgstr "Nhóm thuần tập bị vô hiệu hóa"
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
-msgstr "Cho phép sinh viên tạo chứng chỉ cho khóa học này?"
+msgstr "Cho phép học viên tạo chứng chỉ cho khóa học này?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:22
 msgid "Prevent students from generating certificates in this course?"
-msgstr "Ngăn chặn sinh viên tạo chứng chỉ trong khóa học này?"
+msgstr "Ngăn chặn học viên tạo chứng chỉ trong khóa học này?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:45
 msgid "Start generating certificates for all students in this course?"
@@ -3770,7 +3770,7 @@ msgstr "Lỗi tạo kết quả khảo sát. Vui lòng thử lại."
 #: lms/static/js/instructor_dashboard/data_download.js:201
 #: lms/static/js/instructor_dashboard/data_download_2.js:47
 msgid "Error generating student profile information. Please try again."
-msgstr "Lỗi tạo thông tin hồ sơ sinh viên. Vui lòng thử lại."
+msgstr "Lỗi tạo thông tin hồ sơ học viên. Vui lòng thử lại."
 
 #: lms/static/js/instructor_dashboard/data_download.js:227
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmarks_list.js:23
@@ -3786,7 +3786,7 @@ msgstr "Lỗi lấy danh sách sinh viên."
 #: lms/static/js/instructor_dashboard/data_download.js:301
 #: lms/static/js/instructor_dashboard/data_download_2.js:50
 msgid "Error generating list of students who may enroll. Please try again."
-msgstr "Lỗi khi tạo danh sách sinh viên có thể đăng ký. Vui lòng thử lại."
+msgstr "Lỗi khi tạo danh sách học viên có thể đăng ký. Vui lòng thử lại."
 
 #: lms/static/js/instructor_dashboard/data_download.js:333
 msgid "Error retrieving grading configuration."
@@ -7241,7 +7241,7 @@ msgstr "Tên giảng viên"
 
 #: cms/templates/js/course-instructor-details.underscore:5
 msgid "Please add the instructor's name"
-msgstr "Vui lòng thêm tên người hướng dẫn"
+msgstr "Vui lòng thêm tên giảng viên"
 
 #: cms/templates/js/course-instructor-details.underscore:10
 msgid "Instructor Title"
@@ -7249,7 +7249,7 @@ msgstr "Chức danh giảng viên"
 
 #: cms/templates/js/course-instructor-details.underscore:11
 msgid "Please add the instructor's title"
-msgstr "Vui lòng thêm chức danh của người hướng dẫn"
+msgstr "Vui lòng thêm chức danh giảng viên"
 
 #: cms/templates/js/course-instructor-details.underscore:15
 #: cms/templates/js/signatory-details.underscore:21

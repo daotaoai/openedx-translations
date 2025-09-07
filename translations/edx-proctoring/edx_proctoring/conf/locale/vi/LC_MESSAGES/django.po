@@ -3,12 +3,12 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-proctoring\n"
@@ -127,7 +127,7 @@ msgstr "Kết quả giám sát cho {course_name} {exam_name}"
 
 #: api.py:2238
 msgid "Taking As Proctored Exam"
-msgstr "Tham dự kỳ thi được giám sát"
+msgstr "Làm bài thi được giám sát"
 
 #: api.py:2243
 msgid "Proctored Option Available"
@@ -135,7 +135,7 @@ msgstr "Tùy chọn được giám sát có sẵn"
 
 #: api.py:2248
 msgid "Taking As Open Exam"
-msgstr "Tham gia kỳ thi mở"
+msgstr "Làm bài thi mở"
 
 #: api.py:2253 api.py:2258
 msgid "Pending Session Review"
@@ -271,7 +271,7 @@ msgstr ""
 "\n"
 "Bài kiểm tra được giám sát của bạn &quot; %(exam_name)s &quot; trong\n"
 " <a href=\"%(course_url)s\">%(course_name)s</a> đã được xem xét và\n"
-" nhóm khóa học đã xác định được một hoặc nhiều hành vi vi phạm các quy định của kỳ thi được giám sát. Ví dụ\n"
+" ban quản lý khóa học đã xác định được một hoặc nhiều hành vi vi phạm các quy định của kỳ thi được giám sát. Ví dụ\n"
 " các vấn đề có thể dẫn đến vi phạm quy tắc bao gồm việc duyệt\n"
 " internet, giấy tờ tùy thân bị mờ hoặc thiếu ảnh, sử dụng điện thoại,\n"
 " hoặc nhận được sự giúp đỡ từ người khác. Do (các) vấn đề được xác định,\n"

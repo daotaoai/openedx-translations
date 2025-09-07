@@ -3,7 +3,7 @@
   "exam.apiError.supportText.withLink": "Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ với {supportLink} để được hỗ trợ và quay lại bài kiểm tra sau khi bạn nhận được hướng dẫn thêm.",
   "exam.apiError.default": "Đã xảy ra lỗi hệ thống với bài kiểm tra của bạn.",
   "exam.apiError.supportText.withoutLink": "Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ với bộ phận hỗ trợ để được trợ giúp và quay lại bài kiểm tra sau khi bạn nhận được hướng dẫn thêm.",
-  "exam.proctoredExamDenied": "Bạn không có quyền truy cập vào các bài kiểm tra được giám sát với ghi danh hiện tại của bạn.",
+  "exam.proctoredExamDenied": "Bạn không có quyền truy cập vào các bài kiểm tra được giám sát với đăng ký hiện tại của bạn.",
   "exam.ExpiredExamInstructions.title": "Đã hết hạn nộp bài thi này",
   "exam.ExpiredExamInstructions.body": "Vì đã quá hạn nộp nên bạn không thể tham gia kỳ thi này được nữa.",
   "exam.RejectedProctoredExamInstructions.note": "Nếu bạn lo ngại về kết quả buổi giám sát của mình, hãy liên hệ với nhóm khóa học của bạn.",
