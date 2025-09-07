@@ -2,12 +2,12 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -182,8 +182,8 @@ msgid ""
 "This may be helpful either for course improvement, or to give students a "
 "chance to reflect on what they have done."
 msgstr ""
-"XBlock này cho phép bạn thu thập phản hồi của sinh viên về các phần của khóa"
-" học. Điều này có thể hữu ích cho việc cải thiện khóa học hoặc giúp sinh "
+"XBlock này cho phép bạn thu thập phản hồi của học viên về các phần của khóa"
+" học. Điều này có thể hữu ích cho việc cải thiện khóa học hoặc giúp học "
 "viên có cơ hội suy ngẫm về những gì họ đã làm."
 
 #: templates/html/studio_view.html:9

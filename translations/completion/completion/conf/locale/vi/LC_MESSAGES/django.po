@@ -2,11 +2,11 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -37,7 +37,7 @@ msgstr "Không tìm thấy khóa &#39;{key}&#39;."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
-msgstr "Người dùng không được ghi danh vào khóa học."
+msgstr "Người dùng không được đăng ký vào khóa học."
 
 #: api/v1/views.py:115
 msgid "Invalid learning context key: {}"

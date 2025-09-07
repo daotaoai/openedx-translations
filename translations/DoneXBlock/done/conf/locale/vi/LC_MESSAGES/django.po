@@ -2,10 +2,10 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: done.py:146
 msgid "Problem Weight"
-msgstr "Vấn đề cân nặng"
+msgstr "Trọng số bài tập"
 
 #: done.py:148
 msgid ""

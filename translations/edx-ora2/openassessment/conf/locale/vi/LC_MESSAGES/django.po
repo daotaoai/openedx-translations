@@ -3,11 +3,11 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-ora2\n"
@@ -1138,7 +1138,7 @@ msgid ""
 "Your submission has been cancelled. You will receive a grade of zero unless "
 "course staff resets your assessment to allow you to resubmit a response."
 msgstr ""
-"Việc gửi của bạn đã bị hủy. Bạn sẽ nhận được điểm 0 trừ khi nhân viên khóa "
+"Việc gửi của bạn đã bị hủy. Bạn sẽ nhận được điểm 0 trừ khi ban quản lý khóa "
 "học đặt lại đánh giá của bạn để cho phép bạn gửi lại câu trả lời."
 
 #: templates/legacy/message/oa_message_closed.html:8
@@ -2033,7 +2033,7 @@ msgstr ""
 
 #: templates/legacy/staff/oa_staff_grade.html:13 xblock/grade_mixin.py:369
 msgid "Staff Grade"
-msgstr "Điểm bậc nhân viên"
+msgstr "Điểm của giảng viên"
 
 #: templates/legacy/staff_area/oa_staff_area.html:8
 #: templates/legacy/staff_area/oa_staff_area.html:35

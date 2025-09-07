@@ -2,12 +2,12 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # Hoang Truong <truonganhhoang@gmail.com>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -684,20 +684,20 @@ msgstr ""
 "Tệp .csv phải có một cột địa chỉ email, được biểu thị bằng tiêu đề "
 "&#39;email&#39; ở hàng đầu tiên. Theo tùy chọn, tệp .csv có thể chứa một cột"
 " tất nhiên các khóa chạy khóa học, được biểu thị bằng tiêu đề "
-"&#39;course_id&#39; ở hàng đầu tiên, để ghi danh người học vào nhiều khóa "
+"&#39;course_id&#39; ở hàng đầu tiên, để đăng ký người học vào nhiều khóa "
 "học."
 
 #: enterprise/admin/forms.py:68
 msgid "Enroll these learners in this course"
-msgstr "Ghi danh những người học này vào khóa học này"
+msgstr "Đăng ký những người học này vào khóa học này"
 
 #: enterprise/admin/forms.py:69
 msgid "To enroll learners in a course, enter a course ID."
-msgstr "Để ghi danh người học vào một khóa học, hãy nhập ID khóa học."
+msgstr "Để đăng ký người học vào một khóa học, hãy nhập ID khóa học."
 
 #: enterprise/admin/forms.py:72
 msgid "Course enrollment track"
-msgstr "Lộ trình ghi danh khóa học"
+msgstr "Lộ trình đăng ký khóa học"
 
 #: enterprise/admin/forms.py:74 enterprise/api/v1/serializers.py:1629
 msgid "Audit"
@@ -2575,16 +2575,16 @@ msgid ""
 " I enrolled in (audit or verified) and the date when I enrolled in each "
 "course or program"
 msgstr ""
-"Những khóa học và/hoặc chương trình nào tôi đã ghi danh hoặc hủy ghi danh, "
-"tôi đã ghi danh theo lộ trình nào (kiểm tra hoặc xác minh) và ngày tôi ghi "
-"danh vào mỗi khóa học hoặc chương trình"
+"Những khóa học và/hoặc chương trình nào tôi đã đăng ký hoặc hủy đăng ký, "
+"tôi đã đăng ký theo lộ trình nào (kiểm tra hoặc xác minh) và ngày tôi đăng "
+"ký vào mỗi khóa học hoặc chương trình"
 
 #: enterprise/views.py:402
 msgid ""
 "Information about each course or program I've enrolled in, including its "
 "duration and level of effort required"
 msgstr ""
-"Thông tin về từng khóa học hoặc chương trình tôi đã ghi danh, bao gồm thời "
+"Thông tin về từng khóa học hoặc chương trình tôi đã đăng ký, bao gồm thời "
 "lượng và mức độ nỗ lực cần có"
 
 #: enterprise/views.py:406
@@ -2743,11 +2743,11 @@ msgstr "Chọn một tổ chức"
 
 #: enterprise/views.py:1264
 msgid "Instructor-Paced"
-msgstr "Nhịp độ của người hướng dẫn"
+msgstr "Nhịp độ của giảng viên"
 
 #: enterprise/views.py:1265
 msgid "Self-Paced"
-msgstr "tự chủ"
+msgstr "Tự chủ"
 
 #: enterprise/views.py:1451
 msgid "FREE"

@@ -46,7 +46,7 @@ msgstr ""
 
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
 msgid "Course team user does not exist"
-msgstr "Người dùng nhóm khóa học không tồn tại"
+msgstr "Người dùng ban quản lý khóa học không tồn tại"
 
 #: cms/djangoapps/contentstore/admin.py:47
 #, python-brace-format
@@ -57,16 +57,16 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/admin.py:51
 msgid "Regenerate selected course outlines"
-msgstr "Tạo lại đề cương khóa học đã chọn"
+msgstr "Tạo lại cấu trúc khóa học đã chọn"
 
 #: cms/djangoapps/contentstore/admin.py:59
 msgid "All course outline regenerations successfully requested."
 msgstr ""
-"Tất cả các yêu cầu tái tạo đề cương khóa học đã được yêu cầu thành công."
+"Tất cả các yêu cầu tái tạo cấu trúc khóa học đã được yêu cầu thành công."
 
 #: cms/djangoapps/contentstore/admin.py:60
 msgid "Regenerate *all* course outlines"
-msgstr "Tạo lại *tất cả* đề cương khóa học"
+msgstr "Tạo lại *tất cả* cấu trúc khóa học"
 
 #: cms/djangoapps/contentstore/asset_storage_handlers.py:548
 msgid "Upload completed"
@@ -84,8 +84,8 @@ msgid ""
 "The groups in this configuration can be mapped to cohorts in the Instructor "
 "Dashboard."
 msgstr ""
-"Các nhóm trong cấu hình này có thể được ánh xạ tới các nhóm trong Bảng thông"
-" tin dành cho người hướng dẫn."
+"Các nhóm trong cấu hình này có thể được ánh xạ tới các nhóm trong Bảng điều khiển"
+" Giảng viên."
 
 #: cms/djangoapps/contentstore/course_group_config.py:30
 #: cms/templates/group_configurations.html:96
@@ -99,15 +99,15 @@ msgstr "JSON không hợp lệ"
 
 #: cms/djangoapps/contentstore/course_group_config.py:74
 msgid "must have name of the configuration"
-msgstr "phải có tên cấu hình"
+msgstr "Phải có tên cấu hình"
 
 #: cms/djangoapps/contentstore/course_group_config.py:76
 msgid "must have at least one group"
-msgstr "phải có ít nhất một nhóm"
+msgstr "Phải có ít nhất một nhóm"
 
 #: cms/djangoapps/contentstore/course_group_config.py:114
 msgid "unable to load this type of group configuration"
-msgstr "không thể tải loại cấu hình nhóm này"
+msgstr "Không thể tải loại cấu hình nhóm này"
 
 #: cms/djangoapps/contentstore/course_info_model.py:74
 #: cms/djangoapps/contentstore/course_info_model.py:159
@@ -183,7 +183,7 @@ msgstr "Tệp lưu trữ không an toàn. Đang hủy nhập khẩu."
 
 #: cms/djangoapps/contentstore/errors.py:18
 msgid "User permission denied."
-msgstr "Quyền của người dùng bị từ chối."
+msgstr "Quyền truy cập bị từ chối."
 
 #: cms/djangoapps/contentstore/git_export_utils.py:36
 #, python-brace-format
@@ -244,7 +244,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/git_export_utils.py:52
 msgid "Bad course location provided"
-msgstr "Vị trí khóa học xấu được cung cấp"
+msgstr "Vị trí khóa học được cung cấp không hợp lệ"
 
 #: cms/djangoapps/contentstore/git_export_utils.py:53
 msgid "Missing branch on fresh clone"
@@ -263,7 +263,7 @@ msgstr "Phần"
 #: cms/djangoapps/contentstore/helpers.py:209
 #: lms/templates/ccx/schedule.html:90
 msgid "Subsection"
-msgstr "tiểu mục"
+msgstr "Tiểu mục"
 
 #: cms/djangoapps/contentstore/helpers.py:211
 #: lms/djangoapps/instructor/views/tools.py:241
@@ -271,7 +271,7 @@ msgstr "tiểu mục"
 #: lms/templates/ccx/schedule.html:94 lms/templates/seq_block.html:89
 #: lms/templates/seq_block.html:97
 msgid "Unit"
-msgstr "Đơn vị"
+msgstr "Bài học"
 
 #: cms/djangoapps/contentstore/helpers.py:218
 #: cms/djangoapps/contentstore/views/component.py:283
@@ -347,7 +347,7 @@ msgstr "Đúng nếu có thể sắp xếp lại thứ tự tab trong danh sách
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:29
 msgid "True if this tab should be displayed only for instructors"
-msgstr "Đúng nếu tab này chỉ được hiển thị cho người hướng dẫn"
+msgstr "Đúng nếu tab này chỉ được hiển thị cho giảng viên"
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:33
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:37
@@ -593,12 +593,12 @@ msgstr ""
 #: cms/djangoapps/contentstore/video_utils.py:48
 #, python-brace-format
 msgid "This image file must be smaller than {image_max_size}."
-msgstr "Tệp hình ảnh này phải nhỏ hơn {image_max_size} ."
+msgstr "Tệp hình ảnh này phải nhỏ hơn {image_max_size}."
 
 #: cms/djangoapps/contentstore/video_utils.py:52
 #, python-brace-format
 msgid "This image file must be larger than {image_min_size}."
-msgstr "File ảnh này phải lớn hơn {image_min_size} ."
+msgstr "Tệp ảnh này phải lớn hơn {image_min_size}."
 
 #: cms/djangoapps/contentstore/video_utils.py:59
 #: cms/djangoapps/contentstore/video_utils.py:61
@@ -988,7 +988,7 @@ msgstr "Bạn không thể di chuyển một mục trực tiếp vào thử nghi
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:769
 #, python-brace-format
 msgid "{source_usage_key} not found in {parent_usage_key}."
-msgstr "không tìm thấy {source_usage_key} trong {parent_usage_key} ."
+msgstr "Không tìm thấy {source_usage_key} trong {parent_usage_key}."
 
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:781
 #, python-brace-format
@@ -1009,7 +1009,7 @@ msgstr ""
 msgid ""
 "Students must score {score}{pct_sign} or higher to access course materials."
 msgstr ""
-"Học sinh phải đạt điểm {score} {pct_sign} trở lên để truy cập tài liệu khóa "
+"Học viên phải đạt điểm {score} {pct_sign} trở lên để truy cập tài liệu khóa "
 "học."
 
 #. Translators: This is the percent sign. It will be used to represent
@@ -1079,7 +1079,7 @@ msgstr "Từ điển với các thẻ có sẵn"
 
 #: cms/lib/xblock/upstream_sync.py:70
 msgid "Content is not linked to a Content Library."
-msgstr "nội dung không được liên kết với Thư viện nội dung ."
+msgstr "Nội dung không được liên kết với Thư viện nội dung."
 
 #: cms/lib/xblock/upstream_sync.py:168
 msgid "Cannot update content because it does not belong to a course."
@@ -1139,7 +1139,7 @@ msgstr ""
 
 #: common/djangoapps/course_modes/helpers.py:42
 msgid "You're enrolled as a verified student"
-msgstr "Bạn đã được ghi danh là sinh viên đã được xác minh"
+msgstr "Bạn đã được ghi danh là học viên đã được xác minh"
 
 #: common/djangoapps/course_modes/helpers.py:43
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:16
@@ -1152,7 +1152,7 @@ msgstr "Dải băng/Huy hiệu đã được xác minh ID"
 
 #: common/djangoapps/course_modes/helpers.py:47
 msgid "You're enrolled as an honor code student"
-msgstr "Bạn đã được ghi danh là sinh viên mã danh dự"
+msgstr "Bạn đã được ghi danh là học viên theo mã danh dự"
 
 #: common/djangoapps/course_modes/helpers.py:48
 #: lms/djangoapps/branding/api.py:329 lms/djangoapps/branding/api.py:404
@@ -1296,11 +1296,11 @@ msgstr ""
 
 #: common/djangoapps/course_modes/views.py:268
 msgid "Enrollment is closed"
-msgstr "Ghi danh đã đóng"
+msgstr "Đăng ký đã đóng"
 
 #: common/djangoapps/course_modes/views.py:283
 msgid "Enrollment mode not supported"
-msgstr "Chế độ ghi danh không được hỗ trợ"
+msgstr "Chế độ đăng ký không được hỗ trợ"
 
 #: common/djangoapps/course_modes/views.py:314
 msgid "Invalid amount selected."
@@ -1571,7 +1571,7 @@ msgstr "Thêm lý do"
 
 #: common/djangoapps/student/views/dashboard.py:142
 msgid " and "
-msgstr " Và "
+msgstr " và "
 
 #: common/djangoapps/student/views/dashboard.py:285
 msgid "Photos are mismatched"
@@ -3910,7 +3910,7 @@ msgstr "Hỗ trợ tài chính"
 
 #: lms/djangoapps/courseware/courses.py:648
 msgid "Assignment"
-msgstr "Phân công"
+msgstr "Bài tập"
 
 #: lms/djangoapps/courseware/courses.py:739
 msgid "Open Response Assessment"
@@ -3934,11 +3934,11 @@ msgstr "Đánh giá ngang hàng"
 
 #: lms/djangoapps/courseware/courses.py:777
 msgid "Staff Assessment"
-msgstr "Đánh giá nhân viên"
+msgstr "Đánh giá của giảng viên"
 
 #: lms/djangoapps/courseware/courses.py:779
 msgid "Submission"
-msgstr "Nộp hồ sơ"
+msgstr "Bài nộp"
 
 #. Translators: 'absolute' is a date such as "Jan 01,
 #. 2020". 'relative' is a fuzzy description of the time until
@@ -4199,7 +4199,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/plugins.py:271
 msgid "Flexible Peer Grading for ORAs"
-msgstr "Xếp hạng ngang hàng linh hoạt cho ORA"
+msgstr "Chấm điểm ngang hàng linh hoạt cho ORA"
 
 #: lms/djangoapps/courseware/plugins.py:272
 msgid ""
@@ -4913,7 +4913,7 @@ msgstr "Khóa người dùng bên ngoài"
 
 #: lms/djangoapps/instructor/views/api.py:1521
 msgid "Cohort"
-msgstr "Đội quân"
+msgstr "Nhóm"
 
 #: lms/djangoapps/instructor/views/api.py:1525
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:770
@@ -4997,12 +4997,12 @@ msgstr "Đã xảy ra lỗi khi xóa điểm."
 
 #: lms/djangoapps/instructor/views/api.py:1971
 msgid "An error occurred while attempting to reset for all students."
-msgstr "Đã xảy ra lỗi khi cố gắng thiết lập lại cho tất cả học sinh."
+msgstr "Đã xảy ra lỗi khi cố gắng thiết lập lại cho tất cả học viên."
 
 #: lms/djangoapps/instructor/views/api.py:2008
 #: lms/djangoapps/instructor/views/api.py:2236
 msgid "Course has no entrance exam section."
-msgstr "Khóa học không có phần thi đầu vào."
+msgstr "Khóa học không có phần kiểm tra đầu vào."
 
 #: lms/djangoapps/instructor/views/api.py:2023
 msgid "all_students and unique_student_identifier are mutually exclusive."
@@ -5014,18 +5014,18 @@ msgstr "all_students và delete_module loại trừ lẫn nhau."
 
 #: lms/djangoapps/instructor/views/api.py:2033
 msgid "Requires instructor access."
-msgstr "Yêu cầu quyền truy cập của người hướng dẫn."
+msgstr "Yêu cầu quyền truy cập giảng viên."
 
 #: lms/djangoapps/instructor/views/api.py:2050
 #: lms/djangoapps/instructor/views/api.py:2247
 #: lms/djangoapps/instructor/views/api.py:2555
 msgid "Course has no valid entrance exam section."
-msgstr "Khóa học không có phần thi đầu vào hợp lệ."
+msgstr "Khóa học không có phần kiểm tra đầu vào hợp lệ."
 
 #: lms/djangoapps/instructor/views/api.py:2052
 #: lms/djangoapps/instructor/views/api.py:2253
 msgid "All Students"
-msgstr "Tất cả sinh viên"
+msgstr "Tất cả học viên"
 
 #: lms/djangoapps/instructor/views/api.py:2241
 msgid "Cannot rescore with all_students and unique_student_identifier."
@@ -5038,11 +5038,11 @@ msgstr "Trạng thái hiện tại của nhiệm vụ."
 
 #: lms/djangoapps/instructor/views/api.py:2325
 msgid "Identifies the kind of task being performed, e.g. rescoring."
-msgstr "Xác định loại nhiệm vụ đang được thực hiện, ví dụ như ghi lại."
+msgstr "Xác định loại nhiệm vụ đang được thực hiện, ví dụ như chấm điểm lại."
 
 #: lms/djangoapps/instructor/views/api.py:2326
 msgid "The celery ID for the task."
-msgstr "ID cần tây cho nhiệm vụ."
+msgstr "ID Celery cho nhiệm vụ."
 
 #: lms/djangoapps/instructor/views/api.py:2327
 msgid "The date and time when the task was created."
@@ -5064,7 +5064,7 @@ msgstr "Tên tài khoản của người dùng đã bắt đầu tác vụ này.
 
 #: lms/djangoapps/instructor/views/api.py:2335
 msgid "The last knows state of the celery task."
-msgstr "Người cuối cùng biết trạng thái của nhiệm vụ cần tây."
+msgstr "Trạng thái cuối cùng được biết của nhiệm vụ Celery."
 
 #: lms/djangoapps/instructor/views/api.py:2336
 msgid "Task duration information, if known"
@@ -7503,7 +7503,7 @@ msgstr "sửa đổi"
 #: lms/templates/wiki/plugins/attachments/index.html:130
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:69
 msgid "There are no attachments for this article."
-msgstr "Không có file đính kèm trong bài viết này."
+msgstr "Không có tệp đính kèm trong bài viết này."
 
 #: lms/templates/wiki/preview_inline.html:13
 msgid "Previewing revision:"
@@ -11348,7 +11348,7 @@ msgstr "Liệu học sinh đã trả lời được vấn đề chưa"
 
 #: xmodule/capa_block.py:310
 msgid "Random seed for this student"
-msgstr "Hạt giống ngẫu nhiên cho học sinh này"
+msgstr "Hạt giống ngẫu nhiên cho học viên này"
 
 #: xmodule/capa_block.py:311
 msgid "Last submission time"
@@ -11368,7 +11368,7 @@ msgstr ""
 
 #: xmodule/capa_block.py:318
 msgid "Problem Weight"
-msgstr "Vấn đề cân nặng"
+msgstr "Trọng số bài tập"
 
 #: xmodule/capa_block.py:319
 msgid ""
@@ -13048,7 +13048,7 @@ msgstr ""
 
 #: xmodule/lti_block.py:198
 msgid "Weight"
-msgstr "Cân nặng"
+msgstr "Trọng số"
 
 #: xmodule/lti_block.py:200
 msgid ""
@@ -14614,7 +14614,7 @@ msgstr "Tệp %s đã bị xóa."
 #: wiki/plugins/attachments/views.py:235
 #, python-format
 msgid "This article is no longer related to the file %s."
-msgstr "Bài viết này không còn liên quan đến file %s nữa."
+msgstr "Bài viết này không còn liên quan đến tệp %s nữa."
 
 #: wiki/plugins/attachments/wiki_plugin.py:35
 #, python-format
@@ -18182,7 +18182,7 @@ msgstr "Ngay khi đi qua"
 
 #: cms/templates/settings.html:260
 msgid "End date of course"
-msgstr "Tất nhiên ngày kết thúc khóa học"
+msgstr "Ngày kết thúc khóa học"
 
 #: cms/templates/settings.html:261 cms/templates/settings.html:284
 msgid "A date after the course end date"
@@ -18361,7 +18361,7 @@ msgstr ""
 
 #: cms/templates/settings.html:428
 msgid "Course Overview"
-msgstr "Tổng quan về nhiên"
+msgstr "Tổng quan khóa học"
 
 #: cms/templates/settings.html:431
 msgid "HTML Code Editor"
@@ -25127,7 +25127,7 @@ msgstr "Tất cả người học"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:44
 msgid "Cohort: "
-msgstr "Đội quân: "
+msgstr "Nhóm: "
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:48
 msgid "(Learners not explicitly assigned to a cohort)"
