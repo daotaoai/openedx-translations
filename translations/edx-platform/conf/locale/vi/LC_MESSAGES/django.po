@@ -4227,7 +4227,7 @@ msgstr "giáo trình"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "ngày"
+msgstr "Ngày"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -5319,7 +5319,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:78
 msgid "Instructor"
-msgstr "Người hướng dẫn"
+msgstr "Giảng viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:157
 #, python-brace-format
@@ -12765,7 +12765,7 @@ msgstr ""
 
 #: xmodule/html_block.py:78
 msgid "Editor"
-msgstr "Biên tập viên"
+msgstr "Trình soạn thảo"
 
 #: xmodule/html_block.py:81
 msgid "Visual"
@@ -12773,7 +12773,7 @@ msgstr "Thị giác"
 
 #: xmodule/html_block.py:82
 msgid "Raw"
-msgstr "thô"
+msgstr "Thô"
 
 #: xmodule/html_block.py:399
 msgid "Hide Page From Learners"

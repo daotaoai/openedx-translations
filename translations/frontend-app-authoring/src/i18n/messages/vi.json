@@ -1987,7 +1987,7 @@
   "course-authoring.textbooks.form.chapter.title.helper-text": "cung cấp tiêu đề/tên của chương sẽ được sử dụng trong điều hướng",
   "course-authoring.textbooks.form.chapter.title.validation-text": "Tên chương là bắt buộc",
   "course-authoring.textbooks.form.chapter.url.label": "Tài sản chương",
-  "course-authoring.textbooks.form.chapter.url.placeholder": "đường-dẫn/đến/nhậpMônNướngBánhQuy-CH1.pdf",
+  "course-authoring.textbooks.form.chapter.url.placeholder": "path/to/introductionToCookieBaking-CH1.pdf",
   "course-authoring.textbooks.form.chapter.url.helper-text": "tải lên file PDF hoặc cung cấp đường dẫn đến file tài sản Studio",
   "course-authoring.textbooks.form.chapter.url.validation-text": "Tài sản chương là bắt buộc",
   "course-authoring.textbooks.form.add-chapter.helper-text": "Vui lòng thêm ít nhất một chương",

@@ -109,7 +109,7 @@
   "account.settings.field.social.platform.name.facebook.empty": "Thêm hồ sơ Facebook",
   "account.settings.editable.field.action.save": "Lưu",
   "account.settings.editable.field.action.cancel": "Hủy bỏ",
-  "account.settings.editable.field.action.edit": "Biên tập",
+  "account.settings.editable.field.action.edit": "Sửa",
   "account.settings.static.field.empty": "Không có giá trị nào được đặt. Hãy liên hệ với quản trị viên {enterprise} của bạn để thực hiện thay đổi.",
   "account.settings.static.field.empty.no.admin": "Không có giá trị nào được đặt.",
   "notification.preferences.notifications.label": "Thông báo",
