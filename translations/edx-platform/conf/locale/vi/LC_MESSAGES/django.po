@@ -15727,7 +15727,7 @@ msgstr "Tìm hiểu thêm về vùng chứa thành phần"
 
 #: cms/templates/container.html:262
 msgid "Unit Location"
-msgstr "Vị trí đơn vị"
+msgstr "Đường dẫn Bài học"
 
 #: cms/templates/container.html:264
 msgid "Location ID"
@@ -16152,7 +16152,7 @@ msgstr "Tìm hiểu thêm về cài đặt hiển thị nội dung"
 #: cms/templates/edit-tabs.html:48 cms/templates/textbooks.html:57
 #: cms/templates/widgets/header.html:130
 msgid "Pages & Resources"
-msgstr "Trang &amp; Tài nguyên"
+msgstr "Trang & Tài liệu"
 
 #. Translators: Custom Pages refer to the tabs that appear in the top
 #. navigation of each course.
@@ -18000,7 +18000,7 @@ msgstr "Cài đặt lịch trình &amp; chi tiết"
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:171
 #: cms/templates/widgets/header.html:176
 msgid "Schedule & Details"
-msgstr "Lịch trình &amp; Chi tiết"
+msgstr "Lịch học & Thông tin chi tiết"
 
 #: cms/templates/settings.html:66
 msgid "Basic Information"
@@ -18756,11 +18756,11 @@ msgstr ""
 
 #: cms/templates/settings_graders.html:121
 msgid "Grace Period on Deadline:"
-msgstr "Thời gian ân hạn theo thời hạn:"
+msgstr "Thời gian ân hạn sau hạn chót:"
 
 #: cms/templates/settings_graders.html:123
 msgid "Leeway on due dates"
-msgstr "Leeway vào ngày đáo hạn"
+msgstr "Thời gian nộp trễ được phép"
 
 #: cms/templates/settings_graders.html:131
 msgid "Assignment Types"

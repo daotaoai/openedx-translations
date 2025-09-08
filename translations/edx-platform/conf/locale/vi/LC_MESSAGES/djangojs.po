@@ -8188,7 +8188,7 @@ msgstr "Nhân viên và Người học"
 #: cms/templates/js/publish-xblock.underscore:108
 #: cms/templates/js/staff-lock-editor.underscore:37
 msgid "Hide from learners"
-msgstr "Ẩn khỏi người học"
+msgstr "Ẩn với học viên"
 
 #: cms/templates/js/publish-xblock.underscore:113
 msgid "Note: Do not hide graded assignments after they have been released."

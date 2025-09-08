@@ -581,7 +581,7 @@
   "course-authoring.course-unit.sidebar.title.published.live": "Đã xuất bản và hoạt động",
   "course-authoring.course-unit.sidebar.title.draft.unpublished": "Bản nháp (thay đổi chưa xuất bản)",
   "course-authoring.course-unit.sidebar.title.published.not-yet-released": "Đã xuất bản (chưa phát hành)",
-  "course-authoring.course-unit.sidebar.header.unit-location.title": "Vị trí đơn vị",
+  "course-authoring.course-unit.sidebar.header.unit-location.title": "Đường dẫn Bài học",
   "course-authoring.course-unit.sidebar.body.note": "Lưu ý: Không ẩn các bài tập được chấm điểm sau khi chúng đã được phát hành.",
   "course-authoring.course-unit.publish.info.previously-published": "Đã xuất bản trước đó",
   "course-authoring.course-unit.publish.info.draft.saved": "Bản nháp đã lưu vào {editedOn} bởi {editedBy}",
