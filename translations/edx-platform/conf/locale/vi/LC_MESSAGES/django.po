@@ -26621,14 +26621,6 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
 
-#: xmodule/exam_result_module.py:88
-msgid "Display Name"
-msgstr "Tên hiển thị"
-
-#: xmodule/exam_result_module.py:89
-msgid "The display name for this component."
-msgstr "Tên hiển thị cho thành phần này."
-
 #: xmodule/exam_result_module.py:95
 msgid "Hide email of student"
 msgstr "Ẩn email của học viên"
@@ -26717,10 +26709,6 @@ msgstr "Ẩn bảng câu trả lời"
 msgid "Select \"True\" if you want to hide the answer table"
 msgstr "Chọn \"True\" nếu bạn muốn ẩn bảng câu trả lời"
 
-#: xmodule/exam_result_module.py:216
-msgid "submitted"
-msgstr "đã nộp"
-
 #: xmodule/exam_result_module.py:377
 msgid "Information"
 msgstr "Thông tin"
@@ -26732,14 +26720,6 @@ msgstr "Họ và tên"
 #: xmodule/exam_result_module.py:379
 msgid "Account name"
 msgstr "Tên tài khoản"
-
-#: xmodule/exam_result_module.py:380
-msgid "Email"
-msgstr "Email"
-
-#: xmodule/exam_result_module.py:381
-msgid "Exam"
-msgstr "Bài thi"
 
 #: xmodule/exam_result_module.py:385
 msgid "Auto-graded questions"
