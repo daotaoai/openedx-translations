@@ -1309,7 +1309,7 @@ msgstr "{parentCategory} này không có {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Đề cương khóa học"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"

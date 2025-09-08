@@ -15921,7 +15921,7 @@ msgstr ""
 #: cms/templates/course_outline.html:15 cms/templates/course_outline.html:205
 #: cms/templates/course_outline.html:288
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Đề cương khóa học"
 
 #: cms/templates/course_outline.html:52
 msgid ""
