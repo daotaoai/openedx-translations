@@ -1901,7 +1901,7 @@ msgstr ""
 
 #: cms/static/js/views/xblock_editor.js:49
 msgid "Editor"
-msgstr "Biên tập viên"
+msgstr "Trình soạn thảo"
 
 #: cms/static/js/views/xblock_editor.js:50
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:6
@@ -7711,7 +7711,7 @@ msgstr "Ngày"
 
 #: cms/templates/js/course_info_update.underscore:14
 msgid "Post"
-msgstr "Bưu kiện"
+msgstr "Đăng"
 
 #: cms/templates/js/discussion-editor.underscore:3
 #: common/static/common/templates/discussion/templates.underscore:727
