@@ -324,7 +324,7 @@ msgid ""
 msgstr ""
 "Thêm cặp khóa/giá trị cho bất kỳ thông số tùy chỉnh nào, chẳng hạn như trang"
 " mà sách điện tử của bạn sẽ mở tới hoặc màu nền cho thành phần này. Bán tại."
-" [&quot;trang=1&quot;, &quot;màu=trắng&quot;]<br /> Xem tài liệu "
+" [\"trang=1\", \"màu=trắng\"]<br /> Xem tài liệu "
 "{docs_anchor_open} edX LTI {anchor_close} để biết thêm chi tiết về cài đặt "
 "này."
 
@@ -507,7 +507,7 @@ msgstr "Thông số tùy chỉnh phải là một danh sách"
 
 #: lti_xblock.py:674
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "Thông số tùy chỉnh phải là chuỗi ở định dạng &quot;x=y&quot;."
+msgstr "Thông số tùy chỉnh phải là chuỗi ở định dạng \"x=y\"."
 
 #: lti_xblock.py:684
 msgid ""
@@ -515,7 +515,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "ID cấu hình có thể sử dụng lại phải được đặt khi sử dụng cấu hình bên ngoài "
-"(Ví dụ: &quot;x:y&quot;)."
+"(Ví dụ: \"x:y\")."
 
 #: lti_xblock.py:708
 msgid ""
@@ -534,7 +534,7 @@ msgid ""
 "string."
 msgstr ""
 "Không thể phân tích cú pháp hộ chiếu LTI: {lti_passport!r}. Phải là chuỗi "
-"&quot;id:key:secret&quot;."
+"\"id:key:secret\"."
 
 #: lti_xblock.py:895 lti_xblock.py:909 lti_xblock.py:925
 msgid "Could not get user id for current request"
@@ -546,7 +546,7 @@ msgid ""
 "string."
 msgstr ""
 "Không thể phân tích cú pháp thông số tùy chỉnh: {custom_parameter!r}. Phải "
-"là chuỗi &quot;x=y&quot;."
+"là chuỗi \"x=y\"."
 
 #: lti_xblock.py:1446
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -606,7 +606,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "Cấu hình LTI sử dụng cấu hình có thể tái sử dụng cần có ID bên ngoài ở định "
-"dạng &quot;x:y&quot;."
+"dạng \"x:y\"."
 
 #: models.py:267
 msgid ""

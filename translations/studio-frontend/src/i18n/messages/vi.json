@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "Đảm bảo điền vào tất cả các trường.",
   "editImageModalFormValidImageDescription": "Thêm mô tả hình ảnh hoặc chỉ định rằng hình ảnh chỉ mang tính chất trang trí.",
   "editImageModalFormValidImageDimensions": "Kích thước hình ảnh phải là số dương.",
-  "editImageModalImageDescriptionDescription": "Văn bản thay thế cho những người dùng không thể xem được hình ảnh, chẳng hạn như &quot;Bầu trời có mây&quot;.",
+  "editImageModalImageDescriptionDescription": "Văn bản thay thế cho những người dùng không thể xem được hình ảnh, chẳng hạn như \"Bầu trời có mây\".",
   "editImageModalImageDescriptionLabel": "Mô tả hình ảnh (Văn bản thay thế)",
   "editImageModalImageDescriptionLegend": "Mô tả hình ảnh",
   "editImageModalDimensionsLegend": "Kích thước hình ảnh",
