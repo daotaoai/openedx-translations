@@ -403,7 +403,7 @@ msgstr ""
 #: xmodule/video_block/video_handlers.py:463
 #, python-brace-format
 msgid "A transcript with the \"{language_code}\" language code already exists."
-msgstr "Bản ghi có mã ngôn ngữ &quot; {language_code} &quot; đã tồn tại."
+msgstr "Bản ghi có mã ngôn ngữ \"{language_code}\" đã tồn tại."
 
 #: cms/djangoapps/contentstore/transcript_storage_handlers.py:237
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:221
@@ -855,7 +855,7 @@ msgstr "Quyền truy cập bị giới hạn ở: {list_of_groups}"
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:195
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:527
 msgid "Transcripts are supported only for \"video\" blocks."
-msgstr "Bản ghi chỉ được hỗ trợ cho khối &quot;video&quot;."
+msgstr "Bản ghi chỉ được hỗ trợ cho khối \"video\"."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:198
 msgid "Cannot find item by locator."
@@ -1021,7 +1021,7 @@ msgstr "%"
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:1666
 #, python-brace-format
 msgid "{section_or_subsection} \"{display_name}\""
-msgstr "{section_or_subsection} &quot; {display_name} &quot;"
+msgstr "{section_or_subsection} \"{display_name}\""
 
 #: cms/djangoapps/course_creators/models.py:40
 msgid "unrequested"
@@ -1781,7 +1781,7 @@ msgid ""
 "\"Institution\" login providers."
 msgstr ""
 "Các nhà cung cấp thứ cấp được hiển thị ít nổi bật hơn, trong một danh sách "
-"riêng các nhà cung cấp thông tin đăng nhập &quot;Tổ chức&quot;."
+"riêng các nhà cung cấp thông tin đăng nhập \"Tổ chức\"."
 
 #: common/djangoapps/third_party_auth/models.py:158
 msgid ""
@@ -1803,8 +1803,8 @@ msgid ""
 "forwarded directly to the login URL of the provider instead of being first "
 "prompted with a login dialog."
 msgstr ""
-"Nếu tùy chọn này được bật, người dùng truy cập URL &quot;được gợi ý "
-"TPA&quot; cho nhà cung cấp này (ví dụ: URL kết thúc bằng "
+"Nếu tùy chọn này được bật, người dùng truy cập URL \"được gợi ý "
+"TPA" cho nhà cung cấp này (ví dụ: URL kết thúc bằng "
 "`?tpa_hint=[provider_name]`) sẽ được chuyển tiếp trực tiếp đến URL đăng nhập"
 " của nhà cung cấp thay vì được nhắc lần đầu bằng một hộp thoại đăng nhập."
 
@@ -2447,7 +2447,7 @@ msgid ""
 "deselected; for clarity, update XBlockStudioConfiguration support state "
 "accordingly."
 msgstr ""
-"Để tắt XBlock và ngăn hiển thị trong LMS, hãy bỏ chọn &quot;Đã bật&quot;; để"
+"Để tắt XBlock và ngăn hiển thị trong LMS, hãy bỏ chọn \"Đã bật\"; để"
 " rõ ràng, hãy cập nhật trạng thái hỗ trợ XBlockStudioConfiguration cho phù "
 "hợp."
 
@@ -2897,7 +2897,7 @@ msgid ""
 "If you set this email address, click \"confirm email.\"  If you didn't "
 "request this change, you can disregard this email."
 msgstr ""
-"Nếu bạn đặt địa chỉ email này, hãy nhấp vào &quot;xác nhận email&quot;. Nếu "
+"Nếu bạn đặt địa chỉ email này, hãy nhấp vào \"xác nhận email\". Nếu "
 "bạn không yêu cầu thay đổi này, bạn có thể bỏ qua email này."
 
 #. Translators: This label appears above a field on the registration form
@@ -2919,13 +2919,13 @@ msgid ""
 "Completed the course \"{course_name}\" ({course_mode}, {start_date} - "
 "{end_date})"
 msgstr ""
-"Đã hoàn thành khóa học &quot; {course_name} &quot; ( {course_mode} , "
+"Đã hoàn thành khóa học \"{course_name}\" ( {course_mode} , "
 "{start_date} - {end_date} )"
 
 #: lms/djangoapps/badges/events/course_complete.py:50
 #, python-brace-format
 msgid "Completed the course \"{course_name}\" ({course_mode})"
-msgstr "Đã hoàn thành khóa học &quot; {course_name} &quot; ( {course_mode} )"
+msgstr "Đã hoàn thành khóa học \"{course_name}\" ( {course_mode} )"
 
 #: lms/djangoapps/badges/models.py:15
 msgid "The badge image must be square."
@@ -3116,7 +3116,7 @@ msgstr "Tải xuống ứng dụng di động {platform_name} từ Google Play"
 #: lms/djangoapps/bulk_email/tasks.py:399
 #, python-brace-format
 msgid "\"{course_title}\" Course Staff"
-msgstr "&quot; {course_title} &quot; Nhân viên khóa học"
+msgstr "\"{course_title}\" Nhân viên khóa học"
 
 #: lms/djangoapps/ccx/plugins.py:22
 msgid "CCX Coach"
@@ -3473,7 +3473,7 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\""."
 msgstr ""
 "Chứng chỉ do {platform_name} cấp được ký bằng khóa gpg để bất kỳ ai có khóa "
 "chung {platform_name} đều có thể xác thực chúng một cách độc lập. Để xác "

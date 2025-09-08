@@ -2,11 +2,11 @@
 # Copyright (C) 2024 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2024.
-# 
+#
 # Translators:
 # Hoàng Trương <hoangta@vnu.edu.vn>, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -112,6 +112,6 @@ msgid ""
 "               "
 msgstr ""
 "Danh sách các bộ lọc SQL để áp dụng cho\n"
-" bảng điều khiển. Ví dụ: [&quot;org=&#39;edX&#39;&quot;, &quot;quốc gia ở (&#39;us&#39;, &#39;co&#39;)&quot;]\n"
+" bảng điều khiển. Ví dụ: [\"org=&#39;edX&#39;\", \"quốc gia ở (&#39;us&#39;, &#39;co&#39;)\"]\n"
 " Các trường được sử dụng ở đây phải có sẵn trên mọi tập dữ liệu được trang tổng quan sử dụng.\n"
 "               "
