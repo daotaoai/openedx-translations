@@ -1803,10 +1803,7 @@ msgid ""
 "forwarded directly to the login URL of the provider instead of being first "
 "prompted with a login dialog."
 msgstr ""
-"Nếu tùy chọn này được bật, người dùng truy cập URL \"được gợi ý "
-"TPA" cho nhà cung cấp này (ví dụ: URL kết thúc bằng "
-"`?tpa_hint=[provider_name]`) sẽ được chuyển tiếp trực tiếp đến URL đăng nhập"
-" của nhà cung cấp thay vì được nhắc lần đầu bằng một hộp thoại đăng nhập."
+"Nếu tùy chọn này được bật, người dùng truy cập URL được gợi ý TPA cho nhà cung cấp này (ví dụ: URL kết thúc bằng `?tpa_hint=[provider_name]`) sẽ được chuyển tiếp trực tiếp đến URL đăng nhập của nhà cung cấp thay vì được nhắc lần đầu bằng một hộp thoại đăng nhập."
 
 #: common/djangoapps/third_party_auth/models.py:182
 #: common/djangoapps/third_party_auth/models.py:729
@@ -3473,12 +3470,9 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\""."
+"\"detached signature\"."
 msgstr ""
-"Chứng chỉ do {platform_name} cấp được ký bằng khóa gpg để bất kỳ ai có khóa "
-"chung {platform_name} đều có thể xác thực chúng một cách độc lập. Để xác "
-"minh độc lập, {platform_name} sử dụng cái được gọi là &quot;chữ ký tách "
-"rời&quot;&quot;&quot;."
+"Chứng chỉ do {platform_name} cấp được ký bằng khóa gpg để bất kỳ ai có khóa chung {platform_name} đều có thể xác thực chúng một cách độc lập. Để xác minh độc lập, {platform_name} sử dụng cái được gọi là 'chữ ký tách rời'."
 
 #: lms/djangoapps/certificates/views/webview.py:221
 msgid "Validate this certificate for yourself"
