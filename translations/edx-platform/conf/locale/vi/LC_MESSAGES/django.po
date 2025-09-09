@@ -26758,3 +26758,11 @@ msgstr "Nội dung này chưa được giáo viên thiết lập. Vui lòng liê
 #: xmodule/exam_result_module/templates/exam_result/exam_result_module.html:9
 msgid "Report"
 msgstr "Báo cáo"
+
+#: xmodule/exam_result_module.py:79
+msgid "Result of exam"
+msgstr "Kết quả bài kiểm tra"
+
+#: xmodule/exam_result_module.py:370
+msgid "Preview not available in Studio. This block only works in LMS."
+msgstr "Không thể xem trước trong Studio. Khối này chỉ hoạt động trong LMS."
