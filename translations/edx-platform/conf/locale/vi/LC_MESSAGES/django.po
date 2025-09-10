@@ -26766,3 +26766,75 @@ msgstr "Kết quả bài kiểm tra"
 #: xmodule/exam_result_module.py:370
 msgid "Preview not available in Studio. This block only works in LMS."
 msgstr "Không thể xem trước trong Studio. Khối này chỉ hoạt động trong LMS."
+
+#: xmodule/assets/essay_question/public/html/essay_studio_view.html
+msgid "Enter the number of points possible for this component. The default value is 1."
+msgstr "Nhập số điểm có thể cho thành phần này. Giá trị mặc định là 1."
+
+#: xmodule/assets/essay_question/public/html/essay_studio_view.html
+msgid "The default value is 20 seconds."
+msgstr "Giá trị mặc định là 20 giây."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Answer have not been submitted"
+msgstr "Câu trả lời chưa được gửi"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Step 1:"
+msgstr "Bước 1:"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Export scores"
+msgstr "Xuất điểm"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Download a grading CSV and use this as a template to assign scores for this problem."
+msgstr "Tải xuống tệp CSV chấm điểm và sử dụng tệp này làm mẫu để chấm điểm cho bài tập này."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Choose a track and/or cohort:"
+msgstr "Chọn 1 track và/hoặc 1 nhóm:"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Step 2:"
+msgstr "Bước 2:"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "(On your own machine) Fill out grades"
+msgstr "(Trên máy của bạn) Điền điểm"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Open the CSV in a spreadsheet editor and assign scores to learners via “New Points” field. Leave scores that you don’t want to change blank."
+msgstr "Mở CSV trong trình chỉnh sửa bảng tính và chấm điểm cho người học thông qua trường “New Points”. Để trống những điểm mà bạn không muốn thay đổi."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Step 3:"
+msgstr "Bước 3:"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Import scores"
+msgstr "Nhập điểm"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Upload the filled out CSV. Learners will immediately see their grades after import completes."
+msgstr "Tải lên CSV đã điền. Người học sẽ thấy ngay điểm của mình sau khi quá trình nhập hoàn tất."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Note: Supports file sizes up to 4MB."
+msgstr "Lưu ý: Hỗ trợ kích thước tệp lên tới 4 MB."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Choose 'Yes' if you want prevent students copy & paste the answer."
+msgstr "Chọn 'Có' nếu bạn muốn chống sinh viên copy & paste câu trả lời."
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Prevent Copy & Paste"
+msgstr "Ngăn chặn Copy & Paste"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Export students answer"
+msgstr "Xuất câu trả lời của học viên"
+
+#: xmodule/assets/essay_question/public/html/essay_student_view.html
+msgid "Export answer"
+msgstr "Xuất câu trả lời"
