@@ -11408,3 +11408,39 @@ msgstr "Câu trả lời đã được lưu."
 #: xmodule/assets/essay_question/public/js/src/essay_student_view.js
 msgid "Something went wrong on the server. Please contact to the admin."
 msgstr "Đã xảy ra lỗi trên máy chủ. Vui lòng liên hệ với quản trị viên"
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "Files must be less than 4MB. Please split the file into smaller chunks and upload again."
+msgstr "Tệp phải nhỏ hơn 4MB. Vui lòng chia tệp thành các phần nhỏ hơn và tải lên lại."
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "The file format is invalid. Please check it again"
+msgstr "Định dạng tệp không hợp lệ. Vui lòng kiểm tra lại"
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "{error_count} error. Please try again. "
+msgstr "Có {error_count} lỗi. Vui lòng thử lại. "
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "{error_count} errors. Please try again. "
+msgstr "Có {error_count} lỗi. Vui lòng thử lại. "
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "Processed {row_count} row. "
+msgstr "Đã xử lý {row_count} dòng. "
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "Processed {row_count} rows. "
+msgstr "Đã xử lý {row_count} dòng. "
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "Updated scores for {row_count} learner."
+msgstr "Đã cập nhật điểm cho {row_count} học viên."
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "Updated scores for {row_count} learners."
+msgstr "Đã cập nhật điểm cho {row_count} học viên."
+
+#: xmodule/assets/essay_question/public/js/src/essay_student_view.js
+msgid "The request has exceeded the maximum time limit. Please try again!"
+msgstr "Yêu cầu đã vượt quá thời gian xử lý cho phép. Vui lòng thử lại!"

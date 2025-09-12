@@ -26838,3 +26838,7 @@ msgstr "Xuất câu trả lời của học viên"
 #: xmodule/assets/essay_question/public/html/essay_student_view.html
 msgid "Export answer"
 msgstr "Xuất câu trả lời"
+
+#: xmodule/assets/essay_question/public/html/essay_studio_view.html
+msgid "The display name for this component"
+msgstr "Tên hiển thị cho thành phần này"
