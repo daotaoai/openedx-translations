@@ -120,7 +120,7 @@
   "register.page.title": "Đăng ký | {siteName}",
   "registration.fullname.label": "Họ và tên",
   "registration.email.label": "E-mail",
-  "registration.username.label": "tên người dùng công khai",
+  "registration.username.label": "Tên người dùng công khai",
   "registration.password.label": "Mật khẩu",
   "registration.country.label": "Quốc gia/Khu vực",
   "registration.opt.in.label": "Tôi đồng ý rằng {siteName} có thể gửi cho tôi các tin nhắn tiếp thị.",
