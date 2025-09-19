@@ -23921,7 +23921,7 @@ msgstr "Hồ sơ"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
-msgstr "lịch sử đơn hàng"
+msgstr "Lịch sử đơn hàng"
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:7
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:19
@@ -23935,7 +23935,7 @@ msgstr "Nhập thông tin về mã giảm giá bên dưới."
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:34
 msgid "Coupon Code"
-msgstr "mã giảm giá"
+msgstr "Mã giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:39
 msgid "Discount Percentage"
