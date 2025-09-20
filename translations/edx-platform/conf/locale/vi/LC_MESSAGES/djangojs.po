@@ -1147,7 +1147,7 @@ msgstr "Xuất bản tất cả các thay đổi chưa được xuất bản cho
 #: cms/templates/js/course-outline.underscore:185
 #: cms/templates/js/publish-xblock.underscore:121
 msgid "Publish"
-msgstr "Công bố"
+msgstr "Xuất bản"
 
 #: cms/static/js/views/modals/course_outline_modals.js:239
 msgid "Highlights for {display_name}"
@@ -8131,7 +8131,7 @@ msgstr "Đã xuất bản (chưa phát hành)"
 
 #: cms/templates/js/publish-xblock.underscore:10
 msgid "Draft (Unpublished changes)"
-msgstr "Bản nháp (Những thay đổi chưa được công bố)"
+msgstr "Bản nháp (Những thay đổi chưa được xuất bản)"
 
 #: cms/templates/js/publish-xblock.underscore:13
 msgid "Release:"
@@ -8183,7 +8183,7 @@ msgstr "với %(section_or_subsection)s"
 
 #: cms/templates/js/publish-xblock.underscore:98
 msgid "Staff and Learners"
-msgstr "Nhân viên và Người học"
+msgstr "Nhân viên và Học viên"
 
 #: cms/templates/js/publish-xblock.underscore:108
 #: cms/templates/js/staff-lock-editor.underscore:37
