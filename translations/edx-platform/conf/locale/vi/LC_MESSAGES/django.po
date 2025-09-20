@@ -438,7 +438,7 @@ msgstr "Bản sao của {0}"
 #: cms/djangoapps/contentstore/utils.py:1286
 #, python-brace-format
 msgid "Duplicate of '{0}'"
-msgstr "Bản sao của &#39;{0}&#39;"
+msgstr "Bản sao của '{0}'"
 
 #: cms/djangoapps/contentstore/utils.py:1342
 msgid "Invalid prerequisite course key"
@@ -641,7 +641,7 @@ msgstr "phải có tên của chứng chỉ"
 #: cms/djangoapps/contentstore/views/certificates.py:250
 #, python-brace-format
 msgid "Certificate dict {0} missing value key '{1}'"
-msgstr "Chứng chỉ dict {0} thiếu khóa giá trị &#39;{1}&#39;"
+msgstr "Chứng chỉ dict {0} thiếu khóa giá trị '{1}'"
 
 #: cms/djangoapps/contentstore/views/certificates.py:355
 #: cms/djangoapps/contentstore/views/certificates.py:393
@@ -736,7 +736,7 @@ msgid ""
 "\n"
 "{err}"
 msgstr ""
-"Không thể tạo khóa học &#39;{name}&#39;.\n"
+"Không thể tạo khóa học '{name}'.\n"
 "\n"
 " {err}"
 
@@ -820,7 +820,7 @@ msgstr ""
 #: cms/djangoapps/contentstore/views/library.py:247
 #, python-brace-format
 msgid "Unable to create library - missing required field '{field}'"
-msgstr "Không thể tạo thư viện - thiếu trường bắt buộc &#39;{field}&#39;"
+msgstr "Không thể tạo thư viện - thiếu trường bắt buộc '{field}'"
 
 #: cms/djangoapps/contentstore/views/library.py:252
 #, python-brace-format
@@ -829,7 +829,7 @@ msgid ""
 "\n"
 "{err}"
 msgstr ""
-"Không thể tạo thư viện &#39;{name}&#39;.\n"
+"Không thể tạo thư viện '{name}'.\n"
 "\n"
 " {err}"
 
@@ -845,7 +845,7 @@ msgstr ""
 #: cms/djangoapps/contentstore/views/library.py:267
 #, python-brace-format
 msgid "'{organization_key}' is not a valid organization identifier."
-msgstr "&#39;{organization_key}&#39; không phải là mã định danh tổ chức hợp lệ."
+msgstr "'{organization_key}' không phải là mã định danh tổ chức hợp lệ."
 
 #: cms/djangoapps/contentstore/views/preview.py:302
 #, python-brace-format
@@ -913,7 +913,7 @@ msgstr "Không đủ quyền"
 #: cms/djangoapps/contentstore/views/user.py:110
 #, python-brace-format
 msgid "Could not find user by email address '{email}'."
-msgstr "Không thể tìm thấy người dùng theo địa chỉ email &#39;{email}&#39;."
+msgstr "Không thể tìm thấy người dùng theo địa chỉ email '{email}'."
 
 #: cms/djangoapps/contentstore/views/user.py:149
 msgid "No `role` specified."
@@ -1071,7 +1071,7 @@ msgstr "Cấp cho người dùng quyền tạo khóa học trong TẤT CẢ các
 #, python-brace-format
 msgid "Incorrect format for field '{name}'. {detailed_message}"
 msgstr ""
-"Định dạng không chính xác cho trường &#39;{name}&#39;. {detailed_message}"
+"Định dạng không chính xác cho trường '{name}'. {detailed_message}"
 
 #: cms/lib/xblock/tagging/tagging.py:21
 msgid "Dictionary with the available tags"
@@ -1354,8 +1354,8 @@ msgid ""
 "Please add a key/value 'THIRD_PARTY_AUTH_ONLY_DOMAIN/{site_email_domain}' in"
 " SiteConfiguration model's site_values field."
 msgstr ""
-"Vui lòng thêm khóa/giá trị &#39;THIRD_PARTY_AUTH_ONLY_DOMAIN/ "
-"{site_email_domain} &#39; vào trường site_values của mô hình "
+"Vui lòng thêm khóa/giá trị 'THIRD_PARTY_AUTH_ONLY_DOMAIN/ "
+"{site_email_domain} ' vào trường site_values của mô hình "
 "SiteConfiguration."
 
 #: common/djangoapps/student/admin.py:593
@@ -1371,12 +1371,12 @@ msgstr "Người dùng có email này không tồn tại trong hệ thống."
 #: common/djangoapps/student/helpers.py:725
 #, python-brace-format
 msgid "An account with the Email '{email}' already exists."
-msgstr "Tài khoản có Email &#39;{email}&#39; đã tồn tại."
+msgstr "Tài khoản có Email '{email}' đã tồn tại."
 
 #: common/djangoapps/student/helpers.py:78
 #, python-brace-format
 msgid "An account with the Public Username '{username}' already exists."
-msgstr "Tài khoản có Tên tài khoản công khai &#39;{username}&#39; đã tồn tại."
+msgstr "Tài khoản có Tên tài khoản công khai '{username}' đã tồn tại."
 
 #: common/djangoapps/student/middleware.py:32
 #, python-brace-format
@@ -2262,7 +2262,7 @@ msgid_plural ""
 "The file must end with one of the following extensions: '{file_types}'."
 msgstr[0] ""
 "Tệp phải kết thúc bằng một trong các phần mở rộng sau: "
-"&#39;{file_types}&#39;."
+"'{file_types}'."
 
 #: common/djangoapps/util/file.py:73
 #, python-brace-format
@@ -3038,7 +3038,7 @@ msgstr "Tin tức"
 #: lms/djangoapps/branding/api.py:317 lms/djangoapps/branding/api.py:391
 #: lms/djangoapps/certificates/views/webview.py:187
 msgid "Terms of Service & Honor Code"
-msgstr "Điều khoản dịch vụ &amp; Mã danh dự"
+msgstr "Điều khoản dịch vụ & Mã danh dự"
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: A 'Privacy Policy' is a legal document/statement describing a
@@ -3185,8 +3185,8 @@ msgid ""
 "A human-readable description of the example certificate.  For example, "
 "'verified' or 'honor' to differentiate between two types of certificates."
 msgstr ""
-"Mô tả mà con người có thể đọc được về chứng chỉ mẫu. Ví dụ: &#39;xác "
-"minh&#39; hoặc &#39;danh dự&#39; để phân biệt giữa hai loại chứng chỉ."
+"Mô tả mà con người có thể đọc được về chứng chỉ mẫu. Ví dụ: 'xác "
+"minh' hoặc 'danh dự' để phân biệt giữa hai loại chứng chỉ."
 
 #: lms/djangoapps/certificates/models.py:847
 msgid ""
@@ -3274,17 +3274,17 @@ msgstr "người dùng không được cung cấp."
 #: lms/djangoapps/certificates/views/support.py:100
 #, python-brace-format
 msgid "user '{user}' does not exist"
-msgstr "người dùng &#39;{user}&#39; không tồn tại"
+msgstr "người dùng '{user}' không tồn tại"
 
 #: lms/djangoapps/certificates/views/support.py:114
 #, python-brace-format
 msgid "Course id '{course_id}' is not valid"
-msgstr "Id khóa học &#39;{course_id}&#39; không hợp lệ"
+msgstr "Id khóa học '{course_id}' không hợp lệ"
 
 #: lms/djangoapps/certificates/views/support.py:118
 #, python-brace-format
 msgid "The course does not exist against the given key '{course_key}'"
-msgstr "Khóa học không tồn tại dựa trên khóa đã cho &#39;{course_key}&#39;"
+msgstr "Khóa học không tồn tại dựa trên khóa đã cho '{course_key}'"
 
 #: lms/djangoapps/certificates/views/support.py:144
 #, python-brace-format
@@ -3762,10 +3762,10 @@ msgid ""
 "For example, if \"Disabled\" is left as \"Unknown\" in the course context, "
 "then that course will be Disabled only if the org that it is in is Disabled."
 msgstr ""
-"Nếu bất kỳ giá trị nào trong số này bị bỏ trống hoặc &quot;Không xác "
-"định&quot;, thì giá trị của chúng khi chạy sẽ được truy lục từ ngữ cảnh cụ "
-"thể nhất tiếp theo được áp dụng. Ví dụ: nếu &quot;Đã vô hiệu hóa&quot; được "
-"để là &quot;Không xác định&quot; trong ngữ cảnh khóa học thì khóa học đó sẽ "
+"Nếu bất kỳ giá trị nào trong số này bị bỏ trống hoặc "Không xác "
+"định", thì giá trị của chúng khi chạy sẽ được truy lục từ ngữ cảnh cụ "
+"thể nhất tiếp theo được áp dụng. Ví dụ: nếu "Đã vô hiệu hóa" được "
+"để là "Không xác định" trong ngữ cảnh khóa học thì khóa học đó sẽ "
 "chỉ bị Vô hiệu hóa nếu tổ chức chứa nó bị Vô hiệu hóa."
 
 #: lms/djangoapps/course_home_api/models.py:22
@@ -3795,11 +3795,11 @@ msgstr "Khóa học đã đầy"
 
 #: lms/djangoapps/course_home_api/outline/views.py:640
 msgid "'course_id' is required."
-msgstr "&#39;khóa học_id&#39; là bắt buộc."
+msgstr "'khóa học_id' là bắt buộc."
 
 #: lms/djangoapps/course_home_api/outline/views.py:644
 msgid "Only 'course_id' is expected."
-msgstr "Chỉ có &#39;course_id&#39; được mong đợi."
+msgstr "Chỉ có 'course_id' được mong đợi."
 
 #: lms/djangoapps/course_home_api/outline/views.py:650
 msgid "Welcome message successfully dismissed."
@@ -3832,7 +3832,7 @@ msgstr ""
 #: lms/djangoapps/course_wiki/views.py:80
 #, python-brace-format
 msgid "This is the wiki for **{organization}**'s _{course_name}_."
-msgstr "Đây là wiki của ** {organization} **&#39;s _ {course_name} _."
+msgstr "Đây là wiki của ** {organization} **'s _ {course_name} _."
 
 #: lms/djangoapps/course_wiki/views.py:90
 msgid "Course page automatically created."
@@ -3880,10 +3880,10 @@ msgid ""
 "However, you are currently logged in as a '{active_enterprise_name}' user. "
 "Please log in with '{enrollment_enterprise_name}' to access this course."
 msgstr ""
-"Bạn đã ghi danh khóa học này với &#39;{enrollment_enterprise_name}&#39;. Tuy"
+"Bạn đã ghi danh khóa học này với '{enrollment_enterprise_name}'. Tuy"
 " nhiên, bạn hiện đang đăng nhập với tư cách là người dùng "
-"&#39;{active_enterprise_name}&#39;. Vui lòng đăng nhập bằng "
-"&#39;{enrollment_enterprise_name}&#39; để truy cập khóa học này."
+"'{active_enterprise_name}'. Vui lòng đăng nhập bằng "
+"'{enrollment_enterprise_name}' để truy cập khóa học này."
 
 #: lms/djangoapps/courseware/access_response.py:280
 msgid "You must give Data Sharing Consent for the course"
@@ -4079,8 +4079,8 @@ msgid ""
 "There is no user with the username or email address \"{user_identifier}\" "
 "enrolled in this course."
 msgstr ""
-"Không có người dùng nào có tên người dùng hoặc địa chỉ email &quot; "
-"{user_identifier} &quot; đã đăng ký khóa học này."
+"Không có người dùng nào có tên người dùng hoặc địa chỉ email " "
+"{user_identifier} " đã đăng ký khóa học này."
 
 #: lms/djangoapps/courseware/masquerade.py:402
 msgid ""
@@ -4732,7 +4732,7 @@ msgid ""
 "Without the email student would not be able to login. Please contact support"
 " for further information."
 msgstr ""
-"Lỗi &#39;{error}&#39; khi gửi email cho người dùng mới (email người dùng= "
+"Lỗi '{error}' khi gửi email cho người dùng mới (email người dùng= "
 "{email} ). Nếu không có email sinh viên sẽ không thể đăng nhập. Vui lòng "
 "liên hệ với bộ phận hỗ trợ để biết thêm thông tin."
 
@@ -4940,12 +4940,12 @@ msgstr "ghi danh"
 
 #: lms/djangoapps/instructor/views/api.py:1606
 msgid "The file must contain a 'cohort' column containing cohort names."
-msgstr "Tệp phải chứa cột &#39;nhóm thuần tập&#39; chứa tên nhóm thuần tập."
+msgstr "Tệp phải chứa cột 'nhóm thuần tập' chứa tên nhóm thuần tập."
 
 #: lms/djangoapps/instructor/views/api.py:1608
 msgid "The file must contain a 'username' column, an 'email' column, or both."
 msgstr ""
-"Tệp phải chứa cột &#39;tên người dùng&#39;, cột &#39;email&#39; hoặc cả hai."
+"Tệp phải chứa cột 'tên người dùng', cột 'email' hoặc cả hai."
 
 #: lms/djangoapps/instructor/views/api.py:1711
 #: lms/djangoapps/instructor_task/api_helper.py:113
@@ -5161,8 +5161,8 @@ msgid ""
 "Tasks\" section."
 msgstr ""
 "Nhiệm vụ tạo chứng chỉ cho tất cả học viên của khóa học này đã được bắt đầu."
-" Bạn có thể xem trạng thái của nhiệm vụ tạo trong phần &quot;Nhiệm vụ đang "
-"chờ xử lý&quot;."
+" Bạn có thể xem trạng thái của nhiệm vụ tạo trong phần "Nhiệm vụ đang "
+"chờ xử lý"."
 
 #: lms/djangoapps/instructor/views/api.py:3408
 msgid "Please select certificate statuses from the list only."
@@ -5174,7 +5174,7 @@ msgid ""
 "the generation task in the \"Pending Tasks\" section."
 msgstr ""
 "Nhiệm vụ tái tạo chứng chỉ đã được bắt đầu. Bạn có thể xem trạng thái của "
-"nhiệm vụ tạo trong phần &quot;Nhiệm vụ đang chờ xử lý&quot;."
+"nhiệm vụ tạo trong phần "Nhiệm vụ đang chờ xử lý"."
 
 #: lms/djangoapps/instructor/views/api.py:3461
 #: lms/djangoapps/instructor/views/api.py:3611
@@ -5225,8 +5225,8 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Thêm vào "
-"danh sách ngoại lệ&quot;."
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút "Thêm vào "
+"danh sách ngoại lệ"."
 
 #: lms/djangoapps/instructor/views/api.py:3628
 #, python-brace-format
@@ -5238,8 +5238,8 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:3669
 msgid "Invalid data, generate_for must be \"new\" or \"all\"."
 msgstr ""
-"Dữ liệu không hợp lệ, generate_for phải là &quot;mới&quot; hoặc &quot;tất "
-"cả&quot;."
+"Dữ liệu không hợp lệ, generate_for phải là "mới" hoặc "tất "
+"cả"."
 
 #: lms/djangoapps/instructor/views/api.py:3677
 msgid "Certificate generation started for students on the allowlist."
@@ -5249,12 +5249,12 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:3730
 #, python-brace-format
 msgid "user \"{user}\" in row# {row}"
-msgstr "người dùng &quot; {user} &quot; trong hàng# {row}"
+msgstr "người dùng " {user} " trong hàng# {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3781
 #, python-brace-format
 msgid "user \"{username}\" in row# {row}"
-msgstr "người dùng &quot; {username} &quot; trong hàng# {row}"
+msgstr "người dùng " {username} " trong hàng# {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3841
 #, python-brace-format
@@ -5297,8 +5297,8 @@ msgid ""
 "in username/email and then press \"Invalidate Certificate\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Chứng chỉ"
-" không hợp lệ&quot;."
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút "Chứng chỉ"
+" không hợp lệ"."
 
 #: lms/djangoapps/instructor/views/api.py:4001
 #, python-brace-format
@@ -5360,11 +5360,11 @@ msgstr "Dữ liệu ghi danh hiện có sẵn trong {dashboard_link} ."
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:498
 msgid "Membership"
-msgstr "Tư cách thành viên"
+msgstr "Thành viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:532
 msgid "Cohorts"
-msgstr "Nhóm thuần tập"
+msgstr "Nhóm"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:551
 #: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:29
@@ -5382,7 +5382,7 @@ msgstr "Tiện ích mở rộng"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:641
 msgid "Data Download"
-msgstr "Tải xuống dữ liệu"
+msgstr "Tải xuống"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:751
 msgid "Analytics"
@@ -5415,7 +5415,7 @@ msgstr "Hoàn thành"
 
 #: lms/djangoapps/instructor/views/instructor_task_helpers.py:140
 msgid "Incomplete"
-msgstr "chưa hoàn thiện"
+msgstr "chưa hoàn thành"
 
 #: lms/djangoapps/instructor/views/serializer.py:20
 msgid "Role name"
@@ -5658,7 +5658,7 @@ msgstr "Tiến trình: {action} {succeeded} của {attempted} cho đến nay"
 #, python-brace-format
 msgid "Unable to find submission to be {action} for student '{student}'"
 msgstr ""
-"Không thể tìm thấy nội dung gửi {action} cho sinh viên &#39;{student}&#39;"
+"Không thể tìm thấy nội dung gửi {action} cho sinh viên '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.  # lint-amnesty, pylint: disable=line-
@@ -5667,7 +5667,7 @@ msgstr ""
 #, python-brace-format
 msgid "Problem failed to be {action} for student '{student}'"
 msgstr ""
-"Sự cố không thành công là {action} đối với học sinh &#39;{student}&#39;"
+"Sự cố không thành công là {action} đối với học sinh '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.  # lint-amnesty, pylint: disable=line-
@@ -5675,7 +5675,7 @@ msgstr ""
 #: lms/djangoapps/instructor_task/views.py:168
 #, python-brace-format
 msgid "Problem successfully {action} for student '{student}'"
-msgstr "Sự cố thành công {action} cho học sinh &#39;{student}&#39;"
+msgstr "Sự cố thành công {action} cho học sinh '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.
@@ -5686,14 +5686,14 @@ msgid ""
 "'{student}'"
 msgstr ""
 "Không thể tìm thấy bài thi đầu vào {action} dành cho sinh viên "
-"&#39;{student}&#39;"
+"'{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #. {student} is a student identifier.
 #: lms/djangoapps/instructor_task/views.py:179
 #, python-brace-format
 msgid "Entrance exam successfully {action} for student '{student}'"
-msgstr "Thi tuyển sinh thành công {action} cho học sinh &#39;{student}&#39;"
+msgstr "Thi tuyển sinh thành công {action} cho học sinh '{student}'"
 
 #. Translators: {action} is a past-tense verb that is localized separately.
 #: lms/djangoapps/instructor_task/views.py:184
@@ -5851,10 +5851,10 @@ msgid ""
 "\"tabs,accordion\" -- to use tabs and the accordion."
 msgstr ""
 "Nhập chrome hoặc công cụ điều hướng để sử dụng cho XBlock trong LMS. Các giá trị hợp lệ là:\n"
-" &quot;không có chrome&quot; -- không sử dụng tab hoặc đàn accordion;\n"
-" &quot;tab&quot; -- chỉ sử dụng tab;\n"
-" &quot;accordion&quot; -- chỉ sử dụng đàn accordion; hoặc\n"
-" &quot;tabs,accordion&quot; -- để sử dụng tab và đàn accordion."
+" "không có chrome" -- không sử dụng tab hoặc đàn accordion;\n"
+" "tab" -- chỉ sử dụng tab;\n"
+" "accordion" -- chỉ sử dụng đàn accordion; hoặc\n"
+" "tabs,accordion" -- để sử dụng tab và đàn accordion."
 
 #: lms/djangoapps/lms_xblock/mixin.py:79
 msgid "Default Tab"
@@ -6221,8 +6221,8 @@ msgstr "Xin vui lòng sửa các lỗi bên dưới."
 #, python-format
 msgid "Are you sure you want to cancel retirement for user \"%(username)s\"? "
 msgstr ""
-"Bạn có chắc chắn muốn hủy việc ngừng hoạt động của người dùng &quot; "
-"%(username)s &quot; không? "
+"Bạn có chắc chắn muốn hủy việc ngừng hoạt động của người dùng " "
+"%(username)s " không? "
 
 #: lms/templates/admin/user_api/accounts/cancel_retirement_action.html:38
 #: xmodule/capa_block.py:1024 cms/templates/index.html:219
@@ -6847,9 +6847,9 @@ msgid ""
 "application. Otherwise, to withhold these permissions, please click the "
 "'Cancel' button."
 msgstr ""
-"Vui lòng nhấp vào nút &#39;Cho phép&#39; để cấp các quyền này cho ứng dụng "
+"Vui lòng nhấp vào nút 'Cho phép' để cấp các quyền này cho ứng dụng "
 "trên. Nếu không, để giữ lại các quyền này, vui lòng nhấp vào nút "
-"&#39;Hủy&#39;."
+"'Hủy'."
 
 #: lms/templates/oauth2_provider/authorize.html:48
 #: openedx/core/djangoapps/user_api/admin.py:111
@@ -7706,7 +7706,7 @@ msgstr ""
 #: openedx/core/djangoapps/auth_exchange/forms.py:72
 #, python-format
 msgid "'%s' is not a valid scope."
-msgstr "&#39; %s &#39; không phải là phạm vi hợp lệ."
+msgstr "' %s ' không phải là phạm vi hợp lệ."
 
 #: openedx/core/djangoapps/bookmarks/apps.py:18
 #: openedx/features/course_bookmarks/plugins.py:39
@@ -7832,10 +7832,10 @@ msgid ""
 "For example, if \"Enabled\" is left as \"Unknown\" in the course context, "
 "then that course will be Enabled only if the org that it is in is Enabled."
 msgstr ""
-"Nếu bất kỳ giá trị nào trong số này được để trống hoặc &quot;Không xác "
-"định&quot;, thì giá trị của chúng khi chạy sẽ được truy lục từ ngữ cảnh cụ "
-"thể nhất tiếp theo được áp dụng. Ví dụ: nếu &quot;Đã bật&quot; được để là "
-"&quot;Không xác định&quot; trong ngữ cảnh khóa học thì khóa học đó sẽ chỉ "
+"Nếu bất kỳ giá trị nào trong số này được để trống hoặc "Không xác "
+"định", thì giá trị của chúng khi chạy sẽ được truy lục từ ngữ cảnh cụ "
+"thể nhất tiếp theo được áp dụng. Ví dụ: nếu "Đã bật" được để là "
+""Không xác định" trong ngữ cảnh khóa học thì khóa học đó sẽ chỉ "
 "được bật nếu tổ chức chứa nó được bật."
 
 #: openedx/core/djangoapps/config_model_utils/models.py:43
@@ -7871,7 +7871,7 @@ msgid ""
 "should be formatted as 'org+course' (i.e. MITx+6.002x, HarvardX+CS50)."
 msgstr ""
 "Định cấu hình các giá trị cho tất cả các lần chạy khóa học được liên kết với"
-" khóa học này. Điều này phải được định dạng là &#39;org+course&#39; (tức là "
+" khóa học này. Điều này phải được định dạng là 'org+course' (tức là "
 "MITx+6.002x, HarvardX+CS50)."
 
 #: openedx/core/djangoapps/config_model_utils/models.py:102
@@ -7964,7 +7964,7 @@ msgstr "Chỉ đọc"
 
 #: openedx/core/djangoapps/content_libraries/models.py:223
 msgid "One and only one of 'user' and 'group' must be set."
-msgstr "Phải đặt một và chỉ một trong &#39;người dùng&#39; và &#39;nhóm&#39;."
+msgstr "Phải đặt một và chỉ một trong 'người dùng' và 'nhóm'."
 
 #: openedx/core/djangoapps/content_libraries/models.py:251
 msgid "Task was created, but not queued to run."
@@ -8058,7 +8058,7 @@ msgid ""
 "\"resource link id\"."
 msgstr ""
 "Mã định danh duy nhất của nền tảng LTI của tài nguyên này, còn được gọi là "
-"&quot;id liên kết tài nguyên&quot;."
+""id liên kết tài nguyên"."
 
 #: openedx/core/djangoapps/content_libraries/models.py:493
 msgid "The LTI platform descriptive title for this resource."
@@ -8110,7 +8110,7 @@ msgstr ""
 "\n"
 "Loại nội dung nào được dàn dựng. Chỉ hỗ trợ nội dung OLX và\n"
 " trường này phải giống với thẻ gốc của OLX.\n"
-" ví dụ: &quot;video&quot; nếu video được dàn dựng hoặc &quot;dọc&quot; cho một đơn vị.\n"
+" ví dụ: "video" nếu video được dàn dựng hoặc "dọc" cho một đơn vị.\n"
 "        "
 
 #: openedx/core/djangoapps/content_staging/models.py:71
@@ -8945,7 +8945,7 @@ msgstr "Không có tập tin nào được cung cấp cho hình ảnh hồ sơ"
 msgid "Path used to construct URLs to programs marketing pages (e.g., \"/foo\")."
 msgstr ""
 "Đường dẫn được sử dụng để tạo URL tới các trang tiếp thị của chương trình "
-"(ví dụ: &quot;/foo&quot;)."
+"(ví dụ: "/foo")."
 
 #: openedx/core/djangoapps/programs/models.py:41
 msgid "Program UUID"
@@ -9469,7 +9469,7 @@ msgstr ""
 #: openedx/core/djangoapps/user_api/accounts/api.py:206
 #, python-brace-format
 msgid "The '{field_name}' field cannot be edited."
-msgstr "Không thể chỉnh sửa trường &#39;{field_name}&#39;."
+msgstr "Không thể chỉnh sửa trường '{field_name}'."
 
 #: openedx/core/djangoapps/user_api/accounts/api.py:436
 msgid "Full name can't be longer than 255 symbols"
@@ -9487,8 +9487,8 @@ msgid ""
 "\"{url_stub}\". To remove the link from your {platform_name} profile, leave "
 "this field blank."
 msgstr ""
-"Đảm bảo rằng bạn đang cung cấp tên người dùng hợp lệ hoặc URL chứa &quot; "
-"{url_stub} &quot;. Để xóa liên kết khỏi hồ sơ {platform_name} của bạn, hãy "
+"Đảm bảo rằng bạn đang cung cấp tên người dùng hợp lệ hoặc URL chứa " "
+"{url_stub} ". Để xóa liên kết khỏi hồ sơ {platform_name} của bạn, hãy "
 "để trống trường này."
 
 #: openedx/core/djangoapps/user_api/accounts/views.py:647
@@ -9537,18 +9537,18 @@ msgstr ""
 #: openedx/core/djangoapps/user_api/preferences/api.py:253
 #, python-brace-format
 msgid "Delete failed for user preference '{preference_key}'."
-msgstr "Xóa tùy chọn người dùng &#39;{preference_key}&#39; không thành công."
+msgstr "Xóa tùy chọn người dùng '{preference_key}' không thành công."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:402
 #, python-brace-format
 msgid "Preference '{preference_key}' cannot be set to an empty value."
 msgstr ""
-"Không thể đặt tùy chọn &#39;{preference_key}&#39; thành giá trị trống."
+"Không thể đặt tùy chọn '{preference_key}' thành giá trị trống."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:419
 #, python-brace-format
 msgid "Invalid user preference key '{preference_key}'."
-msgstr "Khóa tùy chọn người dùng không hợp lệ &#39;{preference_key}&#39;."
+msgstr "Khóa tùy chọn người dùng không hợp lệ '{preference_key}'."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:423
 #, python-brace-format
@@ -9556,8 +9556,8 @@ msgid ""
 "Value '{preference_value}' is not valid for user preference "
 "'{preference_key}'."
 msgstr ""
-"Giá trị &#39;{preference_value}&#39; không hợp lệ cho tùy chọn người dùng "
-"&#39;{preference_key}&#39;."
+"Giá trị '{preference_value}' không hợp lệ cho tùy chọn người dùng "
+"'{preference_key}'."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:433
 #, python-brace-format
@@ -9565,21 +9565,21 @@ msgid ""
 "Value '{preference_value}' not valid for preference '{preference_key}': Not "
 "in timezone set."
 msgstr ""
-"Giá trị &#39;{preference_value}&#39; không hợp lệ cho tùy chọn "
-"&#39;{preference_key}&#39;: Chưa đặt múi giờ."
+"Giá trị '{preference_value}' không hợp lệ cho tùy chọn "
+"'{preference_key}': Chưa đặt múi giờ."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:434
 #, python-brace-format
 msgid "Value '{preference_value}' is not a valid time zone selection."
 msgstr ""
-"Giá trị &#39;{preference_value}&#39; không phải là lựa chọn múi giờ hợp lệ."
+"Giá trị '{preference_value}' không phải là lựa chọn múi giờ hợp lệ."
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:451
 #, python-brace-format
 msgid "Save failed for user preference '{key}' with value '{value}'."
 msgstr ""
-"Lưu không thành công đối với tùy chọn người dùng &#39;{key}&#39; có giá trị "
-"&#39;{value}&#39;."
+"Lưu không thành công đối với tùy chọn người dùng '{key}' có giá trị "
+"'{value}'."
 
 #: openedx/core/djangoapps/user_api/preferences/views.py:118
 msgid "No data provided for user preference update"
@@ -10446,7 +10446,7 @@ msgstr ""
 
 #: openedx/features/course_experience/api/v1/views.py:64
 msgid "'course_key' is required."
-msgstr "&#39;course_key&#39; là bắt buộc."
+msgstr "'course_key' là bắt buộc."
 
 #: openedx/features/course_experience/api/v1/views.py:98
 #: openedx/features/course_experience/api/v1/views.py:101
@@ -10696,7 +10696,7 @@ msgstr "đúng một phần"
 
 #: xmodule/capa/inputtypes.py:92
 msgid "incomplete"
-msgstr "chưa hoàn thiện"
+msgstr "chưa hoàn thành"
 
 #: xmodule/capa/inputtypes.py:93 xmodule/capa/inputtypes.py:94
 msgid "unanswered"
@@ -10918,18 +10918,18 @@ msgstr "Đã xảy ra sự cố với câu trả lời của nhân viên cho v�
 #: xmodule/capa/responsetypes.py:1592
 #, python-brace-format
 msgid "Could not interpret '{student_answer}' as a number."
-msgstr "Không thể diễn giải &#39;{student_answer}&#39; dưới dạng số."
+msgstr "Không thể diễn giải '{student_answer}' dưới dạng số."
 
 #: xmodule/capa/responsetypes.py:1614
 #, python-brace-format
 msgid "Factorial function evaluated outside its domain:'{student_answer}'"
 msgstr ""
-"Hàm giai thừa được đánh giá bên ngoài miền của nó:&#39;{student_answer}&#39;"
+"Hàm giai thừa được đánh giá bên ngoài miền của nó:'{student_answer}'"
 
 #: xmodule/capa/responsetypes.py:1621
 #, python-brace-format
 msgid "Invalid math syntax: '{student_answer}'"
-msgstr "Cú pháp toán không hợp lệ: &#39;{student_answer}&#39;"
+msgstr "Cú pháp toán không hợp lệ: '{student_answer}'"
 
 #: xmodule/capa/responsetypes.py:1652
 msgid "You may not use complex numbers in range tolerance problems"
@@ -11057,14 +11057,14 @@ msgstr ""
 #, python-brace-format
 msgid "Invalid input: Could not parse '{bad_input}' as a formula."
 msgstr ""
-"Dữ liệu nhập không hợp lệ: Không thể phân tích cú pháp &#39;{bad_input}&#39;"
+"Dữ liệu nhập không hợp lệ: Không thể phân tích cú pháp '{bad_input}'"
 " dưới dạng công thức."
 
 #: xmodule/capa/responsetypes.py:3146
 #, python-brace-format
 msgid "Invalid input: Could not parse '{bad_input}' as a formula"
 msgstr ""
-"Dữ liệu nhập không hợp lệ: Không thể phân tích cú pháp &#39;{bad_input}&#39;"
+"Dữ liệu nhập không hợp lệ: Không thể phân tích cú pháp '{bad_input}'"
 " dưới dạng công thức"
 
 #: xmodule/capa/responsetypes.py:3253
@@ -11114,7 +11114,7 @@ msgstr "Câu trả lời của Nhân viên không thể được hiểu là mộ
 #: xmodule/capa/responsetypes.py:3893
 #, python-brace-format
 msgid "Could not interpret '{given_answer}' as a number."
-msgstr "Không thể diễn giải &#39;{given_answer}&#39; dưới dạng số."
+msgstr "Không thể diễn giải '{given_answer}' dưới dạng số."
 
 #: xmodule/capa/safe_exec/remote_exec.py:121
 msgid ""
@@ -11275,7 +11275,7 @@ msgid ""
 "Determines whether a 'Reset' button is shown so the user may reset their "
 "answer. A default value can be set in Advanced Settings."
 msgstr ""
-"Xác định xem nút &#39;Đặt lại&#39; có được hiển thị hay không để người dùng "
+"Xác định xem nút 'Đặt lại' có được hiển thị hay không để người dùng "
 "có thể đặt lại câu trả lời của họ. Giá trị mặc định có thể được đặt trong "
 "Cài đặt nâng cao."
 
@@ -11290,7 +11290,7 @@ msgid ""
 msgstr ""
 "Xác định thời điểm ngẫu nhiên hóa các biến được chỉ định trong tập lệnh "
 "Python được liên kết. Đối với các bài toán không ngẫu nhiên hóa giá trị, hãy"
-" chỉ định &quot;Không bao giờ&quot;. "
+" chỉ định "Không bao giờ". "
 
 #: xmodule/capa_block.py:280
 msgid "On Reset"
@@ -11478,7 +11478,7 @@ msgstr "Gợi ý ( {hint_num} của {hints_count} ): "
 msgid ""
 "Your answers were previously saved. Click '{button_name}' to grade them."
 msgstr ""
-"Câu trả lời của bạn đã được lưu trước đó. Nhấp vào &#39;{button_name}&#39; "
+"Câu trả lời của bạn đã được lưu trước đó. Nhấp vào '{button_name}' "
 "để chấm điểm chúng."
 
 #: xmodule/capa_block.py:1393
@@ -11563,7 +11563,7 @@ msgid ""
 "them."
 msgstr ""
 "Câu trả lời của bạn đã được lưu nhưng chưa được chấm điểm. Nhấp vào "
-"&#39;{button_name}&#39; để chấm điểm chúng."
+"'{button_name}' để chấm điểm chúng."
 
 #. Translators: 'closed' means the problem's due date has passed. You may no
 #. longer attempt to solve the problem.
@@ -11648,8 +11648,8 @@ msgstr ""
 "Thông báo hiển thị cho người học khi không đáp ứng được tất cả các điều kiện"
 " nhằm thể hiện nội dung của khối điều kiện này. Bao gồm {link} trong nội "
 "dung tin nhắn của bạn để cung cấp cho người học một liên kết trực tiếp đến "
-"các bài học được yêu cầu. Ví dụ: &#39;Bạn phải hoàn thành {link} trước khi "
-"có thể truy cập thiết bị này&#39;."
+"các bài học được yêu cầu. Ví dụ: 'Bạn phải hoàn thành {link} trước khi "
+"có thể truy cập thiết bị này'."
 
 #: xmodule/conditional_block.py:131
 #, python-brace-format
@@ -11674,7 +11674,7 @@ msgid ""
 "\"id:client_key:client_secret\"."
 msgstr ""
 "Nhập hộ chiếu cho các công cụ LTI của khóa học theo định dạng sau: "
-"&quot;id:client_key:client_secret&quot;."
+""id:client_key:client_secret"."
 
 #: xmodule/course_block.py:331
 msgid ""
@@ -11732,7 +11732,7 @@ msgid ""
 "the start date that you have set for this course is used."
 msgstr ""
 "Nhập văn bản mà bạn muốn sử dụng làm khung thời gian bắt đầu được quảng cáo "
-"cho khóa học, chẳng hạn như &quot;Mùa đông 2018&quot;. Nếu bạn nhập null cho"
+"cho khóa học, chẳng hạn như "Mùa đông 2018". Nếu bạn nhập null cho"
 " giá trị này, ngày bắt đầu mà bạn đã đặt cho khóa học này sẽ được sử dụng."
 
 #: xmodule/course_block.py:372
@@ -11774,8 +11774,8 @@ msgstr "Sửa khóa học"
 #: xmodule/course_block.py:395 xmodule/modulestore/inheritance.py:64
 msgid "Enter the method by which this course is edited (\"XML\" or \"Studio\")."
 msgstr ""
-"Nhập phương thức chỉnh sửa khóa học này (&quot;XML&quot; hoặc "
-"&quot;Studio&quot;)."
+"Nhập phương thức chỉnh sửa khóa học này ("XML" hoặc "
+""Studio")."
 
 #: xmodule/course_block.py:402
 msgid "Course Survey URL"
@@ -11808,12 +11808,12 @@ msgstr ""
 "Nhập các cặp ngày mà học sinh không thể đăng lên diễn đàn thảo luận. Bên "
 "trong dấu ngoặc vuông được cung cấp, hãy nhập một bộ dấu ngoặc vuông bổ sung"
 " bao quanh mỗi cặp ngày bạn thêm vào. Định dạng từng cặp ngày là "
-"[&quot;YYYY-MM-DD&quot;, &quot;YYYY-MM-DD&quot;]. Để chỉ định thời gian cũng"
-" như ngày tháng, hãy định dạng từng cặp là [&quot;YYYY-MM-DDTHH:MM&quot;, "
-"&quot;YYYY-MM-DDTHH:MM&quot;]. Đảm bảo bao gồm chữ &quot;T&quot; giữa ngày "
+"["YYYY-MM-DD", "YYYY-MM-DD"]. Để chỉ định thời gian cũng"
+" như ngày tháng, hãy định dạng từng cặp là ["YYYY-MM-DDTHH:MM", "
+""YYYY-MM-DDTHH:MM"]. Đảm bảo bao gồm chữ "T" giữa ngày "
 "và giờ. Ví dụ: một mục nhập xác định hai khoảng thời gian tạm dừng trông như"
-" thế này, bao gồm cặp dấu ngoặc vuông bên ngoài: [[&quot;2015-09-15&quot;, "
-"&quot;2015-09-21&quot;], [&quot;2015-10-01&quot;, &quot; 2015-10-08&quot;]] "
+" thế này, bao gồm cặp dấu ngoặc vuông bên ngoài: [["2015-09-15", "
+""2015-09-21"], ["2015-10-01", " 2015-10-08"]] "
 
 #: xmodule/course_block.py:420
 msgid "Discussion Topic Mapping"
@@ -11995,7 +11995,7 @@ msgid ""
 " Ignored unless 'Enable CCX' is set to 'true'."
 msgstr ""
 "URL cho ứng dụng CCX Connector để quản lý việc tạo CCX. (không bắt buộc). Bị"
-" bỏ qua trừ khi &#39;Bật CCX&#39; được đặt thành &#39;true&#39;."
+" bỏ qua trừ khi 'Bật CCX' được đặt thành 'true'."
 
 #: xmodule/course_block.py:536
 msgid "Allow Anonymous Discussion Posts"
@@ -12050,8 +12050,8 @@ msgid ""
 "YYYY-MM-DD, or \"%Y-%d-%m\" for YYYY-DD-MM."
 msgstr ""
 "Nhập định dạng cho ngày đến hạn. Mặc định là Thứ Hai DD, YYYY. Nhập "
-"&quot;%m- %d -%Y&quot; cho MM-DD-YYYY, &quot; %d -%m-%Y&quot; cho DD-MM-"
-"YYYY, &quot;%Y-%m- %d &quot; cho YYYY-MM-DD, hoặc &quot;%Y- %d -%m&quot; cho"
+""%m- %d -%Y" cho MM-DD-YYYY, " %d -%m-%Y" cho DD-MM-"
+"YYYY, "%Y-%m- %d " cho YYYY-MM-DD, hoặc "%Y- %d -%m" cho"
 " YYYY-DD-MM."
 
 #: xmodule/course_block.py:570
@@ -12099,8 +12099,8 @@ msgid ""
 "Details page."
 msgstr ""
 "Chỉnh sửa tên của tập tin hình ảnh khóa học. Bạn phải tải tệp này lên trang "
-"Tệp &amp; Tải lên. Bạn cũng có thể đặt hình ảnh khóa học trên trang Cài đặt "
-"&amp; Chi tiết."
+"Tệp & Tải lên. Bạn cũng có thể đặt hình ảnh khóa học trên trang Cài đặt "
+"& Chi tiết."
 
 #: xmodule/course_block.py:606 cms/templates/settings.html:490
 #: cms/templates/settings.html:494 cms/templates/settings.html:506
@@ -12113,7 +12113,7 @@ msgid ""
 "Settings & Details page."
 msgstr ""
 "Chỉnh sửa tên file ảnh banner. Bạn có thể đặt hình ảnh biểu ngữ trên trang "
-"Cài đặt &amp; Chi tiết."
+"Cài đặt & Chi tiết."
 
 #: xmodule/course_block.py:616 cms/templates/settings.html:523
 msgid "Course Video Thumbnail Image"
@@ -12125,7 +12125,7 @@ msgid ""
 "thumbnail image on the Settings & Details page."
 msgstr ""
 "Chỉnh sửa tên file ảnh thu nhỏ của video. Bạn có thể đặt hình thu nhỏ của "
-"video trên trang Cài đặt &amp; Chi tiết."
+"video trên trang Cài đặt & Chi tiết."
 
 #: xmodule/course_block.py:628
 msgid ""
@@ -12135,7 +12135,7 @@ msgid ""
 msgstr ""
 "Chỉ sử dụng cài đặt này khi tạo chứng chỉ PDF. Giữa dấu ngoặc kép, nhập tên "
 "viết tắt của loại chứng chỉ mà học viên nhận được khi hoàn thành khóa học. "
-"Ví dụ: &quot;Chứng chỉ&quot;."
+"Ví dụ: "Chứng chỉ"."
 
 #: xmodule/course_block.py:632
 msgid "Certificate Name (Short)"
@@ -12149,7 +12149,7 @@ msgid ""
 msgstr ""
 "Chỉ sử dụng cài đặt này khi tạo chứng chỉ PDF. Giữa dấu ngoặc kép, nhập tên "
 "dài của loại chứng chỉ mà học viên nhận được khi hoàn thành khóa học. Ví dụ:"
-" &quot;Giấy chứng nhận thành tích&quot;."
+" "Giấy chứng nhận thành tích"."
 
 #: xmodule/course_block.py:642
 msgid "Certificate Name (Long)"
@@ -12323,9 +12323,9 @@ msgid ""
 " not show in catalog and do not allow access to an about page)."
 msgstr ""
 "Xác định quyền truy cập để hiển thị khóa học trong danh mục khóa học. Điều "
-"này có thể được đặt thành một trong ba giá trị: &#39;cả hai&#39; (hiển thị "
-"trong danh mục và cho phép truy cập vào trang giới thiệu), &#39;about&#39; "
-"(chỉ cho phép truy cập vào trang giới thiệu), &#39;none&#39; (không hiển thị"
+"này có thể được đặt thành một trong ba giá trị: 'cả hai' (hiển thị "
+"trong danh mục và cho phép truy cập vào trang giới thiệu), 'about' "
+"(chỉ cho phép truy cập vào trang giới thiệu), 'none' (không hiển thị"
 " trong danh mục và không cho phép truy cập vào một trang giới thiệu)."
 
 #: xmodule/course_block.py:793
@@ -12429,7 +12429,7 @@ msgid ""
 " email address to be contacted by the support team whenever there are "
 "escalations (e.g. appeals, delayed reviews, etc.)."
 msgstr ""
-"Bắt buộc nếu &#39;proctortrack&#39; được chọn làm nhà cung cấp dịch vụ giám "
+"Bắt buộc nếu 'proctortrack' được chọn làm nhà cung cấp dịch vụ giám "
 "sát của bạn. Nhập địa chỉ email để nhóm hỗ trợ liên hệ bất cứ khi nào có báo"
 " cáo leo thang (ví dụ: khiếu nại, xem xét chậm trễ, v.v.)."
 
@@ -12498,7 +12498,7 @@ msgid ""
 "do not have due dates for assignments, and students can progress through the"
 " course at any rate before the course ends."
 msgstr ""
-"Đặt giá trị này thành &quot;true&quot; để đánh dấu khóa học này là theo nhịp"
+"Đặt giá trị này thành "true" để đánh dấu khóa học này là theo nhịp"
 " độ riêng. Các khóa học tự chủ không có thời hạn nộp bài tập và sinh viên có"
 " thể tiến bộ xuyên suốt khóa học ở bất kỳ mức độ nào trước khi khóa học kết "
 "thúc."
@@ -12538,9 +12538,9 @@ msgid ""
 "'public' (allow access to both outline and course content)."
 msgstr ""
 "Xác định quyền truy cập cho người học chưa đăng ký. Điều này có thể được đặt"
-" thành một trong ba giá trị: &#39;riêng tư&#39; (khả năng hiển thị mặc định,"
-" chỉ được phép đối với sinh viên đã đăng ký), &#39;public_outline&#39; (cho "
-"phép truy cập vào đề cương khóa học) và &#39;công khai&#39; (cho phép truy "
+" thành một trong ba giá trị: 'riêng tư' (khả năng hiển thị mặc định,"
+" chỉ được phép đối với sinh viên đã đăng ký), 'public_outline' (cho "
+"phép truy cập vào đề cương khóa học) và 'công khai' (cho phép truy "
 "cập vào cả đề cương và nội dung khóa học)."
 
 #: xmodule/course_block.py:981
@@ -12554,8 +12554,8 @@ msgid ""
 "default."
 msgstr ""
 "Chỉ định các tùy chọn chia sẻ video cho khóa học. Bạn có thể đặt giá trị này"
-" thành một trong ba giá trị: &#39;tất cả bật&#39;, &#39;tất cả tắt&#39; và "
-"&#39;mỗi video&#39;. với &#39;mỗi video&#39; làm mặc định."
+" thành một trong ba giá trị: 'tất cả bật', 'tất cả tắt' và "
+"'mỗi video'. với 'mỗi video' làm mặc định."
 
 #: xmodule/course_block.py:997
 msgid "Force Flexible Grading for Peer ORAs"
@@ -12735,7 +12735,7 @@ msgid ""
 "ERROR: \"{block_type}\" is an unknown component type. This component will be"
 " hidden in LMS."
 msgstr ""
-"LỖI: &quot; {block_type} &quot; là loại thành phần không xác định. Thành "
+"LỖI: " {block_type} " là loại thành phần không xác định. Thành "
 "phần này sẽ bị ẩn trong LMS."
 
 #: xmodule/html_block.py:63 xmodule/html_block.py:373
@@ -12806,7 +12806,7 @@ msgid ""
 "Determines whether a 'Reset Problems' button is shown, so users may reset "
 "their answers and reshuffle selected items."
 msgstr ""
-"Xác định xem nút &#39;Đặt lại vấn đề&#39; có được hiển thị hay không, do đó "
+"Xác định xem nút 'Đặt lại vấn đề' có được hiển thị hay không, do đó "
 "người dùng có thể đặt lại câu trả lời của mình và sắp xếp lại các mục đã "
 "chọn."
 
@@ -12858,7 +12858,7 @@ msgid ""
 "Choose a problem type to fetch from the library. If \"Any Type\" is selected"
 " no filtering is applied."
 msgstr ""
-"Chọn một loại vấn đề để tìm nạp từ thư viện. Nếu &quot;Bất kỳ Loại&quot; nào"
+"Chọn một loại vấn đề để tìm nạp từ thư viện. Nếu "Bất kỳ Loại" nào"
 " được chọn thì không có bộ lọc nào được áp dụng."
 
 #: xmodule/library_content_block.py:200
@@ -13057,7 +13057,7 @@ msgid ""
 "The score kept in the xblock KVS -- duplicate of the published score in "
 "django DB"
 msgstr ""
-"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được công bố trong "
+"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được xuất bản trong "
 "django DB"
 
 #: xmodule/lti_block.py:214
@@ -13139,7 +13139,7 @@ msgid ""
 "string."
 msgstr ""
 "Không thể phân tích cú pháp tham số tùy chỉnh: {custom_parameter} . Phải là "
-"chuỗi &quot;x=y&quot;."
+"chuỗi "x=y"."
 
 #: xmodule/lti_block.py:974
 #, python-brace-format
@@ -13148,7 +13148,7 @@ msgid ""
 "string."
 msgstr ""
 "Không thể phân tích hộ chiếu LTI: {lti_passport} . Phải là chuỗi "
-"&quot;id:key:secret&quot;."
+""id:key:secret"."
 
 #: xmodule/modulestore/inheritance.py:47 xmodule/seq_block.py:78
 #: lms/templates/ccx/schedule.html:115
@@ -13199,11 +13199,11 @@ msgid ""
 "\"after_all_attempts_or_correct\", \"attempted_no_past_due\", and \"never\"."
 msgstr ""
 "Chỉ định thời điểm nút Hiển thị Câu trả lời xuất hiện cho từng vấn đề. Các "
-"giá trị hợp lệ là &quot;luôn luôn&quot;, &quot;đã trả lời&quot;, &quot;đã cố"
-" gắng&quot;, &quot;đã đóng&quot;, &quot;đã hoàn thành&quot;, "
-"&quot;past_due&quot;, &quot; Correct_or_past_due&quot;, "
-"&quot;after_all_attempts&quot;, &quot;after_all_attempts_or_ Correct&quot;, "
-"&quot;attempted_no_past_due&quot; và &quot;không bao giờ&quot;."
+"giá trị hợp lệ là "luôn luôn", "đã trả lời", "đã cố"
+" gắng", "đã đóng", "đã hoàn thành", "
+""past_due", " Correct_or_past_due", "
+""after_all_attempts", "after_all_attempts_or_ Correct", "
+""attempted_no_past_due" và "không bao giờ"."
 
 #. Translators: DO NOT translate the words in quotes here, they are
 #. specific words for the acceptable values.
@@ -13213,8 +13213,8 @@ msgid ""
 "are \"always\", \"never\", and \"past_due\"."
 msgstr ""
 "Chỉ định thời điểm hiển thị câu trả lời đúng và cho điểm cho người học. Các "
-"giá trị hợp lệ là &quot;luôn luôn&quot;, &quot;không bao giờ&quot; và "
-"&quot;past_due&quot;."
+"giá trị hợp lệ là "luôn luôn", "không bao giờ" và "
+""past_due"."
 
 #. Translators: DO NOT translate the words in quotes here, they are
 #. specific words for the acceptable values.
@@ -13227,11 +13227,11 @@ msgid ""
 "\"never\", and \"per_student\"."
 msgstr ""
 "Chỉ định mặc định về tần suất các giá trị biến đổi trong một bài toán được "
-"ngẫu nhiên hóa. Cài đặt này phải được đặt thành &quot;không bao giờ&quot; "
+"ngẫu nhiên hóa. Cài đặt này phải được đặt thành "không bao giờ" "
 "trừ khi bạn định cung cấp tập lệnh Python để xác định và chọn ngẫu nhiên các"
 " giá trị trong hầu hết các vấn đề trong khóa học của mình. Các giá trị hợp "
-"lệ là &quot;luôn luôn&quot;, &quot;bật lại&quot;, &quot;không bao giờ&quot; "
-"và &quot;per_student&quot;."
+"lệ là "luôn luôn", "bật lại", "không bao giờ" "
+"và "per_student"."
 
 #: xmodule/modulestore/inheritance.py:128
 msgid "Days Early for Beta Users"
@@ -13253,7 +13253,7 @@ msgid ""
 "Enter the path to use for files on the Files & Uploads page. This value "
 "overrides the Studio default, c4x://."
 msgstr ""
-"Nhập đường dẫn sử dụng cho file trên trang Files &amp; Uploads. Giá trị này "
+"Nhập đường dẫn sử dụng cho file trên trang Files & Uploads. Giá trị này "
 "ghi đè giá trị mặc định của Studio, c4x://."
 
 #: xmodule/modulestore/inheritance.py:140
@@ -13368,7 +13368,7 @@ msgid ""
 "is changed."
 msgstr ""
 "Nhập đúng hoặc sai. Nếu đúng, các vấn đề trong khóa học mặc định luôn hiển "
-"thị nút &#39;Đặt lại&#39;. Bạn có thể ghi đè điều này trong cài đặt của từng"
+"thị nút 'Đặt lại'. Bạn có thể ghi đè điều này trong cài đặt của từng"
 " vấn đề. Tất cả các vấn đề hiện có đều bị ảnh hưởng khi cài đặt toàn bộ khóa"
 " học này được thay đổi."
 
@@ -13905,7 +13905,7 @@ msgstr ""
 " đặt Được phép tải xuống bản ghi thành True. Nếu bạn muốn cung cấp bản ghi "
 "có thể tải xuống ở định dạng khác, chúng tôi khuyên bạn nên tải bài tập lên "
 "bằng cách sử dụng trường Tải lên bài tập. Nếu không thể, bạn có thể đăng tệp"
-" bản ghi trên trang Tệp &amp; Nội dung tải lên hoặc trên Internet, sau đó "
+" bản ghi trên trang Tệp & Nội dung tải lên hoặc trên Internet, sau đó "
 "thêm URL cho bản ghi tại đây. Học sinh nhìn thấy liên kết để tải xuống bản "
 "ghi đó bên dưới video."
 
@@ -14225,12 +14225,12 @@ msgstr "Slug không được bắt đầu bằng dấu gạch dưới."
 #: wiki/forms.py:231
 #, python-format
 msgid "A deleted article with slug \"%s\" already exists."
-msgstr "Một bài viết đã bị xóa có sên &quot; %s &quot; đã tồn tại."
+msgstr "Một bài viết đã bị xóa có sên " %s " đã tồn tại."
 
 #: wiki/forms.py:233
 #, python-format
 msgid "A slug named \"%s\" already exists."
-msgstr "Một con sên có tên &quot; %s &quot; đã tồn tại."
+msgstr "Một con sên có tên " %s " đã tồn tại."
 
 #: wiki/forms.py:246
 msgid "Yes, I am sure"
@@ -14598,7 +14598,7 @@ msgstr "Bản sửa đổi hiện tại đã thay đổi cho %s ."
 #, python-format
 msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
 msgstr ""
-"Đã thêm tham chiếu đến &quot; %(att)s &quot; từ &quot; %(art)s &quot;."
+"Đã thêm tham chiếu đến " %(att)s " từ " %(art)s "."
 
 #: wiki/plugins/attachments/views.py:232
 #, python-format
@@ -15296,7 +15296,7 @@ msgstr "Bạn đã đăng nhập! Chúc vui vẻ!"
 #: wiki/views/article.py:87
 #, python-format
 msgid "New article '%s' created."
-msgstr "Bài viết mới &#39; %s &#39; đã được tạo."
+msgstr "Bài viết mới ' %s ' đã được tạo."
 
 #: wiki/views/article.py:92
 #, python-format
@@ -15326,7 +15326,7 @@ msgid ""
 "The article \"%s\" is now marked as deleted! Thanks for keeping the site "
 "free from unwanted material!"
 msgstr ""
-"Bài viết &quot; %s &quot; hiện được đánh dấu là đã xóa! Cảm ơn bạn đã giữ "
+"Bài viết " %s " hiện được đánh dấu là đã xóa! Cảm ơn bạn đã giữ "
 "cho trang web không có tài liệu không mong muốn!"
 
 #: wiki/views/article.py:276
@@ -15345,7 +15345,7 @@ msgstr "Đang khôi phục bài viết"
 #, python-format
 msgid "The article \"%s\" and its children are now restored."
 msgstr ""
-"Bài viết &quot; %s &quot; và các phần tử con của nó hiện đã được khôi phục."
+"Bài viết " %s " và các phần tử con của nó hiện đã được khôi phục."
 
 #: wiki/views/article.py:542
 #, python-format
@@ -15377,7 +15377,7 @@ msgid ""
 "Click on the \"Start System Check\" link below to download and run the "
 "proctoring software."
 msgstr ""
-"Nhấp vào liên kết &quot;Bắt đầu kiểm tra hệ thống&quot; bên dưới để tải "
+"Nhấp vào liên kết "Bắt đầu kiểm tra hệ thống" bên dưới để tải "
 "xuống và chạy phần mềm giám sát."
 
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:33
@@ -15400,7 +15400,7 @@ msgstr ""
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:35
 msgid "Click on the \"Start Proctored Exam\" button below to continue."
 msgstr ""
-"Nhấp vào nút &quot;Bắt đầu bài kiểm tra được giám sát&quot; bên dưới để tiếp"
+"Nhấp vào nút "Bắt đầu bài kiểm tra được giám sát" bên dưới để tiếp"
 " tục."
 
 #: cms/templates/404.html:7 cms/templates/error.html:12
@@ -15553,7 +15553,7 @@ msgstr "Tìm hiểu thêm về chứng chỉ"
 #: cms/templates/settings_advanced.html:146
 #: cms/templates/settings_graders.html:169
 msgid "Details & Schedule"
-msgstr "Chi tiết &amp; Lịch trình"
+msgstr "Chi tiết & Lịch trình"
 
 #: cms/templates/certificates.html:116
 #: cms/templates/group_configurations.html:127 cms/templates/settings.html:707
@@ -15985,7 +15985,7 @@ msgstr ""
 "Để tránh lỗi, {platform_name} thực sự khuyên bạn nên xóa các tính năng không"
 " được hỗ trợ khỏi cài đặt nâng cao của khóa học. Để thực hiện việc này, hãy "
 "truy cập trang Cài đặt nâng cao {link_start} {link_end} , tìm cài đặt "
-"&quot;Danh sách mô-đun nâng cao&quot;, sau đó xóa các mô-đun sau khỏi danh "
+""Danh sách mô-đun nâng cao", sau đó xóa các mô-đun sau khỏi danh "
 "sách."
 
 #: cms/templates/course_outline.html:144
@@ -17989,7 +17989,7 @@ msgstr ""
 
 #: cms/templates/settings.html:4
 msgid "Schedule & Details Settings"
-msgstr "Cài đặt lịch trình &amp; chi tiết"
+msgstr "Cài đặt lịch trình & chi tiết"
 
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:171
 #: cms/templates/widgets/header.html:176
@@ -18030,7 +18030,7 @@ msgid ""
 "for enrollment. Please navigate to this course at {link_for_about_page} to "
 "enroll."
 msgstr ""
-"Khóa học &quot; {course_display_name} &quot;, được cung cấp bởi "
+"Khóa học " {course_display_name} ", được cung cấp bởi "
 "{platform_name} , đang mở để ghi danh. Vui lòng điều hướng đến khóa học này "
 "tại {link_for_about_page} để ghi danh."
 
@@ -18054,7 +18054,7 @@ msgid ""
 "instructions provided by your Program Manager."
 msgstr ""
 "Trang tóm tắt khóa học của bạn sẽ không thể xem được cho đến khi khóa học "
-"của bạn được công bố. Để cung cấp nội dung cho trang và xem trước trang đó, "
+"của bạn được xuất bản. Để cung cấp nội dung cho trang và xem trước trang đó, "
 "hãy làm theo hướng dẫn do Người quản lý chương trình của bạn cung cấp."
 
 #: cms/templates/settings.html:129
@@ -18292,9 +18292,9 @@ msgid ""
 " that are taught in a specific language. It is also used to localize the "
 "'From:' field in bulk emails."
 msgstr ""
-"Xác định ngôn ngữ khóa học ở đây. Điều này được sử dụng để hỗ trợ người dùng"
-" tìm các khóa học được dạy bằng một ngôn ngữ cụ thể. Nó cũng được sử dụng để"
-" bản địa hóa trường &#39;Từ:&#39; trong email hàng loạt."
+"Xác định ngôn ngữ của khóa học tại đây. Thông tin này giúp người dùng tìm các"
+" khóa học được giảng dạy bằng một ngôn ngữ cụ thể. Nó cũng dùng để bản địa"
+"hóa nhãn 'From:' (Trường 'Từ:') trong các email gửi hàng loạt."
 
 #: cms/templates/settings.html:388
 msgid "Introducing Your Course"
@@ -18703,8 +18703,8 @@ msgid ""
 "quotation marks (')."
 msgstr ""
 "{em_start} Lưu ý: {em_end} Khi bạn nhập chuỗi làm giá trị chính sách, hãy "
-"đảm bảo rằng bạn sử dụng dấu ngoặc kép (&quot;) xung quanh chuỗi. Không sử "
-"dụng dấu ngoặc đơn (&#39;)."
+"đảm bảo rằng bạn sử dụng dấu ngoặc kép (") xung quanh chuỗi. Không sử "
+"dụng dấu ngoặc đơn (')."
 
 #: cms/templates/settings_graders.html:4
 msgid "Grading Settings"
@@ -18740,7 +18740,7 @@ msgstr "Phải lớn hơn hoặc bằng điểm đậu khóa học"
 
 #: cms/templates/settings_graders.html:115
 msgid "Grading Rules & Policies"
-msgstr "Quy tắc &amp; Chính sách chấm điểm"
+msgstr "Quy tắc & Chính sách chấm điểm"
 
 #: cms/templates/settings_graders.html:116
 msgid "Deadlines, requirements, and logistics around grading student work"
@@ -19011,7 +19011,7 @@ msgid ""
 "User '{user}' with e-mail {email} has requested {studio_name} course creator"
 " privileges."
 msgstr ""
-"Người dùng &#39;{user}&#39; có email {email} đã yêu cầu quyền tạo khóa học "
+"Người dùng '{user}' có email {email} đã yêu cầu quyền tạo khóa học "
 "{studio_name} ."
 
 #: cms/templates/emails/course_creator_admin_user_pending.txt:5
@@ -19061,7 +19061,7 @@ msgid ""
 "this URL to view task details or download any files created: {detail_url}"
 msgstr ""
 "Nhiệm vụ {task_name} của bạn đã hoàn thành với trạng thái "
-"&#39;{task_status}&#39;. Sử dụng URL này để xem chi tiết nhiệm vụ hoặc tải "
+"'{task_status}'. Sử dụng URL này để xem chi tiết nhiệm vụ hoặc tải "
 "xuống bất kỳ tệp nào được tạo: {detail_url}"
 
 #: cms/templates/emails/user_task_complete_email.txt:12
@@ -19071,7 +19071,7 @@ msgid ""
 " to view the details of your task or download any files created."
 msgstr ""
 "Nhiệm vụ {task_name} của bạn đã hoàn thành với trạng thái "
-"&#39;{task_status}&#39;. Đăng nhập để xem chi tiết nhiệm vụ của bạn hoặc tải"
+"'{task_status}'. Đăng nhập để xem chi tiết nhiệm vụ của bạn hoặc tải"
 " xuống bất kỳ tệp nào được tạo."
 
 #: cms/templates/emails/user_task_complete_email.txt:21
@@ -19505,7 +19505,7 @@ msgid ""
 "this content."
 msgstr ""
 "Bạn phải hoàn thành các điều kiện tiên quyết cho "
-"&#39;{prereq_section_name}&#39; để truy cập nội dung này."
+"'{prereq_section_name}' để truy cập nội dung này."
 
 #: lms/templates/_gated_content.html:22
 msgid "Go to Prerequisite Section"
@@ -19868,7 +19868,7 @@ msgstr "Xem tài nguyên trong cửa sổ mới"
 msgid ""
 "Please provide launch_url. Click \"Edit\", and fill in the required fields."
 msgstr ""
-"Vui lòng cung cấp launch_url. Nhấp vào &quot;Chỉnh sửa&quot; và điền vào các"
+"Vui lòng cung cấp launch_url. Nhấp vào "Chỉnh sửa" và điền vào các"
 " trường bắt buộc."
 
 #: lms/templates/lti.html:62
@@ -20240,7 +20240,7 @@ msgid ""
 "'{group_configuration_name}'."
 msgstr ""
 "Thử nghiệm nội dung này sử dụng cấu hình nhóm "
-"&#39;{group_configuration_name}&#39;."
+"'{group_configuration_name}'."
 
 #: lms/templates/split_test_author_view.html:30
 msgid "Active Groups"
@@ -20277,7 +20277,7 @@ msgstr "Nhãn"
 
 #: lms/templates/staff_problem_info.html:46
 msgid "Optional tag (eg \"done\" or \"broken\"):"
-msgstr "Thẻ tùy chọn (ví dụ: &quot;xong&quot; hoặc &quot;bị hỏng&quot;):"
+msgstr "Thẻ tùy chọn (ví dụ: "xong" hoặc "bị hỏng"):"
 
 #: lms/templates/staff_problem_info.html:47
 msgid "tag"
@@ -20701,14 +20701,14 @@ msgstr ""
 "Chào mừng bạn đến với {platform_name} . Cảm ơn bạn đã sử dụng API khám phá "
 "khóa học, API doanh nghiệp và/hoặc bất kỳ API bổ sung nào của "
 "{platform_name} mà đôi khi chúng tôi có thể cung cấp (gọi chung là "
-"&quot;API&quot;). Vui lòng đọc các Điều khoản dịch vụ này trước khi truy cập"
+""API"). Vui lòng đọc các Điều khoản dịch vụ này trước khi truy cập"
 " hoặc sử dụng API. Các Điều khoản dịch vụ này, mọi điều khoản bổ sung trong "
 "tài liệu API đi kèm cũng như mọi chính sách và nguyên tắc hiện hành mà "
 "{platform_name} cung cấp và/hoặc cập nhật tùy từng thời điểm đều là các thỏa"
-" thuận (gọi chung là &quot;Điều khoản&quot;) giữa bạn và {platform_name} . "
+" thuận (gọi chung là "Điều khoản") giữa bạn và {platform_name} . "
 "Các Điều khoản này được ban hành theo thỏa thuận sản phẩm doanh nghiệp, thỏa"
 " thuận tham gia của thành viên hoặc thỏa thuận trực tiếp khác điều chỉnh "
-"việc mua sản phẩm {platform_name} , nếu có (&quot;Thỏa thuận&quot;), do bạn "
+"việc mua sản phẩm {platform_name} , nếu có ("Thỏa thuận"), do bạn "
 "hoặc bên mà bạn thay mặt truy cập hoặc sử dụng API thực hiện và "
 "{platform_name} . Trong trường hợp bạn có Thỏa thuận áp dụng cho việc sử "
 "dụng API của bạn, Thỏa thuận sẽ kiểm soát trong trường hợp có bất kỳ xung "
@@ -20719,7 +20719,7 @@ msgstr ""
 "khác, bạn đồng ý với các Điều khoản này dành cho pháp nhân đó và tuyên bố và"
 " bảo đảm với {platform_name} rằng bạn có toàn quyền chấp nhận và đồng ý với "
 "các Điều khoản này dành cho pháp nhân đó , trong trường hợp đó, các thuật "
-"ngữ &quot;bạn&quot;, &quot;của bạn&quot; hoặc các điều khoản liên quan trong"
+"ngữ "bạn", "của bạn" hoặc các điều khoản liên quan trong"
 " tài liệu này sẽ đề cập đến thực thể đó mà bạn đang thay mặt họ truy cập "
 "hoặc sử dụng API. Nếu bạn không có thẩm quyền đó hoặc nếu bạn không hiểu "
 "hoặc không muốn bị ràng buộc bởi Điều khoản, bạn không nên sử dụng API."
@@ -20776,9 +20776,9 @@ msgid ""
 "{platform_url}."
 msgstr ""
 "Bạn đồng ý chỉ sử dụng API cho mục đích phân phối nội dung được truy cập "
-"thông qua API (&quot;Nội dung API&quot;) tới trang web, trang web dành cho "
+"thông qua API ("Nội dung API") tới trang web, trang web dành cho "
 "thiết bị di động, ứng dụng, blog, danh sách phân phối email hoặc tài sản "
-"truyền thông xã hội của riêng bạn (&quot;Ứng dụng của bạn &quot;) hoặc cho "
+"truyền thông xã hội của riêng bạn ("Ứng dụng của bạn ") hoặc cho "
 "mục đích sử dụng thương mại khác mà bạn đã mô tả trong yêu cầu quyền truy "
 "cập của mình và {platform_name} đã phê duyệt tùy theo từng trường hợp. "
 "{platform_name_capitalized} có thể giám sát việc bạn sử dụng API để tuân thủ"
@@ -20983,7 +20983,7 @@ msgid ""
 "other entities providing information, API Content or services for the APIs, "
 "the course instructors and their staffs."
 msgstr ""
-"Tất cả tên, logo và con dấu (&quot;Thương hiệu&quot;) xuất hiện trong API, "
+"Tất cả tên, logo và con dấu ("Thương hiệu") xuất hiện trong API, "
 "Nội dung API hoặc trên hoặc thông qua các dịch vụ được cung cấp trên hoặc "
 "thông qua API, nếu có, đều là tài sản của chủ sở hữu tương ứng. Bạn không "
 "được xóa, thay đổi hoặc che khuất bất kỳ thông báo bản quyền, Thương hiệu "
@@ -20994,7 +20994,7 @@ msgstr ""
 " giới hạn bất kỳ Thương hiệu nào, bạn phải đảm bảo rằng tất cả Nội dung API "
 "liên quan đến {platform_name} Người tham gia hoặc bên thứ ba đó sẽ bị xóa "
 "khỏi Ứng dụng của bạn cũng như mạng, hệ thống và máy chủ của bạn ngay khi có"
-" thể. &quot; {platform_name_capitalized} Người tham gia&quot; nghĩa là MIT, "
+" thể. " {platform_name_capitalized} Người tham gia" nghĩa là MIT, "
 "Harvard và các tổ chức khác cung cấp thông tin, Nội dung API hoặc dịch vụ "
 "cho API, người hướng dẫn khóa học và nhân viên của họ."
 
@@ -21128,9 +21128,9 @@ msgid ""
 " unless a court orders that {platform_name} not receive notice."
 msgstr ""
 "Trong trường hợp {platform_name} cung cấp cho bạn quyền truy cập vào thông "
-"tin cụ thể đối với {platform_name} và/hoặc các API được đánh dấu là &quot;Bí"
-" mật&quot; hoặc mà một người hợp lý sẽ cho là bí mật hoặc độc quyền theo các"
-" điều khoản tiết lộ thông tin đó (&quot;Thông tin bí mật&quot; ), bạn đồng ý"
+"tin cụ thể đối với {platform_name} và/hoặc các API được đánh dấu là "Bí"
+" mật" hoặc mà một người hợp lý sẽ cho là bí mật hoặc độc quyền theo các"
+" điều khoản tiết lộ thông tin đó ("Thông tin bí mật" ), bạn đồng ý"
 " chỉ sử dụng thông tin này để sử dụng và xây dựng bằng API. Bạn không được "
 "tiết lộ Thông tin bí mật cho bất kỳ ai mà không có sự đồng ý trước bằng văn "
 "bản của {platform_name} và bạn đồng ý bảo vệ Thông tin bí mật khỏi việc sử "
@@ -21156,7 +21156,7 @@ msgid ""
 "WARRANTIES MAY NOT BE DISCLAIMED UNDER APPLICABLE LAW."
 msgstr ""
 "API VÀ BẤT KỲ THÔNG TIN NÀO, NỘI DUNG API HOẶC DỊCH VỤ CÓ SẴN TRÊN HOẶC QUA "
-"API ĐƯỢC CUNG CẤP &quot;NGUYÊN TRẠNG&quot; VÀ &quot;NHƯ CÓ SẴN&quot; MÀ "
+"API ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" VÀ "NHƯ CÓ SẴN" MÀ "
 "KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO (RÕ RÀNG, NGỤ Ý HAY CÁCH KHÁC), "
 "BAO GỒM, KHÔNG GIỚI HẠN, BẤT KỲ BẢO ĐẢM NGỤ Ý NÀO VỀ KHẢ NĂNG CÓ THỂ BÁN, SỰ"
 " PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM, TRỪ KHI MỌI BẢO ĐẢM NGỤ Ý"
@@ -21754,7 +21754,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:34
 msgid "Checking this box has no effect if 'Unenroll' is selected."
 msgstr ""
-"Việc chọn hộp này không có hiệu lực nếu &#39;Hủy ghi danh&#39; được chọn."
+"Việc chọn hộp này không có hiệu lực nếu 'Hủy ghi danh' được chọn."
 
 #: lms/templates/ccx/enrollment.html:44
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:43
@@ -22532,7 +22532,7 @@ msgstr "Xem chấm điểm trong Studio"
 #: lms/templates/courseware/progress.html:67
 #, python-brace-format
 msgid "Course Progress for '{username}' ({email})"
-msgstr "Tiến độ khóa học cho &#39;{username}&#39; ( {email} )"
+msgstr "Tiến độ khóa học cho '{username}' ( {email} )"
 
 #: lms/templates/courseware/progress.html:85
 msgid "View Certificate"
@@ -23551,8 +23551,8 @@ msgid ""
 "(3) On the enrollment confirmation page, Click the 'Activate Enrollment "
 "Code' button. This will show the enrollment confirmation."
 msgstr ""
-"(3) Trên trang xác nhận ghi danh, nhấp vào nút &#39;Kích hoạt mã ghi "
-"danh&#39;. Điều này sẽ hiển thị xác nhận ghi danh."
+"(3) Trên trang xác nhận ghi danh, nhấp vào nút 'Kích hoạt mã ghi "
+"danh'. Điều này sẽ hiển thị xác nhận ghi danh."
 
 #: lms/templates/emails/business_order_confirmation_email.txt:97
 #, python-brace-format
@@ -23560,7 +23560,7 @@ msgid ""
 "(4) You should be able to click on 'view course' button or see your course "
 "on your student dashboard at {url}"
 msgstr ""
-"(4) Bạn có thể nhấp vào nút &#39;xem khóa học&#39; hoặc xem khóa học của "
+"(4) Bạn có thể nhấp vào nút 'xem khóa học' hoặc xem khóa học của "
 "mình trên bảng điều khiển sinh viên tại {url}"
 
 #: lms/templates/emails/business_order_confirmation_email.txt:100
@@ -24221,8 +24221,8 @@ msgid ""
 msgstr ""
 "Bấm vào để hiển thị cấu hình chấm điểm cho khóa học. Cấu hình chấm điểm là "
 "thông tin chi tiết về các phần phụ được chấm điểm của khóa học (chẳng hạn "
-"như bài kiểm tra và bộ bài tập) và có thể thay đổi trên trang &quot;Chấm "
-"điểm&quot; (trong phần &quot;Cài đặt&quot;) trong Studio."
+"như bài kiểm tra và bộ bài tập) và có thể thay đổi trên trang "Chấm "
+"điểm" (trong phần "Cài đặt") trong Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:14
 msgid "Grading Configuration"
@@ -24837,7 +24837,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:114
 msgid "Checking this box has no effect if 'Remove beta testers' is selected."
 msgstr ""
-"Việc chọn hộp này không có hiệu lực nếu &#39;Xóa người thử nghiệm beta&#39; "
+"Việc chọn hộp này không có hiệu lực nếu 'Xóa người thử nghiệm beta' "
 "được chọn."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:133
@@ -24976,7 +24976,7 @@ msgid ""
 msgstr ""
 "Quản trị viên thảo luận có thể chỉnh sửa hoặc xóa bất kỳ bài đăng nào, xóa "
 "cờ sử dụng sai, đóng và mở lại chủ đề, xác nhận phản hồi và xem bài đăng từ "
-"tất cả các nhóm. Bài đăng của họ được đánh dấu là &#39;nhân viên&#39;. Họ "
+"tất cả các nhóm. Bài đăng của họ được đánh dấu là 'nhân viên'. Họ "
 "cũng có thể thêm và xóa vai trò điều hành thảo luận để quản lý tư cách thành"
 " viên nhóm khóa học. Bất kỳ người dùng nào chưa đăng ký khóa học sẽ được tự "
 "động đăng ký khi được thêm làm Quản trị viên thảo luận"
@@ -25018,8 +25018,8 @@ msgid ""
 msgstr ""
 "Người điều hành thảo luận có thể chỉnh sửa hoặc xóa bất kỳ bài đăng nào, xóa"
 " cờ sử dụng sai, đóng và mở lại các chủ đề, xác nhận phản hồi và xem các bài"
-" đăng từ tất cả các nhóm. Bài đăng của họ được đánh dấu là &#39;nhân "
-"viên&#39;. Họ không thể quản lý tư cách thành viên nhóm khóa học bằng cách "
+" đăng từ tất cả các nhóm. Bài đăng của họ được đánh dấu là 'nhân "
+"viên'. Họ không thể quản lý tư cách thành viên nhóm khóa học bằng cách "
 "thêm hoặc xóa vai trò điều hành thảo luận. Bất kỳ người dùng nào chưa đăng "
 "ký khóa học sẽ được tự động đăng ký khi được thêm làm Người điều hành thảo "
 "luận"
@@ -25047,7 +25047,7 @@ msgstr ""
 "của học viên trong nhóm được chỉ định. Họ có thể chỉnh sửa hoặc xóa bài "
 "đăng, xóa cờ, đóng và mở lại các chủ đề và xác nhận phản hồi, nhưng chỉ đối "
 "với các bài đăng của học viên trong nhóm của họ. Bài đăng của họ được đánh "
-"dấu là &#39;Trợ giảng cộng đồng&#39;. Bất kỳ người dùng nào chưa đăng ký "
+"dấu là 'Trợ giảng cộng đồng'. Bất kỳ người dùng nào chưa đăng ký "
 "khóa học sẽ tự động được đăng ký khi được thêm vào làm Trợ giảng cộng đồng "
 "nhóm"
 
@@ -25068,7 +25068,7 @@ msgstr ""
 "hành các cuộc thảo luận. Họ có thể xem các bài đăng của người học trong nhóm"
 " hoặc đường dẫn ghi danh được chỉ định của họ và có thể chỉnh sửa hoặc xóa "
 "bài đăng, xóa cờ, đóng hoặc mở lại các chủ đề và xác nhận phản hồi. Bài đăng"
-" của họ được đánh dấu là &#39;Trợ giảng cộng đồng&#39;. Bất kỳ người dùng "
+" của họ được đánh dấu là 'Trợ giảng cộng đồng'. Bất kỳ người dùng "
 "nào chưa đăng ký khóa học sẽ được tự động ghi danh khi được thêm vào làm Trợ"
 " giảng cộng đồng"
 
@@ -25360,7 +25360,7 @@ msgid ""
 "improves in the learner's favor."
 msgstr ""
 "Đối với bài toán cụ thể, cho điểm lại câu trả lời của người học. Tùy chọn "
-"&#39;Chỉ tính điểm lại nếu điểm được cải thiện&#39; chỉ cập nhật điểm của "
+"'Chỉ tính điểm lại nếu điểm được cải thiện' chỉ cập nhật điểm của "
 "người học nếu nó cải thiện theo hướng có lợi cho người học."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:101
@@ -25442,8 +25442,8 @@ msgid ""
 "Only If Score Improves' option updates the learner's scores only if it "
 "improves in the learner's favor."
 msgstr ""
-"Ghi lại bất kỳ câu trả lời nào đã được gửi. Tùy chọn &#39;Chỉ ghi lại tất cả"
-" các vấn đề nếu điểm được cải thiện&#39; chỉ cập nhật điểm của người học nếu"
+"Ghi lại bất kỳ câu trả lời nào đã được gửi. Tùy chọn 'Chỉ ghi lại tất cả"
+" các vấn đề nếu điểm được cải thiện' chỉ cập nhật điểm của người học nếu"
 " nó cải thiện theo hướng có lợi cho người học."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:165
@@ -25487,8 +25487,8 @@ msgid ""
 "Rescore submitted responses. The 'Rescore Only If Scores Improve' option "
 "updates a learner's score only if it improves in the learner's favor."
 msgstr ""
-"Ghi lại các câu trả lời đã gửi. Tùy chọn &#39;Chỉ tính điểm lại nếu điểm "
-"được cải thiện&#39; chỉ cập nhật điểm của người học nếu điểm đó được cải "
+"Ghi lại các câu trả lời đã gửi. Tùy chọn 'Chỉ tính điểm lại nếu điểm "
+"được cải thiện' chỉ cập nhật điểm của người học nếu điểm đó được cải "
 "thiện theo hướng có lợi cho người học."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:219
@@ -25528,8 +25528,8 @@ msgid ""
 msgstr ""
 "Bấm vào để hiển thị cấu hình chấm điểm cho khóa học. Cấu hình chấm điểm là "
 "thông tin chi tiết về các phần phụ được chấm điểm của khóa học (chẳng hạn "
-"như bài kiểm tra và bộ bài tập) và có thể được thay đổi trên trang &#39;Chấm"
-" điểm&#39; (trong phần &#39;Cài đặt&#39;) trong Studio."
+"như bài kiểm tra và bộ bài tập) và có thể được thay đổi trên trang 'Chấm"
+" điểm' (trong phần 'Cài đặt') trong Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:74
 msgid "Click to download a CSV of                 anonymized student IDs:"
@@ -26507,7 +26507,7 @@ msgid ""
 msgstr ""
 "Bạn sẽ nhận được một email kích hoạt. Bạn phải nhấp vào liên kết kích hoạt "
 "để hoàn tất quá trình. Bạn không thấy email? Kiểm tra thư mục thư rác và "
-"đánh dấu email từ class.stanford.edu là &#39;không phải thư rác&#39; vì bạn "
+"đánh dấu email từ class.stanford.edu là 'không phải thư rác' vì bạn "
 "sẽ muốn nhận được email từ các khóa học của mình."
 
 #: themes/stanford-style/lms/templates/register-sidebar.html:32

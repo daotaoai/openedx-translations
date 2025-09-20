@@ -427,7 +427,7 @@ msgid ""
 "The score kept in the xblock KVS -- duplicate of the published score in "
 "django DB"
 msgstr ""
-"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được công bố trong "
+"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được xuất bản trong "
 "django DB"
 
 #: lti_xblock.py:545

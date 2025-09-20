@@ -1883,7 +1883,7 @@ msgstr ""
 #: templates/legacy/self/oa_self_closed.html:20
 #: templates/legacy/student_training/student_training_closed.html:17
 msgid "Incomplete"
-msgstr "chưa hoàn thiện"
+msgstr "chưa hoàn thành"
 
 #: templates/legacy/response/oa_response_closed.html:32
 msgid ""
