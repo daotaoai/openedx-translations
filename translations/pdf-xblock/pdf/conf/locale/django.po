@@ -1,0 +1,94 @@
+# Translation template for PDF XBlock
+# Copyright (C) 2025
+# This file is distributed under the same license as the PDF XBlock package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF XBlock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-17 12:00+0000\n"
+"PO-Revision-Date: 2025-09-17 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese <>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: pdf/pdf.py:42
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: pdf/pdf.py:43
+msgid "PDF"
+msgstr "PDF"
+
+#: pdf/pdf.py:44
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "Tên này xuất hiện trong thanh điều hướng ngang ở đầu trang."
+
+#: pdf/pdf.py:48
+msgid "PDF URL"
+msgstr "Liên kết PDF"
+
+#: pdf/pdf.py:51
+msgid "The URL for your PDF."
+msgstr "Liên kết đến tệp PDF của bạn."
+
+#: pdf/pdf.py:55
+msgid "PDF Download Allowed"
+msgstr "Cho phép tải PDF"
+
+#: pdf/pdf.py:57
+msgid "Display a download button for this PDF."
+msgstr "Hiển thị nút tải xuống cho PDF này."
+
+#: pdf/pdf.py:61
+msgid "Source document URL"
+msgstr "Đường dẫn tài liệu gốc"
+
+#: pdf/pdf.py:65
+msgid "Add a download link for the source file of your PDF. Use it for example to provide the PowerPoint file used to create this PDF."
+msgstr "Thêm liên kết tải xuống cho tệp gốc của PDF. Ví dụ: cung cấp tệp PowerPoint đã dùng để tạo PDF này."
+
+#: pdf/static/html/pdf_view.html:6
+#: pdf/static/html/pdf_view.html:10
+msgid "PDF plugin not found in this browser."
+msgstr "Không tìm thấy plugin PDF trong trình duyệt này."
+
+#: pdf/static/html/pdf_view.html:16
+msgid "Download PDF"
+msgstr "Tải xuống PDF"
+
+#: pdf/static/html/pdf_view.html:21
+msgid "Download source document"
+msgstr "Tải xuống tài liệu gốc"
+
+#: pdf/static/html/pdf_edit.html:7
+msgid "True"
+msgstr "Đúng"
+
+#: pdf/static/html/pdf_edit.html:8
+msgid "False"
+msgstr "Sai"
+
+#: pdf/static/html/pdf_edit.html:46
+msgid "Save"
+msgstr "Lưu"
+
+#: pdf/static/html/pdf_edit.html:49
+msgid "Cancel"
+msgstr "Hủy"
+
+#: pdf/pdf.py
+msgid "Display name cannot be empty"
+msgstr "Tên hiển thị không được để trống"
+
+#: pdf/pdf.py
+msgid "PDF URL cannot be empty"
+msgstr "URL PDF không được để trống"
+
+#: pdf/pdf.py
+msgid "Settings saved successfully"
+msgstr "Cài đặt đã được lưu thành công"
