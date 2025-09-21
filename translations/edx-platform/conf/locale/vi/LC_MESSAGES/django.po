@@ -26859,6 +26859,9 @@ msgstr "Liên kết đến tệp PDF của bạn."
 msgid "PDF Download Allowed"
 msgstr "Cho phép tải PDF"
 
+msgid "Display a download button for this PDF."
+msgstr "Hiển thị nút tải xuống cho PDF này."
+
 #: pdf/pdf.py:61
 msgid "Source document URL"
 msgstr "Đường dẫn tài liệu gốc"
