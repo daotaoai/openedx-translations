@@ -17994,7 +17994,7 @@ msgstr "Cài đặt lịch trình & chi tiết"
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:171
 #: cms/templates/widgets/header.html:176
 msgid "Schedule & Details"
-msgstr "Lịch học & Thông tin chi tiết"
+msgstr "Lịch trình & Chi tiết"
 
 #: cms/templates/settings.html:66
 msgid "Basic Information"
