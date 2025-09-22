@@ -86,8 +86,8 @@ msgid "Invalid Timemap"
 msgstr "Bản đồ thời gian không hợp lệ"
 
 #: invideoquiz/invideoquiz.py:148
-msgid "Invalid time format for key: {}. Expected 'number' or 'smaller number-larger number'."
-msgstr "Định dạng thời gian không hợp lệ cho khóa: {}. Mong đợi 'số' hoặc 'số nhỏ-số lớn'."
+msgid "Invalid time format for key: {keys}. Expected 'number' or 'smaller number-larger number'."
+msgstr "Định dạng thời gian không hợp lệ cho khóa: {keys}. Mong đợi 'số' hoặc 'số nhỏ-số lớn'."
 
 #: public/js/src/invideoquiz.js:10
 msgid "Continue"
