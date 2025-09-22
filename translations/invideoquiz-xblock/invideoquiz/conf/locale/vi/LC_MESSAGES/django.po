@@ -22,8 +22,8 @@ msgid "Display Name"
 msgstr "Tên hiển thị"
 
 #: invideoquiz/invideoquiz.py:41
-msgid "In-Video Quiz XBlock"
-msgstr "Câu hỏi trắc nghiệm trong Video"
+msgid "Câu hỏi trắc nghiệm trong video"
+msgstr "In-Video Quiz XBlock"
 
 #: invideoquiz/invideoquiz.py:46
 msgid "Video Location"
@@ -32,28 +32,29 @@ msgstr "Vị trí Video"
 #: invideoquiz/invideoquiz.py:49-53
 msgid ""
 "This is the component ID for the video in which "
-"you want to insert your quiz questions. You can get this information "
-"by copying the Video ID below the Video's display name. "
+"you want to insert your quiz questions. It can be "
+"obtained from staff debug info of the video in the LMS."
 msgstr ""
 "Đây là ID thành phần cho video mà bạn muốn "
-"chèn các câu hỏi trắc nghiệm. Bạn có thể lấy thông tin này "
-"bằng cách sao chép Video ID bên dưới tên hiển thị của Video. "
+"chèn các câu hỏi trắc nghiệm. Nó có thể được lấy "
+"từ thông tin gỡ lỗi của video trong LMS."
 
 #: invideoquiz/invideoquiz.py:57
 msgid "Problem Timemap"
-msgstr "Bản đồ thời gian bài tập"
+msgstr "Ánh xạ thời gian câu hỏi"
 
 #: invideoquiz/invideoquiz.py:60-66
 msgid ""
 "A simple string field to define problem IDs "
 "and their time maps (in seconds) as JSON. "
-"Example: {\"60\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"} or {\"10-30\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"}. "
-"You can get Problem IDs by copying the Problem ID below the Problem's display name. "
+"Example: {\"60\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"} "
+"Problem IDs can be obatined from staff debug info of "
+"the problems in the LMS."
 msgstr ""
-"Một trường chuỗi đơn giản để định nghĩa ID bài tập "
-"và bản đồ thời gian của chúng (tính bằng giây) dưới dạng JSON. "
-"Ví dụ: {\"60\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"} hoặc {\"10-30\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"}. "
-"Bạn có thể lấy ID bài tập bằng cách sao chép Problem ID bên dưới tên hiển thị của bài tập. "
+"Một trường chuỗi đơn giản để xác định ID bài tập "
+"và ánh xạ thời gian của chúng (tính bằng giây) dưới dạng JSON. "
+"Ví dụ: {\"60\": \"50srvqlii4ru9gonprp35gkcfyd5weju\"}. "
+"Bạn có thể lấy Problem ID từ thông tin gỡ lỗi (staff debug) của bài tập trong LMS."
 
 #: invideoquiz/invideoquiz.py:70
 msgid "User's Problem Timemap"
