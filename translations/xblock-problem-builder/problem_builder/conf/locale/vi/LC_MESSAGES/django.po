@@ -701,7 +701,7 @@ msgstr "Tiêu đề câu hỏi"
 
 #: mixins.py:142
 msgid "Leave blank to use the default (\"Question 1\", \"Question 2\", etc.)"
-msgstr "Để trống để dùng mặc định ("Câu hỏi 1", "Câu hỏi 2", ... )"
+msgstr "Để trống để dùng mặc định (\"Câu hỏi 1\", \"Câu hỏi 2\", ... )"
 
 #: mixins.py:148
 msgid "Defines the maximum total grade of this question."
@@ -846,7 +846,7 @@ msgid ""
 "a triple of the form \"claim, q1, q2\", where \"claim\" is arbitrary text "
 "that represents a claim, and \"q1\" and \"q2\" are IDs of scale or rating "
 "questions. "
-msgstr "Các tuyên bố và câu hỏi nên được bao gồm trong biểu đồ. Mỗi dòng định nghĩa một bộ ba dạng "tuyên bố, q1, q2", trong đó "tuyên bố" là văn bản tuỳ ý đại diện cho tuyên bố, và "q1", "q2" là ID của câu hỏi thang đo hoặc đánh giá."
+msgstr "Các tuyên bố và câu hỏi nên được bao gồm trong biểu đồ. Mỗi dòng định nghĩa một bộ ba dạng \"tuyên bố, q1, q2\", trong đó \"tuyên bố\" là văn bản tuỳ ý đại diện cho tuyên bố, và \"q1\", \"q2\" là ID của câu hỏi thang đo hoặc đánh giá."
 
 #: plot.py:335
 msgid ""
