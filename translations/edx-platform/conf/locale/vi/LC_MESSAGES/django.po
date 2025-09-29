@@ -24720,7 +24720,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:29
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:116
 msgid "Instructor Dashboard"
-msgstr "Bảng điều khiển dành cho người hướng dẫn"
+msgstr "Bảng điều khiển dành cho giảng viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:119
 msgid "View Course in Studio"

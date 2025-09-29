@@ -8583,7 +8583,7 @@ msgid ""
 msgstr ""
 "Chọn phân bổ thời gian cho kỳ thi. Nếu trên 24 giờ, hãy nhập khoảng thời "
 "gian. Bạn có thể cho từng người học thêm thời gian để hoàn thành bài kiểm "
-"tra thông qua Bảng điều khiển dành cho người hướng dẫn."
+"tra thông qua Bảng điều khiển dành cho giảng viên."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:77
 msgid "Review Rules"
