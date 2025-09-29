@@ -11480,3 +11480,7 @@ msgstr "(được lọc từ _MAX_ dữ liệu)"
 #: lms/static/js/instructor_dashboard/visual_report.js
 msgid "Download CSV"
 msgstr "Tải xuống CSV"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"
