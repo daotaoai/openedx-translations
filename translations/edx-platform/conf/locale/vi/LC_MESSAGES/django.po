@@ -5463,6 +5463,7 @@ msgstr "Ngày đến hạn được gia hạn phải muộn hơn ngày đến h�
 #: themes/stanford-style/lms/templates/register-form.html:88
 #: themes/stanford-style/lms/templates/register-form.html:142
 #: themes/stanford-style/lms/templates/register-shib.html:144
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "Full Name"
 msgstr "Họ và tên"
 
@@ -26876,10 +26877,6 @@ msgstr "Báo cáo trực quan"
 #: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "No."
 msgstr "STT"
-
-#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
-msgid "Full Name"
-msgstr "Họ tên"
 
 #: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "Group Name"
