@@ -4653,7 +4653,7 @@ msgid ""
 "are optional."
 msgstr ""
 "Dữ liệu trong hàng # {row_num} phải có từ bốn đến sáu cột: email, tên người "
-"dùng, tên đầy đủ, quốc gia, nhóm thuần tập và chế độ khóa học. Hai cột cuối "
+"dùng, tên đầy đủ, quốc gia, nhóm và chế độ khóa học. Hai cột cuối "
 "cùng là tùy chọn."
 
 #: lms/djangoapps/instructor/views/api.py:402
@@ -4941,7 +4941,7 @@ msgstr "ghi danh"
 
 #: lms/djangoapps/instructor/views/api.py:1606
 msgid "The file must contain a 'cohort' column containing cohort names."
-msgstr "Tệp phải chứa cột 'nhóm thuần tập' chứa tên nhóm thuần tập."
+msgstr "Tệp phải chứa cột 'nhóm' chứa tên nhóm."
 
 #: lms/djangoapps/instructor/views/api.py:1608
 msgid "The file must contain a 'username' column, an 'email' column, or both."
@@ -8159,7 +8159,7 @@ msgstr "Phải có một nhóm mà học sinh có thể tự động được ch
 
 #: openedx/core/djangoapps/course_groups/views.py:204
 msgid "A cohort with the same name already exists."
-msgstr "Một nhóm thuần tập có cùng tên đã tồn tại."
+msgstr "Một nhóm có cùng tên đã tồn tại."
 
 #: openedx/core/djangoapps/course_live/models.py:21
 msgid "If disabled, the LTI in the associated course will be disabled."
@@ -16707,7 +16707,7 @@ msgid ""
 "create cohort-specific courseware. In other words, you can customize the "
 "content that particular cohorts see in your course."
 msgstr ""
-"Nếu bạn đã bật nhóm thuần tập trong khóa học của mình, bạn có thể sử dụng "
+"Nếu bạn đã bật nhóm trong khóa học của mình, bạn có thể sử dụng "
 "nhóm nội dung để tạo chương trình học dành riêng cho nhóm đó. Nói cách khác,"
 " bạn có thể tùy chỉnh nội dung mà các nhóm cụ thể nhìn thấy trong khóa học "
 "của mình."
