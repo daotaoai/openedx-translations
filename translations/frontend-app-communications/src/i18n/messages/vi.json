@@ -1,6 +1,6 @@
 {
   "bulk.email.send.email.header": "Gửi email",
-  "bulk.email.back.to.instructorDashboard": "Quay lại Bảng điều khiển dành cho người hướng dẫn",
+  "bulk.email.back.to.instructorDashboard": "Quay lại Bảng điều khiển dành cho giảng viên",
   "bulk.email.form.schedule.date": "Gửi ngày",
   "bulk.email.form.schedule.date.description": "Nhập ngày bắt đầu, ví dụ: {date}",
   "bulk.email.form.schedule.time": "Gửi thời gian",
@@ -34,7 +34,7 @@
   "bulk.email.task.alert.warning": "Thao tác này sẽ không tạo tác vụ email theo lịch mới mà thay vào đó sẽ ghi đè tác vụ hiện được chọn. Bạn có muốn ghi đè email đã lên lịch này không?",
   "bulk.email.pending.tasks.description.one": "Để xem tất cả các tác vụ đang chờ xử lý, bao gồm cả email, hãy truy cập",
   "bulk.email.pending.tasks.link": "Thông tin khóa học",
-  "bulk.email.pending.tasks.description.two": "trong Bảng điều khiển dành cho người hướng dẫn.",
+  "bulk.email.pending.tasks.description.two": "trong Bảng điều khiển dành cho giảng viên.",
   "bulk.email.tool.close.modalDialog.button": "Đóng",
   "bulk.email.tool.copy.message.button": "Sao chép vào trình chỉnh sửa",
   "bulk.email.content.history.table.alert.errorFetchingData": "Đã xảy ra lỗi khi truy xuất dữ liệu lịch sử email cho khóa học này. Vui lòng thử lại sau.",

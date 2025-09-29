@@ -3450,7 +3450,7 @@ msgstr ""
 
 #: lms/static/js/discussions_management/views/discussions.js:74
 msgid "Cohorts"
-msgstr "Nhóm thuần tập"
+msgstr "nhóm"
 
 #: lms/static/js/discussions_management/views/discussions.js:75
 msgid ""
@@ -3590,7 +3590,7 @@ msgstr "Tab đã chọn"
 
 #: lms/static/js/groups/views/cohort_editor.js:77
 msgid "Saved cohort"
-msgstr "Nhóm thuần tập đã lưu"
+msgstr "nhóm đã lưu"
 
 #: lms/static/js/groups/views/cohort_editor.js:120
 msgid "Error adding learners."
@@ -3653,7 +3653,7 @@ msgstr "Xem tất cả lỗi"
 
 #: lms/static/js/groups/views/cohort_form.js:108
 msgid "You must specify a name for the cohort"
-msgstr "Bạn phải chỉ định tên cho nhóm thuần tập"
+msgstr "Bạn phải chỉ định tên cho nhóm"
 
 #: lms/static/js/groups/views/cohort_form.js:112
 msgid "You did not select a content group"
@@ -3665,27 +3665,27 @@ msgstr "Nhóm nội dung đã chọn không tồn tại"
 
 #: lms/static/js/groups/views/cohort_form.js:143
 msgid "The cohort cannot be saved"
-msgstr "Không thể lưu nhóm thuần tập"
+msgstr "Không thể lưu nhóm"
 
 #: lms/static/js/groups/views/cohort_form.js:143
 msgid "The cohort cannot be added"
-msgstr "Không thể thêm nhóm thuần tập"
+msgstr "Không thể thêm nhóm"
 
 #: lms/static/js/groups/views/cohorts.js:98
 msgid "You currently have no cohorts configured"
-msgstr "Bạn hiện chưa định cấu hình nhóm thuần tập nào"
+msgstr "Bạn hiện chưa định cấu hình nhóm nào"
 
 #: lms/static/js/groups/views/cohorts.js:99
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:22
 msgid "Add Cohort"
-msgstr "Thêm nhóm thuần tập"
+msgstr "Thêm nhóm"
 
 #: lms/static/js/groups/views/cohorts.js:239
 msgid ""
 "The {cohortGroupName} cohort has been created. You can manually add students"
 " to this cohort below."
 msgstr ""
-"Nhóm thuần tập {cohortGroupName} đã được tạo. Bạn có thể thêm học sinh vào "
+"nhóm {cohortGroupName} đã được tạo. Bạn có thể thêm học sinh vào "
 "nhóm này theo cách thủ công bên dưới."
 
 #: lms/static/js/groups/views/cohorts.js:269
@@ -3713,11 +3713,11 @@ msgstr ""
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
 msgid "Cohorts Enabled"
-msgstr "Đã bật nhóm thuần tập"
+msgstr "Nhóm được kích hoạt"
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:33
 msgid "Cohorts Disabled"
-msgstr "Nhóm thuần tập bị vô hiệu hóa"
+msgstr "Nhóm bị vô hiệu hóa"
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
@@ -8583,7 +8583,7 @@ msgid ""
 msgstr ""
 "Chọn phân bổ thời gian cho kỳ thi. Nếu trên 24 giờ, hãy nhập khoảng thời "
 "gian. Bạn có thể cho từng người học thêm thời gian để hoàn thành bài kiểm "
-"tra thông qua Bảng điều khiển dành cho người hướng dẫn."
+"tra thông qua Bảng điều khiển dành cho giảng viên."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:77
 msgid "Review Rules"
@@ -10036,7 +10036,7 @@ msgstr "Thêm một nhóm mới"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:19
 msgid "Enter the name of the cohort"
-msgstr "Nhập tên của nhóm thuần tập"
+msgstr "Nhập tên của nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:24
 msgid "Cohort Name"
@@ -10134,7 +10134,7 @@ msgstr "Người học được tự động thêm vào nhóm này."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:2
 msgid "Select a cohort"
-msgstr "Chọn một nhóm thuần tập"
+msgstr "Chọn một nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:7
 #, python-format
@@ -10143,11 +10143,11 @@ msgstr "%(cohort_name)s ( %(user_count)s )"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:2
 msgid "Enable Cohorts"
-msgstr "Bật nhóm thuần tập"
+msgstr "Kích hoạt nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:11
 msgid "Select a cohort to manage"
-msgstr "Chọn một nhóm thuần tập để quản lý"
+msgstr "Chọn một nhóm để quản lý"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:16
 msgid "View Cohort"
@@ -10155,7 +10155,7 @@ msgstr "Xem đoàn hệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:37
 msgid "Assign learners to cohorts by uploading a CSV file"
-msgstr "Chỉ định người học vào nhóm thuần tập bằng cách tải lên tệp CSV"
+msgstr "Chỉ định người học vào nhóm bằng cách tải lên tệp CSV"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:44
 #, python-brace-format
@@ -11444,3 +11444,43 @@ msgstr "Đã cập nhật điểm cho {row_count} học viên."
 #: xmodule/assets/essay_question/public/js/src/essay_student_view.js
 msgid "The request has exceeded the maximum time limit. Please try again!"
 msgstr "Yêu cầu đã vượt quá thời gian xử lý cho phép. Vui lòng thử lại!"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show _MENU_ data"
+msgstr "Hiển thị _MENU_ dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "First"
+msgstr "Đầu tiên"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Last"
+msgstr "Cuối cùng"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Enter search..."
+msgstr "Nhập tìm kiếm..."
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show _START_ to _END_ of _TOTAL_ data"
+msgstr "Hiển thị _START_ tới _END_ của _TOTAL_ dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show 0 to 0 of 0 data"
+msgstr "Hiển thị 0 tới 0 của 0 dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "(are filterd from _MAX_ data)"
+msgstr "(được lọc từ _MAX_ dữ liệu)"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Download CSV"
+msgstr "Tải xuống CSV"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"

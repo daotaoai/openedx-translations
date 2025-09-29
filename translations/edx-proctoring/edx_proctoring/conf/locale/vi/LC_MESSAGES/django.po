@@ -1772,4 +1772,4 @@ msgstr "Không có bài kiểm tra giám sát trong khóa học {course_id}"
 #, python-brace-format
 msgid "No instructor dashboard for {proctor_service}"
 msgstr ""
-"Không có bảng điều khiển dành cho người hướng dẫn cho {proctor_service}"
+"Không có bảng điều khiển dành cho giảng viên cho {proctor_service}"

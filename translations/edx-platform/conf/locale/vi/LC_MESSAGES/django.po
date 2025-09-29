@@ -4138,7 +4138,7 @@ msgstr "Tỷ lệ các khóa học được phép sử dụng edx-financial-hỗ
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr "Tiến triển"
+msgstr "Quá trình"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
@@ -4653,7 +4653,7 @@ msgid ""
 "are optional."
 msgstr ""
 "Dữ liệu trong hàng # {row_num} phải có từ bốn đến sáu cột: email, tên người "
-"dùng, tên đầy đủ, quốc gia, nhóm thuần tập và chế độ khóa học. Hai cột cuối "
+"dùng, tên đầy đủ, quốc gia, nhóm và chế độ khóa học. Hai cột cuối "
 "cùng là tùy chọn."
 
 #: lms/djangoapps/instructor/views/api.py:402
@@ -4906,6 +4906,7 @@ msgid "External User Key"
 msgstr "Khóa người dùng bên ngoài"
 
 #: lms/djangoapps/instructor/views/api.py:1521
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
 msgid "Cohort"
 msgstr "Nhóm"
 
@@ -4940,7 +4941,7 @@ msgstr "ghi danh"
 
 #: lms/djangoapps/instructor/views/api.py:1606
 msgid "The file must contain a 'cohort' column containing cohort names."
-msgstr "Tệp phải chứa cột 'nhóm thuần tập' chứa tên nhóm thuần tập."
+msgstr "Tệp phải chứa cột 'nhóm' chứa tên nhóm."
 
 #: lms/djangoapps/instructor/views/api.py:1608
 msgid "The file must contain a 'username' column, an 'email' column, or both."
@@ -5462,6 +5463,7 @@ msgstr "Ngày đến hạn được gia hạn phải muộn hơn ngày đến h�
 #: themes/stanford-style/lms/templates/register-form.html:88
 #: themes/stanford-style/lms/templates/register-form.html:142
 #: themes/stanford-style/lms/templates/register-shib.html:144
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "Full Name"
 msgstr "Họ và tên"
 
@@ -7996,7 +7998,7 @@ msgstr "Trạng thái của nhiệm vụ nhập khối."
 
 #: openedx/core/djangoapps/content_libraries/models.py:268
 msgid "progress"
-msgstr "tiến triển"
+msgstr "quá trình"
 
 #: openedx/core/djangoapps/content_libraries/models.py:269
 msgid "A float from 0.0 to 1.0 representing the task progress."
@@ -8157,7 +8159,7 @@ msgstr "Phải có một nhóm mà học sinh có thể tự động được ch
 
 #: openedx/core/djangoapps/course_groups/views.py:204
 msgid "A cohort with the same name already exists."
-msgstr "Một nhóm thuần tập có cùng tên đã tồn tại."
+msgstr "Một nhóm có cùng tên đã tồn tại."
 
 #: openedx/core/djangoapps/course_live/models.py:21
 msgid "If disabled, the LTI in the associated course will be disabled."
@@ -16705,7 +16707,7 @@ msgid ""
 "create cohort-specific courseware. In other words, you can customize the "
 "content that particular cohorts see in your course."
 msgstr ""
-"Nếu bạn đã bật nhóm thuần tập trong khóa học của mình, bạn có thể sử dụng "
+"Nếu bạn đã bật nhóm trong khóa học của mình, bạn có thể sử dụng "
 "nhóm nội dung để tạo chương trình học dành riêng cho nhóm đó. Nói cách khác,"
 " bạn có thể tùy chỉnh nội dung mà các nhóm cụ thể nhìn thấy trong khóa học "
 "của mình."
@@ -24719,7 +24721,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:29
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:116
 msgid "Instructor Dashboard"
-msgstr "Bảng điều khiển dành cho người hướng dẫn"
+msgstr "Bảng điều khiển dành cho giảng viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:119
 msgid "View Course in Studio"
@@ -26842,3 +26844,40 @@ msgstr "Xuất câu trả lời"
 #: xmodule/assets/essay_question/public/html/essay_studio_view.html
 msgid "The display name for this component"
 msgstr "Tên hiển thị cho thành phần này"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
+msgid "Learners Report"
+msgstr "Báo cáo học viên"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Whole class"
+msgstr "Cả lớp"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Create report"
+msgstr "Tạo báo cáo"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Report Details"
+msgstr "Chi tiết báo cáo"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "The report is being created. It may take a few minutes, please wait."
+msgstr "Báo cáo đang được tạo. Vui lòng chờ trong vài phút."
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Failed to create report"
+msgstr "Tạo báo cáo thất bại"
+
+#: lms/djangoapps/instructor/views/instructor_dashboard.py:843
+msgid "Visual Report"
+msgstr "Báo cáo trực quan"
+
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
+msgid "No."
+msgstr "STT"
+
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
+msgid "Group Name"
+msgstr "Tên nhóm"
