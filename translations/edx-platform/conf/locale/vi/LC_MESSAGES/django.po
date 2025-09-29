@@ -26858,9 +26858,29 @@ msgid "Create report"
 msgstr "Tạo báo cáo"
 
 #: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Report Details"
+msgstr "Chi tiết báo cáo"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
 msgid "The report is being created. It may take a few minutes, please wait."
 msgstr "Báo cáo đang được tạo. Vui lòng chờ trong vài phút."
 
 #: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
 msgid "Failed to create report"
 msgstr "Tạo báo cáo thất bại"
+
+#: lms/djangoapps/instructor/views/instructor_dashboard.py:843
+msgid "Visual Report"
+msgstr "Báo cáo trực quan"
+
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
+msgid "No."
+msgstr "STT"
+
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
+msgid "Full Name"
+msgstr "Họ tên"
+
+#: lms/djangoapps/instructor/tasks_helper/grades.py:1117
+msgid "Group Name"
+msgstr "Tên nhóm"
