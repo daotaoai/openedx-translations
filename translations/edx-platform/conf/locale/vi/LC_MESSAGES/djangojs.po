@@ -11444,3 +11444,39 @@ msgstr "Đã cập nhật điểm cho {row_count} học viên."
 #: xmodule/assets/essay_question/public/js/src/essay_student_view.js
 msgid "The request has exceeded the maximum time limit. Please try again!"
 msgstr "Yêu cầu đã vượt quá thời gian xử lý cho phép. Vui lòng thử lại!"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show _MENU_ data"
+msgstr "Hiển thị _MENU_ dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "First"
+msgstr "Đầu tiên"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Last"
+msgstr "Cuối cùng"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Enter search..."
+msgstr "Nhập tìm kiếm..."
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show _START_ to _END_ of _TOTAL_ data"
+msgstr "Hiển thị _START_ tới _END_ của _TOTAL_ dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Show 0 to 0 of 0 data"
+msgstr "Hiển thị 0 tới 0 của 0 dữ liệu"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "(are filterd from _MAX_ data)"
+msgstr "(được lọc từ _MAX_ dữ liệu)"
+
+#: lms/static/js/instructor_dashboard/visual_report.js
+msgid "Download CSV"
+msgstr "Tải xuống CSV"

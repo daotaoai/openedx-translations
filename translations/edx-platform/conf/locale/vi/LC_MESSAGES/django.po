@@ -26842,3 +26842,28 @@ msgstr "Xuất câu trả lời"
 #: xmodule/assets/essay_question/public/html/essay_studio_view.html
 msgid "The display name for this component"
 msgstr "Tên hiển thị cho thành phần này"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
+msgid "Learners Report"
+msgstr "Báo cáo học viên"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Cohort"
+msgstr "Nhóm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Whole class"
+msgstr "Cả lớp"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Create report"
+msgstr "Tạo báo cáo"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "The report is being created. It may take a few minutes, please wait."
+msgstr "Báo cáo đang được tạo. Vui lòng chờ trong vài phút."
+
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+msgid "Failed to create report"
+msgstr "Tạo báo cáo thất bại"
