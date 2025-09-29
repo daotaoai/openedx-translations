@@ -4906,6 +4906,7 @@ msgid "External User Key"
 msgstr "Khóa người dùng bên ngoài"
 
 #: lms/djangoapps/instructor/views/api.py:1521
+#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
 msgid "Cohort"
 msgstr "Nhóm"
 
@@ -26847,10 +26848,6 @@ msgstr "Tên hiển thị cho thành phần này"
 #: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "Learners Report"
 msgstr "Báo cáo học viên"
-
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
-msgid "Cohort"
-msgstr "Nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
 msgid "Whole class"
