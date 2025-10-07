@@ -11459,7 +11459,7 @@ msgstr "Cuối cùng"
 
 #: lms/static/js/instructor_dashboard/visual_report.js
 msgid "Enter search..."
-msgstr "Nhập tìm kiếm..."
+msgstr "Nhập từ khoá tìm kiếm..."
 
 #: lms/static/js/instructor_dashboard/visual_report.js
 msgid "Show _START_ to _END_ of _TOTAL_ data"
@@ -11478,9 +11478,22 @@ msgid "(are filterd from _MAX_ data)"
 msgstr "(được lọc từ _MAX_ dữ liệu)"
 
 #: lms/static/js/instructor_dashboard/visual_report.js
+#: lms/static/js/instructor_dashboard/visual_grade_report.js:245
 msgid "Download CSV"
 msgstr "Tải xuống CSV"
 
 #: lms/static/js/instructor_dashboard/visual_report.js
 msgid "No results found"
 msgstr "Không tìm thấy kết quả"
+
+#: lms/static/js/instructor_dashboard/visual_grade_report.js:190
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: lms/static/js/instructor_dashboard/visual_grade_report.js:208
+msgid "Score"
+msgstr "Điểm số"
+
+#: lms/static/js/instructor_dashboard/visual_grade_report.js:107
+msgid "There are no tests in this course"
+msgstr "Không có bài kiểm tra nào trong khóa học này"

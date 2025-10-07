@@ -26850,23 +26850,23 @@ msgstr "Tên hiển thị cho thành phần này"
 msgid "Learners Report"
 msgstr "Báo cáo học viên"
 
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "Whole class"
 msgstr "Cả lớp"
 
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "Create report"
 msgstr "Tạo báo cáo"
 
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "Report Details"
 msgstr "Chi tiết báo cáo"
 
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "The report is being created. It may take a few minutes, please wait."
 msgstr "Báo cáo đang được tạo. Vui lòng chờ trong vài phút."
 
-#: lms/templates/instructor/instructor_dashboard_2/visual__learners_report.html
+#: lms/templates/instructor/instructor_dashboard_2/visual_learners_report.html
 msgid "Failed to create report"
 msgstr "Tạo báo cáo thất bại"
 
@@ -26881,3 +26881,55 @@ msgstr "STT"
 #: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "Group Name"
 msgstr "Tên nhóm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:23
+msgid "Failed to fetch exercise list"
+msgstr "Không thể tải danh sách bài tập"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:45
+msgid "Grade Report Type"
+msgstr "Loại báo cáo điểm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:50
+msgid "General Grade Report"
+msgstr "Báo cáo điểm tổng quát"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:51
+msgid "Detail Grade Report"
+msgstr "Báo cáo điểm chi tiết"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:58
+msgid "Grading mode"
+msgstr "Chế độ chấm điểm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:63
+msgid "Accumulate"
+msgstr "Tích lũy"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:64
+msgid "Seperate"
+msgstr "Riêng biệt"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:86
+msgid "Grade Spectrum"
+msgstr "Phổ điểm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:91
+msgid "Student Scoreboard"
+msgstr "Bảng điểm học sinh"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html:23
+msgid "Grade Report"
+msgstr "Báo cáo điểm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:855
+msgid "Total grades of the exercise"
+msgstr "Tổng điểm của bài tập"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:856
+msgid "Max grades of the exercise"
+msgstr "Điểm tối đa của bài tập"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:857
+msgid "Average grades of the exercise"
+msgstr "Điểm trung bình của bài tập"
