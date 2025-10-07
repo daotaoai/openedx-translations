@@ -26934,6 +26934,14 @@ msgstr "Điểm tối đa của bài tập"
 msgid "Average grades of the exercise"
 msgstr "Điểm trung bình của bài tập"
 
-#: lms/djangoapps/instructor_task/tasks_helper/grades.py:857
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Not Attempted"
 msgstr "Chưa làm bài"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:
+msgid "enrolled"
+msgstr "Đã đăng ký"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:
+msgid "unenrolled"
+msgstr "Đã huỷ đăng ký"
