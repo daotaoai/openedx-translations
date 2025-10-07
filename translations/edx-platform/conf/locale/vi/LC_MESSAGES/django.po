@@ -26933,3 +26933,7 @@ msgstr "Điểm tối đa của bài tập"
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py:857
 msgid "Average grades of the exercise"
 msgstr "Điểm trung bình của bài tập"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py:857
+msgid "Not Attempted"
+msgstr "Chưa làm bài"
