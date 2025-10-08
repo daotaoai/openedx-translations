@@ -26986,6 +26986,14 @@ msgstr "Chứng chỉ đã cấp"
 msgid "Certificate Status"
 msgstr "Trạng thái ghi danh"
 
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Grade"
+msgstr "Điểm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Enrollment Status"
+msgstr "Trạng thái ghi danh"
+
 #: lms/djangoapps/verify_student/service.py
 msgid "N/A"
 msgstr "Không áp dụng"
