@@ -26956,7 +26956,7 @@ msgstr "Bảng điểm của học viên"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Student ID"
-msgstr "STT"
+msgstr "Mã học viên"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Cohort Name"
