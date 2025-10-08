@@ -27005,3 +27005,19 @@ msgstr "Chưa xác minh"
 #: lms/djangoapps/verify_student/service.py
 msgid "ID Verified"
 msgstr "Đã xác minh"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Not Delivered"
+msgstr "Chưa cấp"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Delivered"
+msgstr "Đã cấp"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Not Eligible"
+msgstr "Không đủ điều kiện"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Eligible"
+msgstr "Đủ điều kiện"
