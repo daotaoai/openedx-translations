@@ -26983,10 +26983,6 @@ msgid "Certificate Delivered"
 msgstr "Chứng chỉ đã cấp"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
-msgid "Certificate Type"
-msgstr "Loại chứng chỉ"
-
-#: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Certificate Status"
 msgstr "Trạng thái ghi danh"
 
