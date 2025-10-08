@@ -26938,10 +26938,86 @@ msgstr "Điểm trung bình của bài tập"
 msgid "Not Attempted"
 msgstr "Chưa làm bài"
 
-#: lms/djangoapps/instructor_task/tasks_helper/grades.py:
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "enrolled"
 msgstr "Đã đăng ký"
 
-#: lms/djangoapps/instructor_task/tasks_helper/grades.py:
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "unenrolled"
 msgstr "Đã huỷ đăng ký"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+msgid "Accumulated Grade Report"
+msgstr "Báo cáo điểm tích luỹ"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_accumulated_grade_report.html
+msgid "Student's Grades"
+msgstr "Bảng điểm của học viên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Student ID"
+msgstr "Mã học viên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Cohort Name"
+msgstr "Tên nhóm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Team Name"
+msgstr "Tên đội"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Enrollment Track"
+msgstr "Loại đăng ký"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Verification Status"
+msgstr "Trạng thái xác minh"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Certificate Eligible"
+msgstr "Đủ điều kiện nhận chứng chỉ"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Certificate Delivered"
+msgstr "Chứng chỉ đã cấp"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Certificate Status"
+msgstr "Trạng thái ghi danh"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Grade"
+msgstr "Điểm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Enrollment Status"
+msgstr "Trạng thái ghi danh"
+
+#: lms/djangoapps/verify_student/service.py
+msgid "N/A"
+msgstr "Không áp dụng"
+
+#: lms/djangoapps/verify_student/service.py
+msgid "Not ID Verified"
+msgstr "Chưa xác minh"
+
+#: lms/djangoapps/verify_student/service.py
+msgid "ID Verified"
+msgstr "Đã xác minh"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Not Delivered"
+msgstr "Chưa cấp"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Delivered"
+msgstr "Đã cấp"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Not Eligible"
+msgstr "Không đủ điều kiện"
+
+#: lms/djangoapps/certificates/api.py
+msgid "Eligible"
+msgstr "Đủ điều kiện"
