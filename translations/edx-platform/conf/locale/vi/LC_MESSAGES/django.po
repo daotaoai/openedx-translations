@@ -26987,7 +26987,7 @@ msgid "Certificate Type"
 msgstr "Loại chứng chỉ"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
-msgid "Certificate Type"
+msgid "Certificate Status"
 msgstr "Trạng thái ghi danh"
 
 #: lms/djangoapps/verify_student/service.py
