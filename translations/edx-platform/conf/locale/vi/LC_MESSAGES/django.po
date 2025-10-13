@@ -22224,7 +22224,7 @@ msgstr "Lớp học kết thúc"
 
 #: lms/templates/courseware/course_about.html:217
 msgid "Estimated Effort"
-msgstr "Nỗ lực ước tính"
+msgstr "Thời lượng dự kiến"
 
 #: lms/templates/courseware/course_about.html:234
 msgid "Prerequisites"
@@ -26945,3 +26945,7 @@ msgstr "Đã đăng ký"
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py:
 msgid "unenrolled"
 msgstr "Đã huỷ đăng ký"
+
+#: lms/templates/courseware/course_about.html
+msgid "Already Enrolled"
+msgstr "Đã đăng ký"
