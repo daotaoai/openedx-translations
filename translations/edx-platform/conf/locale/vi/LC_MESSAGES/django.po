@@ -26949,3 +26949,31 @@ msgstr "Đã huỷ đăng ký"
 #: lms/templates/courseware/course_about.html
 msgid "Already Enrolled"
 msgstr "Đã đăng ký"
+
+#: xmodule/select_question_content_module.py
+msgid "1. Display Name"
+msgstr "1. Tên hiển thị"
+
+#: xmodule/select_question_content_module.py
+msgid "2. Question List"
+msgstr "2. Danh sách câu hỏi"
+
+#: xmodule/select_question_content_module.py
+msgid "Add and reorder the questions displayed to learners."
+msgstr "Thêm và sắp xếp thứ tự các câu hỏi sẽ hiển thị cho học viên."
+
+#: xmodule/select_question_content_module.py
+msgid "3. Shuffle the order of questions"
+msgstr "3. Xáo trộn câu hỏi"
+
+#: xmodule/select_question_content_module.py
+msgid "Questions will appear in a random order for each learner."
+msgstr "Danh sách câu hỏi sẽ bị xáo trộn thứ tự đối với mỗi học viên."
+
+#: xmodule/select_question_content_module.py
+msgid "4. Hide question name"
+msgstr "4. Ẩn tên câu hỏi"
+
+#: xmodule/select_question_content_module.py
+msgid "Chose \"False\" if you want display original question name in student exam."
+msgstr "Chọn \"Sai\" nếu bạn muốn hiển thị tên câu hỏi gốc trong bài kiểm tra của học viên."
