@@ -8000,7 +8000,7 @@ msgstr "%(item_type)s mới"
 #: cms/templates/js/metadata-option-public-access.underscore:12
 #: cms/templates/js/metadata-string-entry.underscore:4
 msgid "Clear"
-msgstr "Thông thoáng"
+msgstr "Xóa"
 
 #: cms/templates/js/metadata-dict-entry.underscore:11
 #: cms/templates/js/metadata-file-uploader-entry.underscore:6
@@ -11497,3 +11497,79 @@ msgstr "Điểm số"
 #: lms/static/js/instructor_dashboard/visual_grade_report.js:107
 msgid "There are no tests in this course"
 msgstr "Không có bài kiểm tra nào trong khóa học này"
+
+#:
+msgid "False"
+msgstr "Sai"
+
+#:
+msgid "True"
+msgstr "Đúng"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Choose question library"
+msgstr "Chọn thư viện câu hỏi"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "You can only select questions from one library."
+msgstr "Chỉ được phép chọn các câu hỏi từ một thư viện."
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Filter questions to add"
+msgstr "Lọc câu hỏi cần thêm"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Filter the questions"
+msgstr "Lọc câu hỏi"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Select questions to display to learners"
+msgstr "Lựa chọn các câu hỏi muốn hiển thị cho học viên"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Search for questions to add"
+msgstr "Tìm câu hỏi muốn thêm"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Search questions..."
+msgstr "Tìm kiếm câu hỏi..."
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "This question has already been added to the exam. Please don’t select it again!"
+msgstr "Câu hỏi vừa chọn đã có trong đề thi. Vui lòng không chọn!"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "No questions found"
+msgstr "Không có câu hỏi nào"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Add selected questions to the exam"
+msgstr "Thêm câu hỏi đã chọn vào đề thi"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Exam questions"
+msgstr "Các câu hỏi trong đề thi"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Clear all questions"
+msgstr "Xóa hết các câu hỏi"
+
+#: cms/templates/js/metadata-list-sortable.underscore
+msgid "Search by question name"
+msgstr "Ghi tên câu hỏi để tìm kiếm"
+
+#: xmodule/assets/manual_select_question/public/js/manual_select_question_content_edit.js
+msgid "Please select a tag"
+msgstr "Vui lòng chọn tag"
+
+#: xmodule/assets/manual_select_question/public/js/manual_select_question_content_edit.js
+msgid "Search for tags..."
+msgstr "Tìm kiếm tag..."
+
+#: xmodule/assets/manual_select_question/public/js/manual_select_question_content_edit.js
+msgid "Exam questions are shown in random order for each learner. Click 'x' to remove a question."
+msgstr "Các câu hỏi trong đề thi sẽ được hiển thị theo thứ tự ngẫu nhiên cho từng học viên. Bấm nút 'x' trong mỗi câu hỏi để bỏ khỏi đề thi."
+
+#: xmodule/assets/manual_select_question/public/js/manual_select_question_content_edit.js
+msgid "Drag and drop questions to arrange their order. Click 'x' to remove a question."
+msgstr "Kéo, thả các câu hỏi để sắp xếp thứ tự hiển thị trong đề thi. Bấm nút 'x' trong mỗi câu hỏi để bỏ khỏi đề thi."
