@@ -11573,3 +11573,7 @@ msgstr "Các câu hỏi trong đề thi sẽ được hiển thị theo thứ t�
 #: xmodule/assets/manual_select_question/public/js/manual_select_question_content_edit.js
 msgid "Drag and drop questions to arrange their order. Click 'x' to remove a question."
 msgstr "Kéo, thả các câu hỏi để sắp xếp thứ tự hiển thị trong đề thi. Bấm nút 'x' trong mỗi câu hỏi để bỏ khỏi đề thi."
+
+#: xmodule/select_question_content_module.py
+msgid "3. Shuffle the order of questions"
+msgstr "3. Xáo trộn câu hỏi"
