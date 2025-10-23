@@ -17037,7 +17037,7 @@ msgid ""
 "Students will not be able to access this component. Re-edit your component "
 "to fix the error."
 msgstr ""
-"Học sinh sẽ không thể truy cập thành phần này. Chỉnh sửa lại thành phần của "
+"Học viên sẽ không thể truy cập thành phần này. Chỉnh sửa lại thành phần của "
 "bạn để sửa lỗi."
 
 #: cms/templates/html_error.html:18 lms/templates/course_modes/error.html:26
@@ -27070,4 +27070,20 @@ msgstr "Số lượng câu hỏi sẽ không được tạo theo yêu cầu củ
 
 #: xmodule/random_block_v2.py
 msgid "Please enter number of problem for set ({tag})"
-msgstr "Vui lòng nhập số lượng bài tập cho bộ ({tag})"
+msgstr "Nhập số lượng bài tập cho bộ ({tag})"
+
+#: xmodule/random_block_v2.py
+msgid "The specified library is configured to fetch {count} problem for set ({tag}) "
+msgstr "Thư viện được chỉ định đã được cấu hình để lấy {count} bài tập cho tập ({tag}) "
+
+#: xmodule/random_block_v2.py
+msgid "The specified library is configured to fetch {count} problems for set ({tag}) "
+msgstr "Thư viện được chỉ định đã được cấu hình để lấy {count} bài tập cho tập ({tag}) "
+
+#: xmodule/random_block_v2.py
+msgid "but there is only {actual} matching problem."
+msgstr "nhưng chỉ có {actual} bài tập phù hợp."
+
+#: xmodule/random_block_v2.py
+msgid "but there are only {actual} matching problems."
+msgstr "nhưng chỉ có {actual} bài tập phù hợp."
