@@ -26987,14 +26987,6 @@ msgid "2. Library"
 msgstr "2. Thư viện"
 
 #: xmodule/random_block_v2.py
-msgid "Select the library from which you want to draw content."
-msgstr "Chọn thư viện mà bạn muốn lấy nội dung."
-
-#: xmodule/random_block_v2.py
-msgid "Library Version"
-msgstr "Phiên bản thư viện"
-
-#: xmodule/random_block_v2.py
 msgid "Mode"
 msgstr "Chế độ"
 
@@ -27045,7 +27037,7 @@ msgid ""
 "Choose 'False' if you want display original question name "
 "in student exam"
 msgstr ""
-"Chọn 'False' nếu bạn muốn hiển thị tên câu hỏi gốc "
+"Chọn 'Sai' nếu bạn muốn hiển thị tên câu hỏi gốc "
 "trong bài thi của học sinh"
 
 #: xmodule/random_block_v2.py
@@ -27054,10 +27046,10 @@ msgstr "6. Sắp xếp câu hỏi trong bài thi"
 
 #: xmodule/random_block_v2.py
 msgid ""
-"Select the way questions will be organized (ordering) "
+"Select the way questions will be ordered "
 "in each student exam."
 msgstr ""
-"Chọn cách thức các câu hỏi sẽ được tổ chức (sắp xếp) "
+"Chọn cách thức các câu hỏi sẽ được sắp xếp "
 "trong bài thi của mỗi học sinh."
 
 #: xmodule/random_block_v2.py
@@ -27083,27 +27075,3 @@ msgstr "Số lượng câu hỏi sẽ không được tạo theo yêu cầu củ
 #: xmodule/random_block_v2.py
 msgid "Please enter number of problem for set ({tag})"
 msgstr "Vui lòng nhập số lượng bài tập cho bộ ({tag})"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
-
-#: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "2. Thư viện"
