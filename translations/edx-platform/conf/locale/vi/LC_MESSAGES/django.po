@@ -26987,10 +26987,6 @@ msgid "2. Library"
 msgstr "2. Thư viện"
 
 #: xmodule/random_block_v2.py
-msgid "Mode"
-msgstr "Chế độ"
-
-#: xmodule/random_block_v2.py
 msgid "Determines how content is drawn from the library"
 msgstr "Xác định cách thức lấy nội dung từ thư viện"
 
