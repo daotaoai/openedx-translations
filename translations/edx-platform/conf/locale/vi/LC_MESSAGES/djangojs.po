@@ -11587,10 +11587,6 @@ msgid "Search..."
 msgstr "Tìm kiếm..."
 
 #: cms/static/js/views/metadata.js
-msgid "Select all"
-msgstr "Chọn tất cả"
-
-#: cms/static/js/views/metadata.js
 msgid "Unselect all"
 msgstr "Bỏ chọn tất cả"
 
