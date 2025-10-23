@@ -11591,9 +11591,5 @@ msgid "Unselect all"
 msgstr "Bỏ chọn tất cả"
 
 #: cms/static/js/views/metadata.js
-msgid "No results found"
-msgstr "Không tìm thấy kết quả"
-
-#: cms/static/js/views/metadata.js
 msgid "Enter quantity..."
 msgstr "Nhập số lượng..."
