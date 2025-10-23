@@ -811,7 +811,7 @@ msgstr "Chọn ngôn ngữ"
 #: cms/templates/js/video/metadata-translations-item.underscore:2
 #: lms/djangoapps/teams/static/teams/templates/edit-team-member.underscore:14
 msgid "Remove"
-msgstr "Di dời"
+msgstr "Xoá"
 
 #: cms/static/js/views/course_video_settings.js:475
 msgid "Press Remove to remove language"
@@ -8135,7 +8135,7 @@ msgstr "Bản nháp (Những thay đổi chưa được xuất bản)"
 
 #: cms/templates/js/publish-xblock.underscore:13
 msgid "Release:"
-msgstr "Giải phóng:"
+msgstr "Xuât bản:"
 
 #: cms/templates/js/publish-xblock.underscore:23
 msgid "Publishing Status"
@@ -11577,3 +11577,27 @@ msgstr "Kéo, thả các câu hỏi để sắp xếp thứ tự hiển thị tr
 #: xmodule/select_question_content_module.py
 msgid "3. Shuffle the order of questions"
 msgstr "3. Xáo trộn câu hỏi"
+
+#: cms/static/js/views/metadata.js
+msgid "Please select..."
+msgstr "Chọn..."
+
+#: cms/static/js/views/metadata.js
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: cms/static/js/views/metadata.js
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: cms/static/js/views/metadata.js
+msgid "Unselect all"
+msgstr "Bỏ chọn tất cả"
+
+#: cms/static/js/views/metadata.js
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"
+
+#: cms/static/js/views/metadata.js
+msgid "Enter quantity..."
+msgstr "Nhập số lượng..."
