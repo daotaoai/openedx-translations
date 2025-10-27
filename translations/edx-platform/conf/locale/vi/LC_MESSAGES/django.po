@@ -27081,6 +27081,3 @@ msgstr[1] "Thư viện được chỉ định đã được cấu hình để l�
 #: xmodule/random_block_v2.py
 msgid "Please config tag for this exam"
 msgstr "Thiết lập tag cho khối này"
-
-msgid "View"
-msgstr "Xem"
