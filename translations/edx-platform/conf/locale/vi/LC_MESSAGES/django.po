@@ -27077,3 +27077,7 @@ msgid "The specified library is configured to fetch {count} problem for set ({ta
 msgid_plural "The specified library is configured to fetch {count} problems for set ({tag}) "
 msgstr[0] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
 msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
+
+#: xmodule/random_block_v2.py
+msgid "Please config tag for this exam"
+msgstr "Thiết lập tag cho khối này"
