@@ -12932,7 +12932,7 @@ msgstr[0] ""
 #, python-brace-format
 msgid "but there is only {actual} matching problem."
 msgid_plural "but there are only {actual} matching problems."
-msgstr[0] "nhưng chỉ có vấn đề khớp {actual} ."
+msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
 
 #: xmodule/library_content_block.py:366
 msgid "Edit the library configuration."
@@ -27077,15 +27077,3 @@ msgid "The specified library is configured to fetch {count} problem for set ({ta
 msgid_plural "The specified library is configured to fetch {count} problems for set ({tag}) "
 msgstr[0] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
 msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
-
-#: xmodule/random_block_v2.py
-msgid "but there is only {actual} matching problem."
-msgid_plural "but there are only {actual} matching problems."
-msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
-msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
-
-#: xmodule/random_block_v2.py
-msgid "but there are only {actual} matching problems."
-msgid_plural "but there are only {actual} matching problems."
-msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
-msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
