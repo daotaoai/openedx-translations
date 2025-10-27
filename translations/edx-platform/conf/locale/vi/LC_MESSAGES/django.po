@@ -27079,7 +27079,13 @@ msgstr[0] "Thư viện được chỉ định đã được cấu hình để l�
 msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
 
 #: xmodule/random_block_v2.py
-msgid " but there is only {actual} matching problem."
-msgid_plural " but there are only {actual} matching problems."
-msgstr[0] " nhưng chỉ có {actual} câu hỏi khớp."
-msgstr[1] " nhưng chỉ có {actual} câu hỏikhớp."
+msgid "but there is only {actual} matching problem."
+msgid_plural "but there are only {actual} matching problems."
+msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
+msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
+
+#: xmodule/random_block_v2.py
+msgid "but there is only {actual} matching problem."
+msgid_plural "but there are only {actual} matching problems."
+msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
+msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
