@@ -27062,7 +27062,7 @@ msgstr "Câu hỏi không có tag"
 
 #: xmodule/random_block_v2.py
 msgid "There are no matching problem types in the specified libraries."
-msgstr "Không có loại bài tập nào phù hợp trong các thư viện đã chỉ định."
+msgstr "Không có loại câu hỏi nào phù hợp trong các thư viện đã chỉ định."
 
 #: xmodule/random_block_v2.py
 msgid "Number of question will not be generated as your request, due to the duplication of tag: {tag}."
@@ -27070,12 +27070,16 @@ msgstr "Số lượng câu hỏi sẽ không được tạo theo yêu cầu củ
 
 #: xmodule/random_block_v2.py
 msgid "Please enter number of problem for set ({tag})"
-msgstr "Nhập số lượng bài tập cho bộ ({tag})"
+msgstr "Nhập số lượng câu hỏi cho bộ ({tag})"
 
 #: xmodule/random_block_v2.py
 msgid "The specified library is configured to fetch {count} problem for set ({tag}) "
-msgstr "Thư viện được chỉ định đã được cấu hình để lấy {count} bài tập cho tập ({tag}) "
+msgid_plural "The specified library is configured to fetch {count} problems for set ({tag}) "
+msgstr[0] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
+msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
 
 #: xmodule/random_block_v2.py
-msgid "The specified library is configured to fetch {count} problems for set ({tag}) "
-msgstr "Thư viện được chỉ định đã được cấu hình để lấy {count} bài tập cho tập ({tag}) "
+msgid " but there is only {actual} matching problem."
+msgid_plural " but there are only {actual} matching problems."
+msgstr[0] " nhưng chỉ có {actual} câu hỏi khớp."
+msgstr[1] " nhưng chỉ có {actual} câu hỏikhớp."
