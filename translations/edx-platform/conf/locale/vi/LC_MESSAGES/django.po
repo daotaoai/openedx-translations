@@ -5226,7 +5226,7 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút \"Thêm vào "
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút \"Thêm "
 "danh sách ngoại lệ\"."
 
 #: lms/djangoapps/instructor/views/api.py:3628
@@ -14745,7 +14745,7 @@ msgstr "Bài chi tiết"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:54
 msgid "Add to article"
-msgstr "Thêm vào bài viết"
+msgstr "Thêm bài viết"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:62
 msgid "Your search did not return any results"
@@ -21934,11 +21934,11 @@ msgstr "Tweet Thành tích này. Cửa sổ bật lên."
 #: lms/templates/certificates/_accomplishment-banner.html:71
 #: lms/templates/certificates/_accomplishment-banner.html:73
 msgid "Add to LinkedIn Profile"
-msgstr "Thêm vào hồ sơ LinkedIn"
+msgstr "Thêm hồ sơ LinkedIn"
 
 #: lms/templates/certificates/_accomplishment-banner.html:80
 msgid "Add to Mozilla Backpack"
-msgstr "Thêm vào Ba lô Mozilla"
+msgstr "Thêm Ba lô Mozilla"
 
 #: lms/templates/certificates/_accomplishment-banner.html:86
 msgid "Print Certificate"
