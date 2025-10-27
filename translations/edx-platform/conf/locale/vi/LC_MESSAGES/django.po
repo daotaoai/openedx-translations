@@ -27085,7 +27085,7 @@ msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
 msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
 
 #: xmodule/random_block_v2.py
-msgid "but there is only {actual} matching problem."
+msgid "but there are only {actual} matching problems."
 msgid_plural "but there are only {actual} matching problems."
 msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
 msgstr[1] "nhưng chỉ có {actual} câu hỏi khớp."
