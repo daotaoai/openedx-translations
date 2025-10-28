@@ -27079,5 +27079,5 @@ msgstr[0] "Thư viện được chỉ định đã được cấu hình để l�
 msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
 
 #: xmodule/random_block_v2.py
-msgid "Please config tag for this exam"
-msgstr "Thiết lập tag cho khối này"
+msgid "Please config tag for this exam."
+msgstr "Thiết lập tag cho khối này."
