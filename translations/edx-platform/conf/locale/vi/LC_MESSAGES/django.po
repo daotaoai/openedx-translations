@@ -27065,8 +27065,12 @@ msgid "There are no matching problem types in the specified libraries."
 msgstr "Không có loại câu hỏi nào phù hợp trong các thư viện đã chỉ định."
 
 #: xmodule/random_block_v2.py
-msgid "Number of question will not be generated as your request, due to the duplication of tag: {tag}."
-msgstr "Số lượng câu hỏi sẽ không được tạo theo yêu cầu của bạn do trùng lặp tag: {tag}."
+msgid ""
+"Number of question will not be generated as your request, "
+"due to the duplication of tag: {tag}."
+msgstr ""
+"Số lượng câu hỏi sẽ không được tạo theo yêu cầu của bạn "
+"do trùng lặp tag: {tag}."
 
 #: xmodule/random_block_v2.py
 msgid "Please enter number of problem for set ({tag})"
