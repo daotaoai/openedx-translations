@@ -811,7 +811,7 @@ msgstr "Chọn ngôn ngữ"
 #: cms/templates/js/video/metadata-translations-item.underscore:2
 #: lms/djangoapps/teams/static/teams/templates/edit-team-member.underscore:14
 msgid "Remove"
-msgstr "Di dời"
+msgstr "Xoá"
 
 #: cms/static/js/views/course_video_settings.js:475
 msgid "Press Remove to remove language"
@@ -3146,7 +3146,7 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Thêm vào "
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Thêm "
 "danh sách ngoại lệ&quot;."
 
 #: lms/static/js/certificates/models/certificate_invalidation.js:28
@@ -5356,7 +5356,7 @@ msgstr "Tiêu đề 6"
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:225
 msgid "Add to Dictionary"
-msgstr "Thêm vào từ điển"
+msgstr "Thêm từ điển"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -7579,11 +7579,11 @@ msgstr "Ngôn ngữ bảng điểm"
 #: cms/templates/js/metadata-list-entry.underscore:9
 #: cms/templates/js/video/metadata-translations-entry.underscore:7
 msgid "Add"
-msgstr "Thêm vào"
+msgstr "Thêm"
 
 #: cms/templates/js/course-video-transcript-preferences.underscore:25
 msgid "Press Add to language"
-msgstr "Nhấn Thêm vào ngôn ngữ"
+msgstr "Nhấn Thêm ngôn ngữ"
 
 #: cms/templates/js/course-video-transcript-provider-empty.underscore:1
 msgid "Automated Transcripts"
@@ -8135,7 +8135,7 @@ msgstr "Bản nháp (Những thay đổi chưa được xuất bản)"
 
 #: cms/templates/js/publish-xblock.underscore:13
 msgid "Release:"
-msgstr "Giải phóng:"
+msgstr "Xuât bản:"
 
 #: cms/templates/js/publish-xblock.underscore:23
 msgid "Publishing Status"
@@ -9887,7 +9887,7 @@ msgstr "Ghi chú văn bản miễn phí"
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore:12
 #: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore:15
 msgid "Add to Exception List"
-msgstr "Thêm vào danh sách ngoại lệ"
+msgstr "Thêm danh sách ngoại lệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:1
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:13
@@ -11577,3 +11577,19 @@ msgstr "Kéo, thả các câu hỏi để sắp xếp thứ tự hiển thị tr
 #: xmodule/select_question_content_module.py
 msgid "3. Shuffle the order of questions"
 msgstr "3. Xáo trộn câu hỏi"
+
+#: cms/static/js/views/metadata.js
+msgid "Please select..."
+msgstr "Chọn..."
+
+#: cms/static/js/views/metadata.js
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: cms/static/js/views/metadata.js
+msgid "Unselect all"
+msgstr "Bỏ chọn tất cả"
+
+#: cms/static/js/views/metadata.js
+msgid "Enter quantity..."
+msgstr "Nhập số lượng..."

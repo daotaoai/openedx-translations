@@ -5226,7 +5226,7 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút \"Thêm vào "
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút \"Thêm "
 "danh sách ngoại lệ\"."
 
 #: lms/djangoapps/instructor/views/api.py:3628
@@ -12908,8 +12908,8 @@ msgid "A library has not yet been selected."
 msgstr "Thư viện vẫn chưa được chọn."
 
 #: xmodule/library_content_block.py:327
-msgid "Select a Library."
-msgstr "Chọn một Thư viện."
+msgid "Select a library."
+msgstr "Chọn một thư viện."
 
 #: xmodule/library_content_block.py:341
 #, python-brace-format
@@ -12932,7 +12932,7 @@ msgstr[0] ""
 #, python-brace-format
 msgid "but there is only {actual} matching problem."
 msgid_plural "but there are only {actual} matching problems."
-msgstr[0] "nhưng chỉ có vấn đề khớp {actual} ."
+msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
 
 #: xmodule/library_content_block.py:366
 msgid "Edit the library configuration."
@@ -14745,7 +14745,7 @@ msgstr "Bài chi tiết"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:54
 msgid "Add to article"
-msgstr "Thêm vào bài viết"
+msgstr "Thêm bài viết"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:62
 msgid "Your search did not return any results"
@@ -17037,7 +17037,7 @@ msgid ""
 "Students will not be able to access this component. Re-edit your component "
 "to fix the error."
 msgstr ""
-"Học sinh sẽ không thể truy cập thành phần này. Chỉnh sửa lại thành phần của "
+"Học viên sẽ không thể truy cập thành phần này. Chỉnh sửa lại thành phần của "
 "bạn để sửa lỗi."
 
 #: cms/templates/html_error.html:18 lms/templates/course_modes/error.html:26
@@ -21934,11 +21934,11 @@ msgstr "Tweet Thành tích này. Cửa sổ bật lên."
 #: lms/templates/certificates/_accomplishment-banner.html:71
 #: lms/templates/certificates/_accomplishment-banner.html:73
 msgid "Add to LinkedIn Profile"
-msgstr "Thêm vào hồ sơ LinkedIn"
+msgstr "Thêm hồ sơ LinkedIn"
 
 #: lms/templates/certificates/_accomplishment-banner.html:80
 msgid "Add to Mozilla Backpack"
-msgstr "Thêm vào Ba lô Mozilla"
+msgstr "Thêm Ba lô Mozilla"
 
 #: lms/templates/certificates/_accomplishment-banner.html:86
 msgid "Print Certificate"
@@ -26977,3 +26977,115 @@ msgstr "4. Ẩn tên câu hỏi"
 #: xmodule/select_question_content_module.py
 msgid "Chose \"False\" if you want display original question name in student exam."
 msgstr "Chọn \"Sai\" nếu bạn muốn hiển thị tên câu hỏi gốc trong bài kiểm tra của học viên."
+
+#: xmodule/random_block_v2.py
+msgid "Randomized Content Block V2"
+msgstr "Khối nội dung ngẫu nhiên V2"
+
+#: xmodule/random_block_v2.py
+msgid "2. Library"
+msgstr "2. Thư viện"
+
+#: xmodule/random_block_v2.py
+msgid "Determines how content is drawn from the library"
+msgstr "Xác định cách thức lấy nội dung từ thư viện"
+
+#: xmodule/random_block_v2.py
+msgid "Choose n at random"
+msgstr "Chọn ngẫu nhiên n câu"
+
+#: xmodule/random_block_v2.py
+msgid "3. Problem Type"
+msgstr "3. Loại bài tập"
+
+#: xmodule/random_block_v2.py
+msgid ""
+"Choose a problem type to fetch from the library. "
+"If 'Any Type' is selected, no filtering is applied."
+msgstr ""
+"Chọn loại bài tập để lấy từ thư viện. "
+"Nếu chọn 'Bất kỳ loại nào', sẽ không áp dụng bộ lọc."
+
+#: xmodule/random_block_v2.py
+msgid "4. Set of tags"
+msgstr "4. Bộ thẻ tag"
+
+#: xmodule/random_block_v2.py
+msgid ""
+"Please select several components (tag(s): number) to pickup "
+"questions from library. Note that if more than one tag are "
+"selected for one component (tag1,tag2: number), they are "
+"treated with AND operator (only questions with tag1 AND tag2 "
+"are selected)."
+msgstr ""
+"Vui lòng chọn một số thành phần (tag: số lượng) để lấy "
+"câu hỏi từ thư viện. Lưu ý rằng nếu chọn nhiều hơn một tag "
+"cho một thành phần (tag1,tag2: số lượng), chúng sẽ được "
+"xử lý bằng toán tử AND (chỉ những câu hỏi có tag1 VÀ tag2 "
+"mới được chọn)."
+
+#: xmodule/random_block_v2.py
+msgid "5. Hide question name"
+msgstr "5. Ẩn tên câu hỏi"
+
+#: xmodule/random_block_v2.py
+msgid ""
+"Choose 'False' if you want display original question name "
+"in student exam"
+msgstr ""
+"Chọn 'Sai' nếu bạn muốn hiển thị tên câu hỏi gốc "
+"trong bài thi của học sinh"
+
+#: xmodule/random_block_v2.py
+msgid "6. Ordering questions in exam"
+msgstr "6. Sắp xếp câu hỏi trong bài thi"
+
+#: xmodule/random_block_v2.py
+msgid ""
+"Select the way questions will be ordered "
+"in each student exam."
+msgstr ""
+"Chọn cách thức các câu hỏi sẽ được sắp xếp "
+"trong bài thi của mỗi học sinh."
+
+#: xmodule/random_block_v2.py
+msgid "Random all"
+msgstr "Ngẫu nhiên tất cả"
+
+#: xmodule/random_block_v2.py
+msgid "Random within tags"
+msgstr "Ngẫu nhiên trong các tag"
+
+#: xmodule/random_block_v2.py
+msgid "Questions without tags"
+msgstr "Câu hỏi không có tag"
+
+#: xmodule/random_block_v2.py
+msgid "There are no matching problem types in the specified libraries."
+msgstr "Không có loại câu hỏi nào phù hợp trong các thư viện đã chỉ định."
+
+#: xmodule/random_block_v2.py
+msgid ""
+"Number of question will not be generated as your request, "
+"due to the duplication of tag: {tag}."
+msgstr ""
+"Số lượng câu hỏi sẽ không được tạo theo yêu cầu của bạn "
+"do trùng lặp tag: {tag}."
+
+#: xmodule/random_block_v2.py
+msgid "Please enter number of problem for set ({tag})"
+msgstr "Nhập số lượng câu hỏi cho bộ ({tag})"
+
+#: xmodule/random_block_v2.py
+msgid "The specified library is configured to fetch {count} problem for set ({tag}) "
+msgid_plural "The specified library is configured to fetch {count} problems for set ({tag}) "
+msgstr[0] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
+msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
+
+#: xmodule/random_block_v2.py
+msgid "Please config tag for this exam."
+msgstr "Thiết lập tag cho khối này."
+
+#: xmodule/util/helper.py
+msgid "Question #{}"
+msgstr "Câu hỏi #{}"
