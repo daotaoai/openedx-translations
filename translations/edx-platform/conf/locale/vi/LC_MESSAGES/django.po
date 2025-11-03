@@ -26880,7 +26880,7 @@ msgstr "STT"
 
 #: lms/djangoapps/instructor/tasks_helper/grades.py:1117
 msgid "Group Name"
-msgstr "Tên nhóm"
+msgstr "Nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:23
 msgid "Failed to fetch exercise list"
@@ -27089,3 +27089,43 @@ msgstr "Thiết lập tag cho khối này."
 #: xmodule/util/helper.py
 msgid "Question #{}"
 msgstr "Câu hỏi #{}"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Full_Name"
+msgstr "Họ tên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Essay Title"
+msgstr "Tên bài luận"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Essay Question"
+msgstr "Câu hỏi tự luận"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Student Answer"
+msgstr "Câu trả lời của học viên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Started Time"
+msgstr "Thời gian bắt đầu"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Submitted Time"
+msgstr "Thời gian nộp bài"
+
+#: lms/templates/instructor_task_2/visual_essay_report.html
+msgid "Essay Question Report"
+msgstr "Báo cáo câu hỏi tự luận"
+
+#: lms/templates/instructor_task_2/visual_essay_report.html
+msgid "Report Section"
+msgstr "Phần báo cáo"
+
+#: lms/templates/instructor_task_2/visual_essay_report.html
+msgid "Failed to fetch essay list"
+msgstr "Không thể tải danh sách câu hỏi tự luận"
+
+#: lms/templates/instructor_task_2/visual_essay_report.html
+msgid "Student's answers"
+msgstr "Câu trả lời của học viên"

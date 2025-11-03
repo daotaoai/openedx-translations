@@ -11593,3 +11593,7 @@ msgstr "Bỏ chọn tất cả"
 #: cms/static/js/views/metadata.js
 msgid "Enter quantity..."
 msgstr "Nhập số lượng..."
+
+#: lms/static/js/instructor_dashboard/visual_essay_report.js
+msgid "No essay questions found in this course"
+msgstr "Không tìm thấy câu hỏi tự luận nào trong khóa học này"
