@@ -27096,7 +27096,7 @@ msgstr "Họ tên"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Essay Title"
-msgstr "Họ tên"
+msgstr "Tên bài luận"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Essay Question"
