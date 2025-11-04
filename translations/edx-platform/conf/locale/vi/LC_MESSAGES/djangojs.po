@@ -11597,3 +11597,15 @@ msgstr "Nhập số lượng..."
 #: lms/static/js/instructor_dashboard/visual_essay_report.js
 msgid "No essay questions found in this course"
 msgstr "Không tìm thấy câu hỏi tự luận nào trong khóa học này"
+
+#: cms/templates/library.html
+msgid "Please select a tag..."
+msgstr "Vui lòng chọn tag..."
+
+#: cms/templates/library.html
+msgid "Search tags..."
+msgstr "Tìm kiếm tag..."
+
+#: cms/templates/library.html
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"
