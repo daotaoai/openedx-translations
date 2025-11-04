@@ -27129,3 +27129,23 @@ msgstr "Không thể tải danh sách câu hỏi tự luận"
 #: lms/templates/instructor_task_2/visual_essay_report.html
 msgid "Student's answers"
 msgstr "Câu trả lời của học viên"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Tags:"
+msgstr "Thẻ:"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Unlabeled questions"
+msgstr "Câu hỏi chưa gắn thẻ"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Question title:"
+msgstr "Tiêu đề câu hỏi:"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Question content:"
+msgstr "Nội dung câu hỏi:"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Filter questions"
+msgstr "Lọc câu hỏi"
