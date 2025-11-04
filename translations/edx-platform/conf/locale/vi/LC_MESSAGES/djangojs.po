@@ -11605,7 +11605,3 @@ msgstr "Vui lòng chọn tag..."
 #: cms/templates/library.html
 msgid "Search tags..."
 msgstr "Tìm kiếm tag..."
-
-#: cms/templates/library.html
-msgid "No results found"
-msgstr "Không tìm thấy kết quả"
