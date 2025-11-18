@@ -11607,5 +11607,9 @@ msgid "Search tags..."
 msgstr "Tìm kiếm tag..."
 
 #: cms/templates/js/paging-header.underscore
+msgid "Show"
+msgstr "Hiển thị"
+
+#: cms/templates/js/paging-header.underscore
 msgid "items"
-msgstr "câu hỏi"
+msgstr "dữ liệu"
