@@ -7126,7 +7126,7 @@ msgid ""
 "changes you will change the student experience."
 msgstr ""
 "Thận trọng: Phiên bản được xuất bản cuối cùng của đơn vị này đang hoạt động."
-" Bằng cách xuất bản những thay đổi, bạn sẽ thay đổi trải nghiệm của sinh "
+" Bằng cách xuất bản những thay đổi, bạn sẽ thay đổi trải nghiệm của học "
 "viên."
 
 #: cms/templates/js/content-group-editor.underscore:10
