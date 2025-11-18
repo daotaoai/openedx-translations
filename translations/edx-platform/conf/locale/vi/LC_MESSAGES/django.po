@@ -27149,3 +27149,7 @@ msgstr "Nội dung câu hỏi:"
 #: lms/templates/studio_render_children_view.html
 msgid "Filter questions"
 msgstr "Lọc câu hỏi"
+
+#: lms/templates/studio_render_children_view.html
+msgid "Data is loading. Please wait."
+msgstr "Dữ liệu đang tải. Vui lòng chờ."

@@ -9718,12 +9718,12 @@ msgstr ""
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
-msgstr "Cho xem nhiều hơn"
+msgstr "Hiển thị nhiều hơn"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 #: lms/templates/courseware/proctored-exam-status.underscore:36
 msgid "Show Less"
-msgstr "Hiện ít hơn"
+msgstr "Hiển thị ít hơn"
 
 #: lms/templates/discovery/course_card.underscore:6
 msgid "LEARN MORE"
@@ -9764,7 +9764,7 @@ msgstr "Chỉnh sửa lần cuối:"
 
 #: lms/templates/edxnotes/note-item.underscore:45
 msgid "Tags:"
-msgstr "thẻ:"
+msgstr "Thẻ:"
 
 #: lms/templates/edxnotes/tab-item.underscore:10
 msgid "Clear search results"
@@ -11605,3 +11605,7 @@ msgstr "Vui lòng chọn tag..."
 #: cms/templates/library.html
 msgid "Search tags..."
 msgstr "Tìm kiếm tag..."
+
+#: cms/templates/js/paging-header.underscore
+msgid "items"
+msgstr "câu hỏi"
