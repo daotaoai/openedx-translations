@@ -27153,7 +27153,3 @@ msgstr "Lọc câu hỏi"
 #: lms/templates/studio_render_children_view.html
 msgid "Data is loading. Please wait."
 msgstr "Dữ liệu đang tải. Vui lòng chờ."
-
-#: lms/templates/studio_render_paged_children_view.html
-msgid "Data is loading. Please wait."
-msgstr "Dữ liệu đang tải. Vui lòng chờ."
