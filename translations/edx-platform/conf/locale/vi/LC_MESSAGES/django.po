@@ -26916,11 +26916,11 @@ msgstr "Phổ điểm"
 
 #: lms/templates/instructor/instructor_dashboard_2/visual_grade_report.html:91
 msgid "Student Scoreboard"
-msgstr "Bảng điểm học sinh"
+msgstr "Bảng Điểm Của Học Viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/visual_report.html:23
 msgid "Grade Report"
-msgstr "Báo cáo điểm"
+msgstr "Báo cáo điểm tích lũy"
 
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py:855
 msgid "Total grades of the exercise"
@@ -27153,3 +27153,51 @@ msgstr "Lọc câu hỏi"
 #: lms/templates/studio_render_children_view.html
 msgid "Data is loading. Please wait."
 msgstr "Dữ liệu đang tải. Vui lòng chờ."
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+msgid "Exam Report"
+msgstr "Báo cáo điểm bài thi"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+msgid "Student's Grades"
+msgstr "Điểm của học viên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Grade"
+msgstr "Điểm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Student ID"
+msgstr "Mã sinh viên"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Cohort Name"
+msgstr "Tên nhóm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Enrollment Track"
+msgstr "Lộ trình ghi danh"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Certificate Eligible"
+msgstr "Chứng chỉ đủ điền kiện"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Verification Status"
+msgstr "Trạng thái xác minh"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Certificate Delivered"
+msgstr "Chứng chỉ đã cấp"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Enrollment Status"
+msgstr "Trạng thái ghi danh"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Not Eligible"
+msgstr "Không đủ điều kiện"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Not Delivered"
+msgstr "Chưa được cấp"

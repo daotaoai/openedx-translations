@@ -11613,3 +11613,15 @@ msgstr "Hiển thị"
 #: cms/templates/js/paging-header.underscore
 msgid "items"
 msgstr "dữ liệu"
+
+# lms/static/js/instructor_dashboard/visual_accumulated_grade_report.js
+msgid "Search a group"
+msgstr "Tìm kiếm nhóm"
+
+# lms/static/js/instructor_dashboard/visual_accumulated_grade_report.js
+msgid "Please select a group"
+msgstr "Vui lòng chọn một nhóm"
+
+# lms/static/js/instructor_dashboard/visual_accumulated_grade_report.js
+msgid "There were no results"
+msgstr "Không có kết quả nào"
