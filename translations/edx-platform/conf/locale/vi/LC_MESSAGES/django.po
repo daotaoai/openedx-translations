@@ -27201,3 +27201,11 @@ msgstr "Không đủ điều kiện"
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Not Delivered"
 msgstr "Chưa được cấp"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Delivered"
+msgstr "Đã được cấp"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Eligible"
+msgstr "Đủ điều kiện"
