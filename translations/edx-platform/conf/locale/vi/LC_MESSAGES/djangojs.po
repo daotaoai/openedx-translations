@@ -6960,7 +6960,7 @@ msgstr "Hiển thị tất cả"
 #: cms/templates/js/course-outline.underscore:203
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:6
 msgid "Actions"
-msgstr "hành động"
+msgstr "Hành động"
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "You haven't added any assets to this course yet."
@@ -11626,6 +11626,8 @@ msgstr "Vui lòng chọn một nhóm"
 msgid "There were no results"
 msgstr "Không có kết quả nào"
 
+
+# START edx-proctoring
 msgid "Additional Time"
 msgstr "Thời gian bổ sung"
 
@@ -11765,3 +11767,49 @@ msgstr "Chọn nhóm"
 
 msgid "Whole class"
 msgstr "Cả lớp"
+
+msgid "Allowances"
+msgstr "Bù giờ"
+
+msgid "Add Allowance"
+msgstr "Thêm bù giờ"
+
+msgid "Add a New Allowance"
+msgstr "Thêm bù giờ mới"
+
+msgid "Allowance Type"
+msgstr "Kiểu bù giờ"
+
+msgid "Exam Name"
+msgstr "Tên bài kiểm tra"
+
+msgid "Time Limit"
+msgstr "Thời gian giới hạn"
+
+msgid "Started At"
+msgstr "Bắt đầu"
+
+msgid "Completed At"
+msgstr "Kêt thúc"
+
+msgid "No exam results found."
+msgstr "Không có kết quả"
+
+msgid "Cohort:"
+msgstr "Nhóm"
+
+msgid "Exam:"
+msgstr "Bài kiểm tra:"
+
+msgid "Student status:"
+msgstr "Trạng thái:"
+
+msgid "Auto tracking:"
+msgstr "Tự động cập nhật:"
+
+msgid "Show:"
+msgstr "Hiển thị:"
+
+msgid "data"
+msgstr "dữ liệu"
+# END edx-proctoring
