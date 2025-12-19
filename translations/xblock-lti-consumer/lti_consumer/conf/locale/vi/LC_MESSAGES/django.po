@@ -752,7 +752,7 @@ msgstr "Đã xảy ra lỗi khi bắt đầu đánh giá giám sát LTI của b�
 
 #: templates/html/lti_start_assessment.html:11
 msgid "Sending you back to your exam."
-msgstr "Gửi bạn trở lại kỳ thi của bạn."
+msgstr "Gửi bạn trở lại Bài kiểm tra của bạn."
 
 #: templates/html/lti_start_assessment.html:15
 msgid "Return to exam."

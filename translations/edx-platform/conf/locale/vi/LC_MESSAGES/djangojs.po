@@ -4236,7 +4236,7 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:359
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
-"Trạng thái kỳ thi tuyển sinh đang bị xóa đối với sinh viên "
+"Trạng thái Bài kiểm tra tuyển sinh đang bị xóa đối với sinh viên "
 "&#39;{student_id}&#39;."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
@@ -7379,7 +7379,7 @@ msgstr "kì thi được giám sát"
 
 #: cms/templates/js/course-outline.underscore:122
 msgid "Timed Exam"
-msgstr "Kỳ thi có tính giờ"
+msgstr "Bài kiểm tra có tính giờ"
 
 #: cms/templates/js/course-outline.underscore:135
 #: cms/templates/js/xblock-outline.underscore:11
@@ -8503,7 +8503,7 @@ msgid ""
 "a basic exam by selecting 'None', or a timed exam, but you will NOT be able "
 "to configure it as a proctored exam in the future."
 msgstr ""
-"Kỳ thi giám sát này đã được phát hành cho người học. Bạn không thể chuyển "
+"Bài kiểm tra giám sát này đã được phát hành cho người học. Bạn không thể chuyển "
 "đổi nó sang một loại bài kiểm tra đặc biệt khác. Bạn có thể hoàn nguyên tiểu"
 " mục này thành bài kiểm tra cơ bản bằng cách chọn &#39;Không&#39; hoặc bài "
 "kiểm tra tính giờ, nhưng bạn sẽ KHÔNG thể định cấu hình nó làm bài kiểm tra "
@@ -8555,7 +8555,7 @@ msgid ""
 msgstr ""
 "Sử dụng chương trình Đào tạo để giới thiệu cho người học cách giám thị, xác "
 "minh danh tính của họ và tạo hồ sơ đào tạo. Người học phải hoàn thành bước "
-"hồ sơ giới thiệu trước khi tham gia kỳ thi giám sát. Quá trình xem xét hồ sơ"
+"hồ sơ giới thiệu trước khi tham gia Bài kiểm tra giám sát. Quá trình xem xét hồ sơ"
 " mất hơn 2 ngày làm việc."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:58
@@ -8581,7 +8581,7 @@ msgid ""
 "amount of time. You can grant individual learners extra time to complete the"
 " exam through the Instructor Dashboard."
 msgstr ""
-"Chọn phân bổ thời gian cho kỳ thi. Nếu trên 24 giờ, hãy nhập khoảng thời "
+"Chọn phân bổ thời gian cho Bài kiểm tra. Nếu trên 24 giờ, hãy nhập khoảng thời "
 "gian. Bạn có thể cho từng người học thêm thời gian để hoàn thành bài kiểm "
 "tra thông qua Bảng điều khiển dành cho giảng viên."
 
@@ -8618,7 +8618,7 @@ msgstr ""
 "Nêu rõ bất kỳ quy tắc hoặc trường hợp ngoại lệ nào về quy tắc mà nhóm đánh "
 "giá giám sát nên thực thi khi xem xét các video. Ví dụ: bạn có thể chỉ định "
 "rằng máy tính được phép sử dụng. Những quy tắc cụ thể này sẽ được hiển thị "
-"cho người học trước khi người học bắt đầu kỳ thi."
+"cho người học trước khi người học bắt đầu Bài kiểm tra."
 
 #: cms/templates/js/transcript-organization-credentials.underscore:3
 msgid "Account"
@@ -9702,7 +9702,7 @@ msgstr "Bạn đang dùng &quot; {exam_link} &quot; là {exam_type} . "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
-msgstr "một kỳ thi đúng giờ"
+msgstr "một Bài kiểm tra đúng giờ"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:32
 msgid "The timer on the right shows the time remaining in the exam."
