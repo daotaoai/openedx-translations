@@ -3642,12 +3642,12 @@ msgstr "Luyện thi"
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:193
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:90
 msgid "Proctored Exam"
-msgstr "kì thi được giám sát"
+msgstr "Bài kiểm tra được giám sát"
 
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:195
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:92
 msgid "Timed Exam"
-msgstr "Bài kiểm tra có tính giờ"
+msgstr "Bài kiểm tra tính thời gian"
 
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:198
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:95
@@ -25246,7 +25246,7 @@ msgstr "Email báo cáo của Proctortrack:"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:18
 msgid "Allowance Section"
-msgstr "Phần phụ cấp"
+msgstr "Bù giờ"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:23
 msgid "Student Onboarding Status"
@@ -25254,7 +25254,11 @@ msgstr "Trạng thái giới thiệu của sinh viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:28
 msgid "Student Special Exam Attempts"
-msgstr "Các lần thi đặc biệt của học sinh"
+msgstr "Các bài đã và đang kiểm tra"
+
+#: lms/templates/instructor/instructor_dashboard_2/special_exams.html:28
+msgid "Exam Tracking"
+msgstr "Giám sát"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:33
 msgid "Review Dashboard"
