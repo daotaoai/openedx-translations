@@ -777,11 +777,11 @@ msgstr "Nhóm nội dung này đang được sử dụng và không thể xóa �
 #: lms/djangoapps/courseware/tabs.py:336 lms/djangoapps/courseware/tabs.py:337
 #: cms/templates/settings.html:644
 msgid "Entrance Exam"
-msgstr "Kỳ thi tuyển sinh"
+msgstr "Bài kiểm tra tuyển sinh"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py:159
 msgid "Entrance Exam - Subsection"
-msgstr "Kỳ thi tuyển sinh - Tiểu mục"
+msgstr "Bài kiểm tra tuyển sinh - Tiểu mục"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py:253
 msgid "Completed Course Entrance Exam"
@@ -3647,7 +3647,7 @@ msgstr "kì thi được giám sát"
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:195
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:92
 msgid "Timed Exam"
-msgstr "Kỳ thi có tính giờ"
+msgstr "Bài kiểm tra có tính giờ"
 
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:198
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:95
@@ -5148,12 +5148,12 @@ msgstr "Đặt lại thành công ngày đến hạn cho sinh viên {0} cho {1} 
 #: lms/djangoapps/instructor/views/api.py:3349
 #, python-format
 msgid "This student (%s) will skip the entrance exam."
-msgstr "Học sinh này ( %s ) sẽ bỏ qua kỳ thi tuyển sinh."
+msgstr "Học sinh này ( %s ) sẽ bỏ qua Bài kiểm tra tuyển sinh."
 
 #: lms/djangoapps/instructor/views/api.py:3351
 #, python-format
 msgid "This student (%s) is already allowed to skip the entrance exam."
-msgstr "Học sinh này ( %s ) đã được phép bỏ qua kỳ thi tuyển sinh."
+msgstr "Học sinh này ( %s ) đã được phép bỏ qua Bài kiểm tra tuyển sinh."
 
 #: lms/djangoapps/instructor/views/api.py:3375
 msgid ""
@@ -5328,7 +5328,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:322
 msgid "Special Exams"
-msgstr "Kỳ thi đặc biệt"
+msgstr "Bài kiểm tra đặc biệt"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:374
 #: lms/djangoapps/support/views/index.py:15 cms/templates/certificates.html:57
@@ -5520,7 +5520,7 @@ msgstr "Điểm phải nằm trong khoảng từ 0 đến giá trị của bài 
 #: lms/djangoapps/instructor_task/api_helper.py:393
 msgid "Not all problems in entrance exam support re-scoring."
 msgstr ""
-"Không phải tất cả các vấn đề trong kỳ thi đầu vào đều hỗ trợ việc chấm điểm "
+"Không phải tất cả các vấn đề trong Bài kiểm tra đầu vào đều hỗ trợ việc chấm điểm "
 "lại."
 
 #: lms/djangoapps/instructor_task/models.py:115
@@ -12364,7 +12364,7 @@ msgstr "ID bài kiểm tra đầu vào"
 
 #: xmodule/course_block.py:817
 msgid "Content block identifier (location) of entrance exam."
-msgstr "Mã định danh khối nội dung (vị trí) của kỳ thi tuyển sinh."
+msgstr "Mã định danh khối nội dung (vị trí) của Bài kiểm tra tuyển sinh."
 
 #: xmodule/course_block.py:823
 msgid "Social Media Sharing URL"
@@ -12423,7 +12423,7 @@ msgstr ""
 
 #: xmodule/course_block.py:879
 msgid "Proctortrack Exam Escalation Contact"
-msgstr "Liên hệ nâng cao kỳ thi Proctortrack"
+msgstr "Liên hệ nâng cao Bài kiểm tra Proctortrack"
 
 #: xmodule/course_block.py:881
 msgid ""
@@ -13471,7 +13471,7 @@ msgstr ""
 
 #: xmodule/seq_block.py:99
 msgid "Is Entrance Exam"
-msgstr "Là kỳ thi tuyển sinh"
+msgstr "Là Bài kiểm tra tuyển sinh"
 
 #: xmodule/seq_block.py:101
 msgid ""
@@ -13512,7 +13512,7 @@ msgstr "Proctoring đã được kích hoạt chưa"
 #: xmodule/seq_block.py:173
 msgid "This setting indicates whether this exam is a proctored exam."
 msgstr ""
-"Cài đặt này cho biết liệu kỳ thi này có phải là kỳ thi được giám sát hay "
+"Cài đặt này cho biết liệu Bài kiểm tra này có phải là Bài kiểm tra được giám sát hay "
 "không."
 
 #: xmodule/seq_block.py:180
@@ -13546,7 +13546,7 @@ msgstr "Đang là bài kiểm tra đầu vào"
 #: xmodule/seq_block.py:200
 msgid "This setting indicates whether this exam is an onboarding exam."
 msgstr ""
-"Cài đặt này cho biết liệu kỳ thi này có phải là kỳ thi chuẩn bị hay không."
+"Cài đặt này cho biết liệu Bài kiểm tra này có phải là Bài kiểm tra chuẩn bị hay không."
 
 #: xmodule/seq_block.py:358 xmodule/seq_block.py:450
 msgid ""
@@ -13558,7 +13558,7 @@ msgstr ""
 
 #: xmodule/seq_block.py:502
 msgid "This exam is hidden from the learner."
-msgstr "Kỳ thi này được ẩn khỏi người học."
+msgstr "Bài kiểm tra này được ẩn khỏi người học."
 
 #: xmodule/seq_block.py:511
 msgid ""
@@ -15910,7 +15910,7 @@ msgid ""
 "respond to student questions. You add or edit updates in HTML."
 msgstr ""
 "Sử dụng thông tin cập nhật về khóa học để thông báo cho sinh viên về các "
-"ngày hoặc kỳ thi quan trọng, nêu bật các cuộc thảo luận cụ thể trên diễn "
+"ngày hoặc Bài kiểm tra quan trọng, nêu bật các cuộc thảo luận cụ thể trên diễn "
 "đàn, thông báo thay đổi lịch trình và trả lời các câu hỏi của sinh viên. Bạn"
 " thêm hoặc chỉnh sửa các bản cập nhật trong HTML."
 
@@ -18081,7 +18081,7 @@ msgstr "Lớp tối thiểu"
 
 #: cms/templates/settings.html:161
 msgid "Successful Proctored Exam"
-msgstr "Kỳ thi được giám sát thành công"
+msgstr "Bài kiểm tra được giám sát thành công"
 
 #: cms/templates/settings.html:163
 #, python-brace-format
@@ -18589,7 +18589,7 @@ msgid ""
 "The score student must meet in order to successfully complete the entrance "
 "exam. "
 msgstr ""
-"Điểm số học sinh phải đáp ứng để hoàn thành thành công kỳ thi tuyển sinh. "
+"Điểm số học sinh phải đáp ứng để hoàn thành thành công Bài kiểm tra tuyển sinh. "
 
 #: cms/templates/settings.html:672
 msgid "Course Content License"
@@ -21196,7 +21196,7 @@ msgstr ""
 "VIỆC SỬ DỤNG API VÀ NỘI DUNG API VÀ BẤT KỲ DỊCH VỤ NÀO CÓ ĐƯỢC TỪ HOẶC QUA "
 "API, BẠN RỦI RO RIÊNG. BẠN TRUY CẬP HOẶC TẢI XUỐNG THÔNG TIN, TÀI LIỆU HOẶC "
 "DỮ LIỆU QUA API LÀ BẠN QUYẾT ĐỊNH VÀ RỦI RO, VÀ BẠN SẼ CHỊU TRÁCH NHIỆM HOÀN"
-" TOÀN VỀ BẤT KỲ THIỆT HẠI NÀO ĐỐI VỚI TÀI SẢN CỦA BẠN (BAO GỒM HỆ THỐNG MÁY "
+" TOÀN VỀ BẤT Bài kiểm traỆT HẠI NÀO ĐỐI VỚI TÀI SẢN CỦA BẠN (BAO GỒM HỆ THỐNG MÁY "
 "TÍNH CỦA BẠN) HOẶC MẤT DỮ LIỆU DO TẢI XUỐNG HOẶC SỬ DỤNG THÔNG TIN, TÀI LIỆU"
 " HOẶC DỮ LIỆU ĐÓ, TRỪ KHI ĐƯỢC QUY ĐỊNH RÕ RÀNG TRONG CHÍNH SÁCH QUYỀN RIÊNG"
 " TƯ của {platform_name} ."
@@ -21234,7 +21234,7 @@ msgid ""
 msgstr ""
 "ĐẶC BIỆT, TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT HIỆN HÀNH CHO PHÉP, KHÔNG "
 "{platform_name} NÀO BẤT KỲ {platform_name} NGƯỜI THAM GIA SẼ CÓ BẤT KỲ TRÁCH"
-" NHIỆM PHÁP LÝ ĐỐI VỚI BẤT KỲ THIỆT HẠI HẬU QUẢ, GIÁN TIẾP, TRỪNG NÀO, ĐẶC "
+" NHIỆM PHÁP LÝ ĐỐI VỚI BẤT Bài kiểm traỆT HẠI HẬU QUẢ, GIÁN TIẾP, TRỪNG NÀO, ĐẶC "
 "BIỆT, MẪU HOẶC NGẪU NHIÊN, CÓ THỂ DỰ ĐOÁN HOẶC KHÔNG THỂ DỰ ĐOÁN ĐƯỢC VÀ DÙ "
 "CÓ HAY KHÔNG {platform_name} HOẶC BẤT KỲ CỦA {platform_name} NGƯỜI THAM GIA "
 "ĐÃ CẨN THẬN HOẶC CÓ LỖI (BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẾN KHIẾU NẠI VỀ PHÊ "
@@ -22359,7 +22359,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:275
 #, python-brace-format
 msgid "Your score is {current_score}%. You have passed the entrance exam."
-msgstr "Điểm của bạn là {current_score} %. Bạn đã vượt qua kỳ thi tuyển sinh."
+msgstr "Điểm của bạn là {current_score} %. Bạn đã vượt qua Bài kiểm tra tuyển sinh."
 
 #: lms/templates/courseware/gradebook.html:44
 msgid "Gradebook"
@@ -25436,7 +25436,7 @@ msgstr "Bỏ yêu cầu người học phải làm bài kiểm tra."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:155
 msgid "Let Learner Skip Entrance Exam"
-msgstr "Để người học bỏ qua kỳ thi đầu vào"
+msgstr "Để người học bỏ qua Bài kiểm tra đầu vào"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:161
 msgid ""
