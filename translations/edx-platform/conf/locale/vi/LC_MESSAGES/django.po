@@ -25246,7 +25246,7 @@ msgstr "Email báo cáo của Proctortrack:"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:18
 msgid "Allowance Section"
-msgstr "Bù giờ"
+msgstr "Xử lý bù giờ"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:23
 msgid "Student Onboarding Status"
@@ -27214,7 +27214,8 @@ msgstr "Đã được cấp"
 msgid "Eligible"
 msgstr "Đủ điều kiện"
 
-#: edx-proctoring
+
+# START edx-proctoring
 msgid " and {num_of_minutes} minute"
 msgstr " và {num_of_minutes} phút"
 
@@ -27480,3 +27481,4 @@ msgstr "{num_of_minutes} phút"
 #, python-brace-format
 msgid "{num_of_minutes} minutes"
 msgstr "{num_of_minutes} phút"
+# END edx-proctoring
