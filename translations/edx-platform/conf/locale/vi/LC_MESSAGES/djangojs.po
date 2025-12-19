@@ -11790,7 +11790,7 @@ msgid "Started At"
 msgstr "Bắt đầu"
 
 msgid "Completed At"
-msgstr "Kêt thúc"
+msgstr "Kết thúc"
 
 msgid "No exam results found."
 msgstr "Không có kết quả"
