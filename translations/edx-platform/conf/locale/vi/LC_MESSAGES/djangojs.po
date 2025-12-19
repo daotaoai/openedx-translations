@@ -11795,17 +11795,17 @@ msgstr "Kết thúc"
 msgid "No exam results found."
 msgstr "Không có kết quả"
 
-msgid "Cohort:"
+msgid "Cohort"
 msgstr "Nhóm"
 
-msgid "Exam:"
-msgstr "Bài kiểm tra:"
+msgid "Exam"
+msgstr "Bài kiểm tra"
 
-msgid "Student status:"
-msgstr "Trạng thái:"
+msgid "Student status"
+msgstr "Trạng thái"
 
-msgid "Auto tracking:"
-msgstr "Tự động cập nhật:"
+msgid "Auto tracking"
+msgstr "Tự động cập nhật"
 
 msgid "Show:"
 msgstr "Hiển thị:"
