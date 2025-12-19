@@ -27213,3 +27213,270 @@ msgstr "Đã được cấp"
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Eligible"
 msgstr "Đủ điều kiện"
+
+#: edx-proctoring
+msgid " and {num_of_minutes} minute"
+msgstr " và {num_of_minutes} phút"
+
+#: edx-proctoring
+msgid " and {num_of_minutes} minutes"
+msgstr " và {num_of_minutes} phút"
+
+msgid "Additional Time (minutes)"
+msgstr "Thời gian bổ sung (phút)"
+
+msgid "All Unreviewed"
+msgstr "Tất cả chưa xem xét"
+
+msgid "All Unreviewed Failures"
+msgstr "Tất cả lỗi chưa xem xét"
+
+msgid "Are you sure you want to take this exam without proctoring?"
+msgstr "Bạn có chắc chắn muốn làm bài thi này mà không có giám sát?"
+
+msgid "Cannot Start Proctored Exam"
+msgstr "Không thể bắt đầu bài thi giám sát"
+
+#, python-brace-format
+msgid "Cannot find group against {group_id}"
+msgstr "Không tìm thấy nhóm {group_id}"
+
+#, python-brace-format
+msgid ""
+"Cannot make allowance for {student_code} because the exam is not in "
+"'started' state"
+msgstr "Không thể cấp thời gian cho {student_code} vì bài thi chưa ở trạng thái 'đã bắt đầu'"
+
+msgid "Click \"Start Proctored Exam\" to proceed."
+msgstr "Nhấp vào \"Bắt đầu bài thi giám sát\" để tiếp tục."
+
+msgid "Copied"
+msgstr "Đã sao chép"
+
+msgid "Copy Exam Code"
+msgstr "Sao chép mã bài thi"
+
+msgid "Course has no learners"
+msgstr "Khóa học không có học viên"
+
+msgid "Created"
+msgstr "Đã tạo"
+
+msgid "Declined"
+msgstr "Đã từ chối"
+
+msgid "Download Software Clicked"
+msgstr "Đã nhấp tải phần mềm"
+
+msgid ""
+"Enable pop-ups in both your browser settings and/or any browser extensions "
+"and then click \"Start System Check\" again to proceed."
+msgstr "Vui lòng cho phép cửa sổ pop-up trong cài đặt trình duyệt và/hoặc tiện ích mở rộng, sau đó nhấp vào \"Bắt đầu kiểm tra hệ thống\" để tiếp tục."
+
+msgid "Failed Proctoring"
+msgstr "Giám sát thất bại"
+
+msgid "Group has no learners"
+msgstr "Nhóm không có học viên"
+
+msgid "Is Sample Attempt"
+msgstr "Là lần làm bài mẫu"
+
+#, python-brace-format
+msgid "Learner {user_info} not found in course"
+msgstr "Không tìm thấy học viên {user_info} trong khóa học"
+
+msgid "Missing required query parameter course_id"
+msgstr "Thiếu tham số bắt buộc course_id"
+
+msgid "Must be a Staff User to Perform this request."
+msgstr "Phải là người dùng có quyền quản trị để thực hiện yêu cầu này."
+
+#, python-brace-format
+msgid "No exams in course {course_id}."
+msgstr "Không có bài thi trong khóa học {course_id}."
+
+#, python-brace-format
+msgid "No instructor dashboard for {proctor_service}"
+msgstr "Không có bảng điều khiển giảng viên cho {proctor_service}"
+
+msgid "No learner in 'started' state in exam"
+msgstr "Không có học viên ở trạng thái 'đã bắt đầu' trong bài thi"
+
+#, python-brace-format
+msgid "No proctored exams in course {course_id}"
+msgstr "Không có bài thi giám sát trong khóa học {course_id}"
+
+msgid "Onboarding Expired"
+msgstr "Đào tạo đã hết hạn"
+
+msgid "Onboarding Failed"
+msgstr "Đào tạo thất bại"
+
+msgid "Onboarding Missing"
+msgstr "Thiếu đào tạo"
+
+msgid "Onboarding Pending"
+msgstr "Đang chờ đào tạo"
+
+msgid "Onboarding status question"
+msgstr "Câu hỏi trạng thái đào tạo"
+
+msgid "Passed Proctoring"
+msgstr "Giám sát đã qua"
+
+msgid "Pending Session Review"
+msgstr "Đang chờ xem xét phiên"
+
+msgid "Please Allow Pop-ups"
+msgstr "Vui lòng cho phép cửa sổ pop-up"
+
+msgid "Please select a group or a username"
+msgstr "Vui lòng chọn một nhóm hoặc tên người dùng"
+
+msgid "Practice Exam Completed"
+msgstr "Bài thi thực hành đã hoàn thành"
+
+msgid "Practice Exam Failed"
+msgstr "Bài thi thực hành thất bại"
+
+msgid "Proctored Option Available"
+msgstr "Tùy chọn giám sát khả dụng"
+
+msgid "Proctored Option No Longer Available"
+msgstr "Tùy chọn giám sát không còn khả dụng"
+
+#, python-brace-format
+msgid "Proctored exam {exam_name} in {course_name} for user {username}"
+msgstr "Bài thi giám sát {exam_name} trong {course_name} cho người dùng {username}"
+
+#, python-brace-format
+msgid "Proctoring Results For {course_name} {exam_name}"
+msgstr "Kết quả giám sát cho {course_name} {exam_name}"
+
+#, python-brace-format
+msgid "Proctoring Review In Progress For {course_name} {exam_name}"
+msgstr "Đang xem xét giám sát cho {course_name} {exam_name}"
+
+msgid "Ready To Start"
+msgstr "Sẵn sàng bắt đầu"
+
+msgid "Ready To Submit"
+msgstr "Sẵn sàng nộp bài"
+
+msgid "Rejected"
+msgstr "Đã từ chối"
+
+msgid "Review Policy Exception"
+msgstr "Ngoại lệ chính sách xem xét"
+
+msgid "Second Review Required"
+msgstr "Yêu cầu xem xét lần hai"
+
+msgid "Started"
+msgstr "Đã bắt đầu"
+
+msgid "Submitted"
+msgstr "Đã nộp bài"
+
+msgid "System Check Succeeded"
+msgstr "Kiểm tra hệ thống thành công"
+
+msgid "Taking As Open Exam"
+msgstr "Làm bài thi mở"
+
+msgid "Taking As Proctored Exam"
+msgstr "Làm bài thi giám sát"
+
+msgid "Taking as Proctored"
+msgstr "Làm bài giám sát"
+
+msgid ""
+"There has been a problem starting your exam.\n"
+"\n"
+" Possible reasons are that you are experiencing a network connection "
+"problem, or there has been a service disruption. Please make sure that you "
+"are connected to a stable connection, and try to find a location with a "
+"higher bandwidth if possible. We also recommend restarting your device "
+"before attempting proctoring again."
+msgstr "Đã có lỗi khi bắt đầu bài thi của bạn.\n\nNguyên nhân có thể là bạn đang gặp vấn đề về kết nối mạng, hoặc đã có sự cố dịch vụ. Vui lòng đảm bảo rằng bạn đang kết nối với mạng ổn định, và thử tìm vị trí có băng thông cao hơn nếu có thể. Chúng tôi cũng khuyến nghị khởi động lại thiết bị của bạn trước khi thử giám sát lại."
+
+msgid ""
+"There has been a problem starting your exam.\n"
+"\n"
+" Possible reasons are that you are experiencing a network connection "
+"problem, or there has been a service disruption. Please make sure that you "
+"are connected to a stable connection, and try to find a location with higher "
+"bandwidth if possible. We also recommend restarting your device before "
+"attempting proctoring again."
+msgstr "Đã có lỗi khi bắt đầu bài thi của bạn.\n\nNguyên nhân có thể là bạn đang gặp vấn đề về kết nối mạng, hoặc đã có sự cố dịch vụ. Vui lòng đảm bảo rằng bạn đang kết nối với mạng ổn định, và thử tìm vị trí có băng thông cao hơn nếu có thể. Chúng tôi cũng khuyến nghị khởi động lại thiết bị của bạn trước khi thử giám sát lại."
+
+msgid ""
+"There has been a problem starting your exam.\n"
+"\n"
+"Possible reasons are that your account has not been fully activated,\n"
+"you are experiencing a network connection problem, or there has been\n"
+"a service disruption. Please check these potential problems and try again."
+msgstr "Đã có lỗi khi bắt đầu bài thi của bạn.\n\nNguyên nhân có thể là tài khoản của bạn chưa được kích hoạt đầy đủ, bạn đang gặp vấn đề kết nối mạng, hoặc đã có sự cố dịch vụ. Vui lòng kiểm tra các vấn đề tiềm ẩn này và thử lại."
+
+msgid "This exam is submitted. No action is allowed"
+msgstr "Bài thi này đã được nộp. Không cho phép thao tác nào"
+
+msgid "Timed Out"
+msgstr "Hết giờ"
+
+msgid "Ungraded Practice Exam"
+msgstr "Bài thi thực hành không tính điểm"
+
+msgid "You must complete the proctoring setup before you can start the exam."
+msgstr "Bạn phải hoàn thành thiết lập giám sát trước khi bắt đầu bài thi."
+
+msgid "a practice exam"
+msgstr "một bài thi thực hành"
+
+msgid "a proctored exam"
+msgstr "một bài thi giám sát"
+
+msgid "a timed exam"
+msgstr "một bài thi giới hạn thời gian"
+
+msgid "active proctored exams"
+msgstr "các bài thi giám sát đang hoạt động"
+
+msgid "an onboarding exam"
+msgstr "một bài thi đào tạo"
+
+msgid "could not determine the course_id"
+msgstr "không thể xác định course_id"
+
+msgid "courses with active proctored exams"
+msgstr "các khóa học có bài thi giám sát đang hoạt động"
+
+msgid "internally reviewed"
+msgstr "được xem xét nội bộ"
+
+msgid "you have less than a minute remaining"
+msgstr "bạn còn ít hơn một phút"
+
+#, python-brace-format
+msgid "you have {remaining_time} remaining"
+msgstr "bạn còn {remaining_time}"
+
+msgid "your course"
+msgstr "khóa học của bạn"
+
+#, python-brace-format
+msgid "{num_of_hours} hour"
+msgstr "{num_of_hours} giờ"
+
+#, python-brace-format
+msgid "{num_of_hours} hours"
+msgstr "{num_of_hours} giờ"
+
+#, python-brace-format
+msgid "{num_of_minutes} minute"
+msgstr "{num_of_minutes} phút"
+
+#, python-brace-format
+msgid "{num_of_minutes} minutes"
+msgstr "{num_of_minutes} phút"
