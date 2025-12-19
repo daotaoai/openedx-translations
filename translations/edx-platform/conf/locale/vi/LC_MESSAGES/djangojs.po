@@ -11625,3 +11625,143 @@ msgstr "Vui lòng chọn một nhóm"
 # lms/static/js/instructor_dashboard/visual_accumulated_grade_report.js
 msgid "There were no results"
 msgstr "Không có kết quả nào"
+
+msgid "Additional Time"
+msgstr "Thời gian bổ sung"
+
+msgid "Additional Time (minutes)"
+msgstr "Thời gian bổ sung (phút)"
+
+msgid "All status"
+msgstr "Tất cả trạng thái"
+
+msgid "An error occurs. Please try again"
+msgstr "Đã xảy ra lỗi. Vui lòng thử lại"
+
+msgid ""
+"Are you sure you want to leave this page? \n"
+"To pass your proctored exam you must also pass the online proctoring session "
+"review."
+msgstr "Bạn có chắc chắn muốn rời khỏi trang này? \nĐể vượt qua bài thi giám sát, bạn cũng phải vượt qua phiên xem xét giám sát trực tuyến."
+
+msgid "Are you sure you want to remove this student's exam attempt?"
+msgstr "Bạn có chắc chắn muốn xóa lần làm bài thi của học viên này?"
+
+msgid "Created"
+msgstr "Đã tạo"
+
+msgid "Declined"
+msgstr "Đã từ chối"
+
+msgid "Download Software Clicked"
+msgstr "Đã nhấp tải phần mềm"
+
+msgid "Eligible"
+msgstr "Đủ điều kiện"
+
+msgid "Error Ending Exam"
+msgstr "Lỗi kết thúc bài thi"
+
+msgid "Error Starting Exam"
+msgstr "Lỗi bắt đầu bài thi"
+
+msgid "Lock session successfully"
+msgstr "Khóa phiên thành công"
+
+msgid "Not started"
+msgstr "Chưa bắt đầu"
+
+msgid "Onboarding Expired"
+msgstr "Đào tạo đã hết hạn"
+
+msgid "Onboarding Failed"
+msgstr "Đào tạo thất bại"
+
+msgid "Onboarding Missing"
+msgstr "Thiếu đào tạo"
+
+msgid "Onboarding Pending"
+msgstr "Đang chờ đào tạo"
+
+msgid "Practice"
+msgstr "Thực hành"
+
+msgid "Practice Exam"
+msgstr "Bài thi thực hành"
+
+msgid "Ready to start"
+msgstr "Sẵn sàng bắt đầu"
+
+msgid "Ready to submit"
+msgstr "Sẵn sàng nộp bài"
+
+msgid "Rejected"
+msgstr "Đã từ chối"
+
+msgid "Review Policy Exception"
+msgstr "Ngoại lệ chính sách xem xét"
+
+msgid "Second Review Required"
+msgstr "Yêu cầu xem xét lần hai"
+
+msgid ""
+"Something has gone wrong ending your exam. Please double-check that the "
+"application is running."
+msgstr "Đã xảy ra lỗi khi kết thúc bài thi của bạn. Vui lòng kiểm tra lại ứng dụng đang chạy."
+
+msgid ""
+"Something has gone wrong ending your exam. Please reload the page and start "
+"again."
+msgstr "Đã xảy ra lỗi khi kết thúc bài thi của bạn. Vui lòng tải lại trang và thử lại."
+
+msgid ""
+"Something has gone wrong starting your exam. Please double-check that the "
+"application is running."
+msgstr "Đã xảy ra lỗi khi bắt đầu bài thi của bạn. Vui lòng kiểm tra lại ứng dụng đang chạy."
+
+msgid ""
+"Something has gone wrong starting your exam. Please reload the page and "
+"start again."
+msgstr "Đã xảy ra lỗi khi bắt đầu bài thi của bạn. Vui lòng tải lại trang và thử lại."
+
+msgid "Started"
+msgstr "Đã bắt đầu"
+
+msgid "Students must be in Started mode to lock the session"
+msgstr "Học viên phải ở trạng thái đã Đã bắt đầu để khóa phiên"
+
+msgid "Timed out"
+msgstr "Hết giờ"
+
+msgid "Unlock session successfully"
+msgstr "Mở khóa phiên thành công"
+
+msgid "Value"
+msgstr "Giá trị"
+
+msgid "Verified"
+msgstr "Đã xác minh"
+
+msgid "Special Exam"
+msgstr "Bài kiểm tra đặc biệt"
+
+msgid "Exam Type"
+msgstr "Loại bài kiểm tra"
+
+msgid "Apply"
+msgstr "Áp dụng cho"
+
+msgid "Apply for cohort"
+msgstr "Nhóm"
+
+msgid "Apply for one learner"
+msgstr "Một học viên"
+
+msgid "Enter student username"
+msgstr "Nhập mã học viên"
+
+msgid "Choose group"
+msgstr "Chọn nhóm"
+
+msgid "Whole class"
+msgstr "Cả lớp"
