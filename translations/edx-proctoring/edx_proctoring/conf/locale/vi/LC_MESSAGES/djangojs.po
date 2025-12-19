@@ -156,3 +156,27 @@ msgstr "Giá trị"
 
 msgid "Verified"
 msgstr "Đã xác minh"
+
+msgid "Special Exam"
+msgstr "Bài kiểm tra đặc biệt"
+
+msgid "Exam Type"
+msgstr "Loại bài kiểm tra"
+
+msgid "Apply"
+msgstr "Áp dụng cho"
+
+msgid "Apply for cohort"
+msgstr "Nhóm"
+
+msgid "Apply for one learner"
+msgstr "Một học viên"
+
+msgid "Enter student username"
+msgstr "Nhập mã học viên"
+
+msgid "Choose group"
+msgstr "Chọn nhóm"
+
+msgid "Whole class"
+msgstr "Cả lớp"
