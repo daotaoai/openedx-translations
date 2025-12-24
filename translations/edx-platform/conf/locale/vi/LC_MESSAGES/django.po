@@ -27482,3 +27482,19 @@ msgstr "{num_of_minutes} phút"
 msgid "{num_of_minutes} minutes"
 msgstr "{num_of_minutes} phút"
 # END edx-proctoring
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_academic_transcript.html
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_academic_transcript.html
+msgid "Failed to fetch students list"
+msgstr "Không thể lấy danh sách học viên"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_academic_transcript.html
+msgid "Failed to create academic transcript report"
+msgstr "Không thể tạo báo cáo bảng điểm học tập"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_academic_transcript.html
+msgid "Detail Scoreboard"
+msgstr "Chi tiết bảng điểm"
