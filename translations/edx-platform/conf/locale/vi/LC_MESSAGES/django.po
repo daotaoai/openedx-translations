@@ -27498,3 +27498,15 @@ msgstr "Không thể tạo báo cáo bảng điểm học tập"
 #: lms/templates/instructor/instructor_dashboard_2/visual_academic_transcript.html
 msgid "Detail Scoreboard"
 msgstr "Chi tiết bảng điểm"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+msgid "Academic transcript"
+msgstr "Bảng điểm"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Exercise name"
+msgstr "Tên bài thi"
+
+#: lms/djangoapps/instructor_task/tasks_helper/grades.py
+msgid "Not Yet Graded"
+msgstr "Chưa chấm"
