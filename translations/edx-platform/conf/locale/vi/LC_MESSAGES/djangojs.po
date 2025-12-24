@@ -11813,3 +11813,15 @@ msgstr "Hiển thị:"
 msgid "data"
 msgstr "dữ liệu"
 # END edx-proctoring
+
+#: lms/static/js/instructor_dashboard/visual_academic_transcript_report.js
+msgid "Full name"
+msgstr "Tên đầy đủ"
+
+#: lms/static/js/instructor_dashboard/visual_academic_transcript_report.js
+msgid "Exercise name"
+msgstr "Tên bài thi"
+
+#: lms/static/js/instructor_dashboard/visual_academic_transcript_report.js
+msgid "No Name"
+msgstr "Không tên"
