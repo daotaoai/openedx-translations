@@ -7717,7 +7717,7 @@ msgstr "' %s ' không phải là phạm vi hợp lệ."
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:43
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:50
 msgid "Bookmarks"
-msgstr "Dấu trang"
+msgstr "Bài học đã lưu"
 
 #: openedx/core/djangoapps/bookmarks/views.py:39
 msgid "An error has occurred. Please try again."
@@ -27510,3 +27510,11 @@ msgstr "Tên bài thi"
 #: lms/djangoapps/instructor_task/tasks_helper/grades.py
 msgid "Not Yet Graded"
 msgstr "Chưa chấm"
+
+#: lms/templates/courseware_home.html
+msgid "Pick up where you left off"
+msgstr "Tiếp tục học từ bài dừng lại trước đó"
+
+#: lms/templates/courseware_home.html
+msgid "Launch tour"
+msgstr "Bắt đầu hướng dẫn"
