@@ -27527,10 +27527,6 @@ msgstr "Dữ liệu bài thi/kiểm tra (PDF)"
 msgid "All Students List"
 msgstr "Tất cả học viên"
 
-#: lms/templates/instructor/instructor_dashboard_2/visual_pdf_report.html
-msgid "The reports listed below are available for download, identified by UTC date and time of generation."
-msgstr "Danh sách báo cáo bên dưới có thể tải về, hiển thị theo ngày giờ tạo (UTC)."
-
 #: lms/djangoapps/instructor/views/api.py
 msgid ""
 "The report is being processed. This process will take a long time. "
