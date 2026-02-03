@@ -27518,3 +27518,31 @@ msgstr "Tiếp tục học từ bài dừng lại trước đó"
 #: lms/templates/courseware_home.html
 msgid "Launch tour"
 msgstr "Bắt đầu hướng dẫn"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_report.html
+msgid "Answer Sheet Data (PDF)"
+msgstr "Dữ liệu bài thi/kiểm tra (PDF)"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_pdf_report.html
+msgid "All Students List"
+msgstr "Tất cả học viên"
+
+#: lms/templates/instructor/instructor_dashboard_2/visual_pdf_report.html
+msgid "The reports listed below are available for download, identified by UTC date and time of generation."
+msgstr "Danh sách báo cáo bên dưới có thể tải về, hiển thị theo ngày giờ tạo (UTC)."
+
+#: lms/djangoapps/instructor/views/api.py
+msgid ""
+"The report is being processed. This process will take a long time. "
+"You can download the report when the system is finished processing in the list below."
+msgstr ""
+"Báo cáo đang được xử lý. Quá trình này sẽ mất nhiều thời gian. "
+"Bạn có thể tải báo cáo khi hệ thống xử lý xong ở danh sách bên dưới"
+
+#: lms/templates/courseware/pdf_template.html
+msgid "Learner information:"
+msgstr "Thông tin học viên:"
+
+#: lms/templates/courseware/pdf_template.html
+msgid "Exam information:"
+msgstr "Thông tin bài thi:"
