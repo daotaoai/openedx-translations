@@ -4138,7 +4138,7 @@ msgstr "Tỷ lệ các khóa học được phép sử dụng edx-financial-hỗ
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr "Quá trình"
+msgstr "Tiến độ học tập"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
