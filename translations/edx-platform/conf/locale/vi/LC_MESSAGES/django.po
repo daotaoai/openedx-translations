@@ -17463,7 +17463,7 @@ msgstr "Tổ chức:"
 #: cms/templates/index.html:244 cms/templates/index.html:290
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:88
 msgid "Course Number:"
-msgstr "Số của khóa học:"
+msgstr "Mã khóa học:"
 
 #: cms/templates/index.html:248 cms/templates/index.html:294
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:83
@@ -24037,7 +24037,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:117
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:236
 msgid "Pending Tasks"
-msgstr "Các nhiệm vụ đang chờ giải quyết"
+msgstr "Những tác vụ đang chờ xử lý"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:106
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:144
@@ -24126,11 +24126,11 @@ msgstr "Thông tin ghi danh"
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:14
 msgid "Number of enrollees (admins, staff, and students) by track"
 msgstr ""
-"Số lượng người đăng ký (quản trị viên, nhân viên và sinh viên) theo theo dõi"
+"Số lượng người đăng ký (quản trị viên, nhân viên và sinh viên) theo từng lộ trình"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:19
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Dự thính"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:22
 msgid "Honor"
@@ -24204,11 +24204,11 @@ msgstr "Khóa học đã kết thúc chưa?"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:127
 msgid "Number of sections:"
-msgstr "Số phần:"
+msgstr "Số chương mục trong khóa học:"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:132
 msgid "Grade Cutoffs:"
-msgstr "Điểm cắt:"
+msgstr "Ngưỡng điểm đạt:"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:159
 msgid "Course Warnings"
