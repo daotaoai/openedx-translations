@@ -320,7 +320,7 @@
   "progress.ungradedAlert": "Để xem tiến độ về các bài tập không chấm điểm của khóa học, hãy xem Dàn ý khóa học của bạn tại {outlineLink}.",
   "progress.weight": "Trọng số",
   "progress.weightedGrade": "Điểm trọng số",
-  "progress.weightedGradeSummary": "Điểm (đã tính trọng số) chưa làm tròn của bạn là {rawGrade}, sau khi làm tròn là {roundedGrade}.",
+  "progress.weightedGradeSummary": "Tổng kết điểm hiện tại của bạn (đã tính theo trọng số)",
   "unit.bookmark.button.add.bookmark": "Đánh dấu trang này",
   "unit.bookmark.button.remove.bookmark": "Đã đánh dấu",
   "courseCelebration.completedCourseHeader": "Bạn đã hoàn thành khóa học của mình.",
