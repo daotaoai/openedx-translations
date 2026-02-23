@@ -8552,7 +8552,7 @@ msgstr "Người điều hành nhóm"
 #: openedx/core/djangoapps/django_comment_common/models.py:28
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:284
 msgid "Community TA"
-msgstr "TA cộng đồng"
+msgstr "Cộng Đồng Trợ Giảng"
 
 #: openedx/core/djangoapps/django_comment_common/models.py:29
 msgid "Student"
@@ -21691,7 +21691,7 @@ msgstr "Chính sách chấm điểm"
 #: lms/templates/ccx/coach_dashboard.html:72
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:9
 msgid "Batch Enrollment"
-msgstr "Ghi danh theo đợt"
+msgstr "Đăng kí học theo nhóm"
 
 #: lms/templates/ccx/coach_dashboard.html:78
 #: lms/templates/ccx/student_admin.html:5
@@ -21706,7 +21706,7 @@ msgstr "Vui lòng nhập tên CCX hợp lệ."
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:13
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:103
 msgid "Email Addresses/Usernames"
-msgstr "Địa chỉ Email/Tên tài khoản"
+msgstr "Địa chỉ Email/Tên đăng nhập"
 
 #: lms/templates/ccx/enrollment.html:14
 msgid ""
@@ -21781,7 +21781,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:53
 msgctxt "someone"
 msgid "Enroll"
-msgstr "Tham gia"
+msgstr "Ghi danh"
 
 #: lms/templates/ccx/enrollment.html:71
 msgid "Student List Management"
@@ -21793,7 +21793,7 @@ msgstr "Tin nhắn phản hồi quản lý danh sách sinh viên CCX"
 
 #: lms/templates/ccx/enrollment.html:85 lms/templates/ccx/enrollment.html:93
 msgid "Revoke access"
-msgstr "Thu hồi truy cập"
+msgstr "Hủy bỏ truy cập"
 
 #: lms/templates/ccx/grading_policy.html:10
 msgid "WARNING"
@@ -24749,16 +24749,14 @@ msgstr "Tìm Mã Đăng Ký"
 msgid ""
 "Enter email addresses and/or usernames separated by new lines or commas."
 msgstr ""
-"Nhập địa chỉ email và/hoặc tên người dùng được phân tách bằng dòng mới hoặc "
-"dấu phẩy."
+"Điền vào email hoặc tên đăng nhập bằng cách xuống dòng hoặc cách nhau bởi dấu ','."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:12
 msgid ""
 "You will not get notification for emails that bounce, so please double-check"
 " spelling."
 msgstr ""
-"Bạn sẽ không nhận được thông báo khi có email bị trả lại, vì vậy vui lòng "
-"kiểm tra lại chính tả."
+"Bạn sẽ không nhận được thông báo trong trường hợp email bị sai, vì vậy hãy kiểm tra chính tả cẩn thận."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:18
 msgid ""
@@ -24816,7 +24814,7 @@ msgstr "Tải lên CSV"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:99
 msgid "Batch Beta Tester Addition"
-msgstr "Bổ sung thử nghiệm Beta hàng loạt"
+msgstr "Thêm nhóm Người Dùng Thử bản Beta"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:102
 #, python-brace-format
@@ -24824,8 +24822,7 @@ msgid ""
 "Note: Users must have an activated {platform_name} account before they can "
 "be enrolled as beta testers."
 msgstr ""
-"Lưu ý: Người dùng phải có tài khoản {platform_name} được kích hoạt trước khi"
-" có thể ghi danh làm người thử nghiệm beta."
+"Lưu ý: Người dùng phải có một (01) tài khoản {platform_name} đã kích hoạt trước khi đăng ký làm thành viên thử bản beta."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:112
 #, python-brace-format
@@ -24844,24 +24841,24 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:133
 msgid "Add beta testers"
-msgstr "Thêm người thử nghiệm beta"
+msgstr "Thêm người dùng thử bản beta"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:134
 msgid "Remove beta testers"
-msgstr "Xóa người thử nghiệm beta"
+msgstr "Xóa người dùng thử bản beta"
 
 #. Translators: an "Administration List" is a list, such as Course Staff, that
 #. users can be added to.
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:145
 msgid "Course Team Management"
-msgstr "Quản lý nhóm khóa học"
+msgstr "Nhóm quản trị khóa học"
 
 #. Translators: an "Administrator Group" is a group, such as Course Staff,
 #. that
 #. users can be added to.
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:151
 msgid "Select a course team role:"
-msgstr "Chọn vai trò của nhóm khóa học:"
+msgstr "Lựa chọn vai trò một thành viên nhóm quản trị khóa học:"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:153
 msgid "Getting available lists..."
@@ -24886,12 +24883,7 @@ msgid ""
 "Insights. Any users not yet enrolled in the course will be automatically "
 "enrolled when added as Staff."
 msgstr ""
-"Các thành viên trong nhóm khóa học với vai trò Nhân viên sẽ giúp bạn quản lý"
-" khóa học của mình. Nhân viên có thể đăng ký và hủy đăng ký người học, cũng "
-"như sửa đổi điểm số của họ và truy cập tất cả dữ liệu khóa học. Nhân viên "
-"cũng có quyền truy cập vào khóa học của bạn trong Studio và Thông tin chi "
-"tiết. Bất kỳ người dùng nào chưa đăng ký khóa học sẽ được tự động đăng ký "
-"khi được thêm làm Nhân viên."
+"Các thành viên của nhóm phụ trách khóa học với vai trò Nhân viên giúp bạn quản lý khóa học của bạn. Vai trò Nhân viên có thể ghi danh và hủy ghi danh học viên, cũng như sửa đổi điểm số và truy cập vào tất cả dữ liệu của khóa học. Nhân viên còn có quyền truy cập vào khóa học của bạn trong Studio và Insights. Bạn chỉ có thể cung cấp quyền của nhóm phụ trách khóa học cho những người dùng đã đăng ký."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:179
 msgid "Add Staff"
@@ -24945,7 +24937,7 @@ msgstr "Thêm quản trị viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:214
 msgid "Beta Testers"
-msgstr "Người thử nghiệm beta"
+msgstr "Người Dùng Thử Bản Beta"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:216
 msgid ""
@@ -24989,7 +24981,7 @@ msgstr "Thêm quản trị viên thảo luận"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:242
 msgid "Course Data Researcher"
-msgstr "Nhà nghiên cứu dữ liệu khóa học"
+msgstr "Người nghiên cứu dữ liệu khóa học"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:244
 msgid ""
@@ -25032,7 +25024,7 @@ msgstr "Thêm người điều hành"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:270
 msgid "Group Community TA"
-msgstr "Nhóm cộng đồng TA"
+msgstr "Nhóm Hỗ trợ Cộng đồng"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:272
 msgid ""

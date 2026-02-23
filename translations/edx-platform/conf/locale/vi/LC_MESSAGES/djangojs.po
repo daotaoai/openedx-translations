@@ -3839,7 +3839,7 @@ msgstr "Đánh dấu mã ghi danh là chưa sử dụng"
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:20
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:20
 msgid "Username"
-msgstr "Tên tài khoản"
+msgstr "Tên đăng nhập"
 
 #: lms/static/js/instructor_dashboard/membership.js:112
 #: lms/static/js/instructor_dashboard/membership.js:117
@@ -3851,7 +3851,7 @@ msgstr "Email"
 #: lms/static/js/instructor_dashboard/membership.js:117
 #: lms/static/js/instructor_dashboard/membership.js:173
 msgid "Revoke access"
-msgstr "Thu hồi truy cập"
+msgstr "Hủy bỏ truy cập"
 
 #: lms/static/js/instructor_dashboard/membership.js:117
 msgid "Group"
@@ -3859,11 +3859,11 @@ msgstr "Nhóm"
 
 #: lms/static/js/instructor_dashboard/membership.js:123
 msgid "Enter username or email"
-msgstr "Nhập tên người dùng hoặc email"
+msgstr "Nhập tên đăng nhập hoặc email"
 
 #: lms/static/js/instructor_dashboard/membership.js:157
 msgid "Please enter a username or email."
-msgstr "Vui lòng nhập tên người dùng hoặc email."
+msgstr "Vui lòng nhập tên đăng nhập hoặc email."
 
 #: lms/static/js/instructor_dashboard/membership.js:198
 #: lms/static/js/instructor_dashboard/membership.js:1049
