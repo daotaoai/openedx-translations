@@ -1906,7 +1906,7 @@ msgstr "Trình soạn thảo"
 #: cms/static/js/views/xblock_editor.js:50
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:6
 msgid "Settings"
-msgstr "Cài đặt"
+msgstr "Thiết lập"
 
 #: cms/static/js/views/xblock_outline.js:93
 msgid "New {component_type}"
@@ -2362,7 +2362,7 @@ msgstr "Hỗ trợ tài chính"
 
 #: lms/djangoapps/support/static/support/js/views/enrollment.js:17
 msgid "Upset Learner"
-msgstr "Người học buồn bã"
+msgstr "Học viên buồn bã"
 
 #: lms/djangoapps/support/static/support/js/views/enrollment.js:18
 msgid "Teaching Assistant"
@@ -2521,7 +2521,7 @@ msgstr "Liên hệ chúng tôi"
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:350
 msgid "Find answers to the top questions asked by learners."
-msgstr "Tìm câu trả lời cho các câu hỏi hàng đầu của người học."
+msgstr "Tìm câu trả lời cho các câu hỏi hàng đầu của học viên."
 
 #: lms/djangoapps/support/static/support/jsx/success.jsx:15
 msgid "Go to my Dashboard"
@@ -2594,7 +2594,7 @@ msgid ""
 "A short description of the team to help other learners understand the goals "
 "or direction of the team (maximum 300 characters)."
 msgstr ""
-"Một mô tả ngắn gọn về nhóm để giúp những người học khác hiểu được mục tiêu "
+"Một mô tả ngắn gọn về nhóm để giúp những học viên khác hiểu được mục tiêu "
 "hoặc định hướng của nhóm (tối đa 300 ký tự)."
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:62
@@ -2671,7 +2671,7 @@ msgid ""
 "This learner will be removed from the team,allowing another learner to take "
 "the available spot."
 msgstr ""
-"Người học này sẽ bị loại khỏi nhóm, cho phép người học khác đảm nhận vị trí "
+"Học viên này sẽ bị loại khỏi nhóm, cho phép học viên khác đảm nhận vị trí "
 "còn trống."
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:33
@@ -2734,7 +2734,7 @@ msgid ""
 "will be available to another learner."
 msgstr ""
 "Nếu rời đi, bạn không thể đăng bài trong các cuộc thảo luận của nhóm này "
-"nữa. Vị trí của bạn sẽ dành cho người học khác."
+"nữa. Vị trí của bạn sẽ dành cho học viên khác."
 
 #: lms/djangoapps/teams/static/teams/js/views/team_profile.js:147
 #: lms/static/js/verify_student/views/reverify_view.js:50
@@ -2851,7 +2851,7 @@ msgid ""
 msgstr ""
 "Xem tất cả các nhóm bạn tham gia và tất cả các nhóm công khai trong khóa học"
 " của bạn, được sắp xếp theo Chủ đề. Tham gia một nhóm công khai mở để cộng "
-"tác với những người học khác cũng quan tâm đến Chủ đề tương tự như bạn."
+"tác với những học viên khác cũng quan tâm đến Chủ đề tương tự như bạn."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:545
 msgid ""
@@ -3191,11 +3191,11 @@ msgstr ""
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:106
 msgid " learners were successfully added to exception list"
-msgstr " người học đã được thêm thành công vào danh sách ngoại lệ"
+msgstr " học viên đã được thêm thành công vào danh sách ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:107
 msgid " learner was successfully added to the exception list"
-msgstr " người học đã được thêm thành công vào danh sách ngoại lệ"
+msgstr " học viên đã được thêm thành công vào danh sách ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:112
 msgid ""
@@ -3216,7 +3216,7 @@ msgid ""
 " learner accounts cannot be found and have not been added to the exception "
 "list"
 msgstr ""
-" không thể tìm thấy tài khoản người học và chưa được thêm vào danh sách "
+" không thể tìm thấy tài khoản học viên và chưa được thêm vào danh sách "
 "ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:122
@@ -3224,23 +3224,23 @@ msgid ""
 " learner account cannot be found and has not been added to the exception "
 "list"
 msgstr ""
-" không thể tìm thấy tài khoản người học và chưa được thêm vào danh sách "
+" không thể tìm thấy tài khoản học viên và chưa được thêm vào danh sách "
 "ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:128
 msgid " learners already appear on the exception list in this course"
-msgstr " người học đã xuất hiện trong danh sách ngoại lệ trong khóa học này"
+msgstr " học viên đã xuất hiện trong danh sách ngoại lệ trong khóa học này"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:129
 msgid " learner already appears on the exception list in this course"
-msgstr " người học đã xuất hiện trong danh sách ngoại lệ trong khóa học này"
+msgstr " học viên đã xuất hiện trong danh sách ngoại lệ trong khóa học này"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:134
 msgid ""
 " learners are not enrolled in this course and have not added to the "
 "exception list"
 msgstr ""
-" Người học chưa ghi danh khóa học này và chưa được thêm vào danh sách ngoại "
+" Học viên chưa ghi danh khóa học này và chưa được thêm vào danh sách ngoại "
 "lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:136
@@ -3248,7 +3248,7 @@ msgid ""
 " learner is not enrolled in this course and has not been added to the "
 "exception list"
 msgstr ""
-" người học không được ghi danh vào khóa học này và chưa được thêm vào danh "
+" học viên không được ghi danh vào khóa học này và chưa được thêm vào danh "
 "sách ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:142
@@ -3256,7 +3256,7 @@ msgid ""
 " learners have an active certificate invalidation in this course and have "
 "not been added to the exception list"
 msgstr ""
-" Người học có chứng chỉ hết hiệu lực trong khóa học này và chưa được thêm "
+" Học viên có chứng chỉ hết hiệu lực trong khóa học này và chưa được thêm "
 "vào danh sách ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:144
@@ -3264,16 +3264,16 @@ msgid ""
 " learner has an active certificate invalidation in this course and has not "
 "been added to the exception list"
 msgstr ""
-" người học có chứng chỉ hết hiệu lực trong khóa học này và chưa được thêm "
+" học viên có chứng chỉ hết hiệu lực trong khóa học này và chưa được thêm "
 "vào danh sách ngoại lệ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:150
 msgid " learners encountered unknown errors"
-msgstr " người học gặp phải lỗi không rõ"
+msgstr " học viên gặp phải lỗi không rõ"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:151
 msgid " learner encountered an unknown error"
-msgstr " người học gặp phải một lỗi không xác định"
+msgstr " học viên gặp phải một lỗi không xác định"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
@@ -3429,8 +3429,8 @@ msgid ""
 "Discussions are unified; all learners interact with posts from other "
 "learners, regardless of the group they are in."
 msgstr ""
-"Các cuộc thảo luận được thống nhất; tất cả người học đều tương tác với bài "
-"đăng của những người học khác, bất kể họ thuộc nhóm nào."
+"Các cuộc thảo luận được thống nhất; tất cả học viên đều tương tác với bài "
+"đăng của những học viên khác, bất kể họ thuộc nhóm nào."
 
 #: lms/static/js/discussions_management/views/discussions.js:67
 msgid "Enrollment Tracks"
@@ -3444,8 +3444,8 @@ msgid ""
 "see and respond to each others’ posts."
 msgstr ""
 "Sử dụng các bài ghi danh làm cơ sở để phân chia các cuộc thảo luận. Tất cả "
-"người học, bất kể kênh ghi danh của họ, đều thấy các Chủ đề thảo luận giống "
-"nhau, nhưng trong các Chủ đề được chia nhỏ, chỉ những người học trong cùng "
+"học viên, bất kể kênh ghi danh của họ, đều thấy các Chủ đề thảo luận giống "
+"nhau, nhưng trong các Chủ đề được chia nhỏ, chỉ những học viên trong cùng "
 "một kênh ghi danh mới có thể xem và phản hồi bài đăng của nhau."
 
 #: lms/static/js/discussions_management/views/discussions.js:74
@@ -3458,7 +3458,7 @@ msgid ""
 "of cohort, see the same discussion topics, but within divided topics, only "
 "members of the same cohort see and respond to each others’ posts. "
 msgstr ""
-"Sử dụng nhóm làm cơ sở để phân chia các cuộc thảo luận. Tất cả người học, "
+"Sử dụng nhóm làm cơ sở để phân chia các cuộc thảo luận. Tất cả học viên, "
 "bất kể nhóm, đều thấy các Chủ đề thảo luận giống nhau, nhưng trong các Chủ "
 "đề được chia nhỏ, chỉ các thành viên trong cùng một nhóm mới xem và phản hồi"
 " bài đăng của nhau. "
@@ -3594,7 +3594,7 @@ msgstr "nhóm đã lưu"
 
 #: lms/static/js/groups/views/cohort_editor.js:120
 msgid "Error adding learners."
-msgstr "Lỗi khi thêm người học."
+msgstr "Lỗi khi thêm học viên."
 
 #: lms/static/js/groups/views/cohort_editor.js:123
 msgid "Enter a username or email."
@@ -3603,17 +3603,17 @@ msgstr "Nhập tên người dùng hoặc email."
 #: lms/static/js/groups/views/cohort_editor.js:175
 msgid "{numUsersAdded} learner has been added to this cohort. "
 msgid_plural "{numUsersAdded} learners have been added to this cohort. "
-msgstr[0] "Những người học {numUsersAdded} đã được thêm vào nhóm này. "
+msgstr[0] "Những học viên {numUsersAdded} đã được thêm vào nhóm này. "
 
 #: lms/static/js/groups/views/cohort_editor.js:195
 msgid "{numMoved} learner was moved from {prevCohort}"
 msgid_plural "{numMoved} learners were moved from {prevCohort}"
-msgstr[0] "Người học {numMoved} đã được chuyển từ {prevCohort}"
+msgstr[0] "Học viên {numMoved} đã được chuyển từ {prevCohort}"
 
 #: lms/static/js/groups/views/cohort_editor.js:205
 msgid "{numPresent} learner was already in the cohort"
 msgid_plural "{numPresent} learners were already in the cohort"
-msgstr[0] "Người học {numPresent} đã có mặt trong nhóm"
+msgstr[0] "Học viên {numPresent} đã có mặt trong nhóm"
 
 #: lms/static/js/groups/views/cohort_editor.js:231
 msgid "{email}"
@@ -3627,7 +3627,7 @@ msgid_plural ""
 "{numPreassigned} learners were pre-assigned for this cohort. These learners "
 "will automatically be added to the cohort when they enroll in the course."
 msgstr[0] ""
-"Người học {numPreassigned} đã được chỉ định trước cho nhóm này. Những người "
+"Học viên {numPreassigned} đã được chỉ định trước cho nhóm này. Những người "
 "học này sẽ tự động được thêm vào nhóm khi họ đăng ký khóa học."
 
 #: lms/static/js/groups/views/cohort_editor.js:276
@@ -3645,7 +3645,7 @@ msgstr "Chuyển nhượng nhóm không được phép: {email_or_username}"
 #: lms/static/js/groups/views/cohort_editor.js:291
 msgid "There was an error when trying to add learners:"
 msgid_plural "{numErrors} learners could not be added to this cohort:"
-msgstr[0] "Không thể thêm người học {numErrors} vào nhóm này:"
+msgstr[0] "Không thể thêm học viên {numErrors} vào nhóm này:"
 
 #: lms/static/js/groups/views/cohort_editor.js:306
 msgid "View all errors"
@@ -4059,11 +4059,11 @@ msgstr "Tất cả học viên đăng ký khóa học này"
 
 #: lms/static/js/instructor_dashboard/send_email.js:91
 msgid "All learners in the {cohort_name} cohort"
-msgstr "Tất cả người học trong nhóm {cohort_name}"
+msgstr "Tất cả học viên trong nhóm {cohort_name}"
 
 #: lms/static/js/instructor_dashboard/send_email.js:94
 msgid "All learners in the {track_name} track"
-msgstr "Tất cả người học trong bài hát {track_name}"
+msgstr "Tất cả học viên trong bài hát {track_name}"
 
 #: lms/static/js/instructor_dashboard/send_email.js:98
 msgid ""
@@ -4072,7 +4072,7 @@ msgid ""
 "hour to be sent."
 msgstr ""
 "Tin nhắn email của bạn đã được xếp hàng để gửi thành công. Trong các khóa "
-"học có số lượng lớn người học, thời gian gửi email tới người học có thể mất "
+"học có số lượng lớn học viên, thời gian gửi email tới học viên có thể mất "
 "tới một giờ."
 
 #: lms/static/js/instructor_dashboard/send_email.js:100
@@ -7118,7 +7118,7 @@ msgid ""
 "of learners."
 msgstr ""
 "Quyền truy cập vào một số nội dung trong {blockType} này được giới hạn ở các"
-" nhóm người học cụ thể."
+" nhóm học viên cụ thể."
 
 #: cms/templates/js/container-message.underscore:5
 msgid ""
@@ -7169,7 +7169,7 @@ msgstr "Hiển thị toàn bộ tiểu mục"
 #: cms/templates/js/content-visibility-editor.underscore:15
 msgid "Learners see the published subsection and can access its content."
 msgstr ""
-"Người học xem tiểu mục đã xuất bản và có thể truy cập nội dung của nó."
+"Học viên xem tiểu mục đã xuất bản và có thể truy cập nội dung của nó."
 
 #: cms/templates/js/content-visibility-editor.underscore:19
 msgid "Hide content after course end date"
@@ -7184,7 +7184,7 @@ msgid ""
 "After the course\\'s end date has passed, learners can no longer access "
 "subsection content. The subsection remains included in grade calculations."
 msgstr ""
-"Sau khi ngày kết thúc khóa học trôi qua, người học không thể truy cập nội "
+"Sau khi ngày kết thúc khóa học trôi qua, học viên không thể truy cập nội "
 "dung các tiểu mục nữa. Tiểu mục này vẫn được đưa vào tính toán điểm."
 
 #: cms/templates/js/content-visibility-editor.underscore:28
@@ -7192,7 +7192,7 @@ msgid ""
 "After the subsection\\'s due date has passed, learners can no longer access "
 "its content. The subsection remains included in grade calculations."
 msgstr ""
-"Sau khi hết hạn nộp tiểu mục, người học không thể truy cập nội dung của tiểu"
+"Sau khi hết hạn nộp tiểu mục, học viên không thể truy cập nội dung của tiểu"
 " mục đó nữa. Tiểu mục này vẫn được đưa vào tính toán điểm."
 
 #: cms/templates/js/content-visibility-editor.underscore:33
@@ -7204,7 +7204,7 @@ msgid ""
 "Learners do not see the subsection in the course outline. The subsection is "
 "not included in grade calculations."
 msgstr ""
-"Người học không nhìn thấy tiểu mục trong đề cương khóa học. Tiểu mục này "
+"Học viên không nhìn thấy tiểu mục trong đề cương khóa học. Tiểu mục này "
 "không được bao gồm trong tính toán điểm."
 
 #: cms/templates/js/content-visibility-editor.underscore:42
@@ -7215,7 +7215,7 @@ msgid ""
 "hidden."
 msgstr ""
 "Nếu bạn chọn một tùy chọn khác ngoài &quot; %(hide_label)s &quot;, các bài "
-"học đã xuất bản trong tiểu mục này sẽ có sẵn cho người học trừ khi chúng bị "
+"học đã xuất bản trong tiểu mục này sẽ có sẵn cho học viên trừ khi chúng bị "
 "ẩn rõ ràng."
 
 #: cms/templates/js/copy-clipboard-button.underscore:1
@@ -7323,7 +7323,7 @@ msgid ""
 "Hidden in the course outline, but sections are accessible for your learners "
 "through their separate link."
 msgstr ""
-"Bị ẩn trong đề cương khóa học, nhưng người học có thể truy cập các phần "
+"Bị ẩn trong đề cương khóa học, nhưng học viên có thể truy cập các phần "
 "thông qua liên kết riêng của họ."
 
 #: cms/templates/js/course-outline.underscore:63
@@ -7359,7 +7359,7 @@ msgid ""
 "learners"
 msgstr ""
 "Quyền truy cập vào một số nội dung trong học phần này được giới hạn ở các "
-"nhóm người học cụ thể"
+"nhóm học viên cụ thể"
 
 #: cms/templates/js/course-outline.underscore:97
 msgid "Ungraded"
@@ -7611,7 +7611,7 @@ msgid ""
 "Midterm Exam. This name is visible to learners."
 msgstr ""
 "Danh mục chung cho loại bài tập này, ví dụ: Bài tập về nhà hoặc Bài kiểm tra"
-" giữa kỳ. Tên này được hiển thị cho người học."
+" giữa kỳ. Tên này được hiển thị cho học viên."
 
 #: cms/templates/js/course_grade_policy.underscore:9
 msgid "Abbreviation"
@@ -7623,7 +7623,7 @@ msgid ""
 " next to assignments on a learner's Progress page."
 msgstr ""
 "Tên viết tắt này cho loại bài tập (ví dụ: CTNH hoặc Giữa kỳ) xuất hiện bên "
-"cạnh bài tập trên trang Tiến độ của người học."
+"cạnh bài tập trên trang Tiến độ của học viên."
 
 #: cms/templates/js/course_grade_policy.underscore:15
 msgid "Weight of Total Grade"
@@ -7835,7 +7835,7 @@ msgid ""
 "When sharing this link with your learners, they will see the content of the "
 "subsection along with the header and footer of your LMS."
 msgstr ""
-"Khi chia sẻ liên kết này với người học của bạn, họ sẽ thấy nội dung của tiểu"
+"Khi chia sẻ liên kết này với học viên của bạn, họ sẽ thấy nội dung của tiểu"
 " mục cùng với đầu trang và chân trang của LMS của bạn."
 
 #: cms/templates/js/grading-editor.underscore:1
@@ -7930,7 +7930,7 @@ msgid ""
 "Enter 3-5 highlights to include in the email message that learners receive "
 "for this section (250 character limit)."
 msgstr ""
-"Nhập 3-5 điểm nổi bật để đưa vào email mà người học nhận được cho phần này "
+"Nhập 3-5 điểm nổi bật để đưa vào email mà học viên nhận được cho phần này "
 "(giới hạn 250 ký tự)."
 
 #: cms/templates/js/highlights-editor.underscore:36
@@ -8229,7 +8229,7 @@ msgid ""
 "If a learner starts on {startDate}, this subsection will be due on "
 "{projectedDueIn}."
 msgstr ""
-"Nếu người học bắt đầu vào {startDate} , phần phụ này sẽ đến hạn vào "
+"Nếu học viên bắt đầu vào {startDate} , phần phụ này sẽ đến hạn vào "
 "{projectedDueIn} ."
 
 #: cms/templates/js/self-paced-due-date-editor.underscore:23
@@ -8253,7 +8253,7 @@ msgid ""
 "When learners submit an answer to an assessment, they immediately see "
 "whether the answer is correct or incorrect, and the score received."
 msgstr ""
-"Khi người học gửi câu trả lời cho một bài đánh giá, họ sẽ biết ngay câu trả "
+"Khi học viên gửi câu trả lời cho một bài đánh giá, họ sẽ biết ngay câu trả "
 "lời đó đúng hay sai và điểm số nhận được."
 
 #: cms/templates/js/show-correctness-editor.underscore:14
@@ -8265,7 +8265,7 @@ msgid ""
 "Learners never see whether their answers to assessments are correct or "
 "incorrect, nor the score received."
 msgstr ""
-"Người học không bao giờ biết được câu trả lời của mình cho các bài đánh giá "
+"Học viên không bao giờ biết được câu trả lời của mình cho các bài đánh giá "
 "là đúng hay sai, cũng như điểm số nhận được."
 
 #: cms/templates/js/show-correctness-editor.underscore:21
@@ -8278,7 +8278,7 @@ msgid ""
 "incorrect, nor the score received, until after the due date for the "
 "subsection has passed."
 msgstr ""
-"Người học không thể biết được câu trả lời của mình trong các bài đánh giá là"
+"Học viên không thể biết được câu trả lời của mình trong các bài đánh giá là"
 " đúng hay sai, cũng như điểm số nhận được cho đến khi hết hạn nộp bài."
 
 #: cms/templates/js/show-correctness-editor.underscore:36
@@ -8286,7 +8286,7 @@ msgid ""
 "If the subsection does not have a due date, learners always see their scores"
 " when they submit answers to assessments."
 msgstr ""
-"Nếu tiểu mục không có ngày đến hạn, người học luôn nhìn thấy điểm của mình "
+"Nếu tiểu mục không có ngày đến hạn, học viên luôn nhìn thấy điểm của mình "
 "khi gửi câu trả lời cho các bài đánh giá."
 
 #: cms/templates/js/show-textbook.underscore:12
@@ -8376,13 +8376,13 @@ msgstr "Hiển thị phần"
 
 #: cms/templates/js/staff-lock-editor.underscore:14
 msgid "Visible to learners"
-msgstr "Hiển thị cho người học"
+msgstr "Hiển thị cho học viên"
 
 #: cms/templates/js/staff-lock-editor.underscore:16
 msgid ""
 "It is visible to learners, ensuring that all learners can view its contents."
 msgstr ""
-"Nó hiển thị cho người học, đảm bảo rằng tất cả người học đều có thể xem nội "
+"Nó hiển thị cho học viên, đảm bảo rằng tất cả học viên đều có thể xem nội "
 "dung của nó."
 
 #: cms/templates/js/staff-lock-editor.underscore:22
@@ -8402,7 +8402,7 @@ msgid ""
 "If you make this section visible in the table of content, learners will be "
 "able to see its content."
 msgstr ""
-"Nếu bạn hiển thị phần này trong mục lục, người học sẽ có thể xem được nội "
+"Nếu bạn hiển thị phần này trong mục lục, học viên sẽ có thể xem được nội "
 "dung của nó."
 
 #: cms/templates/js/staff-lock-editor.underscore:40
@@ -8410,7 +8410,7 @@ msgid ""
 "It is intentionally hidden from learners, ensuring that only the course "
 "staff can view its contents."
 msgstr ""
-"Nó được cố ý ẩn khỏi người học, đảm bảo rằng chỉ nhân viên của khóa học mới "
+"Nó được cố ý ẩn khỏi học viên, đảm bảo rằng chỉ nhân viên của khóa học mới "
 "có thể xem nội dung của nó."
 
 #: cms/templates/js/staff-lock-editor.underscore:45
@@ -8418,7 +8418,7 @@ msgid ""
 "If the unit was previously published and released to learners, any changes "
 "you made to the unit when it was hidden will now be visible to learners."
 msgstr ""
-"Nếu bài học trước đây đã được xuất bản và phát hành cho người học thì mọi "
+"Nếu bài học trước đây đã được xuất bản và phát hành cho học viên thì mọi "
 "thay đổi bạn thực hiện đối với bài học khi nó bị ẩn sẽ hiển thị cho người "
 "học."
 
@@ -8430,9 +8430,9 @@ msgid ""
 "the unit. Only units that are explicitly hidden from learners will remain "
 "hidden after you clear this option for the %(xblockType)s."
 msgstr ""
-"Nếu bạn hiển thị %(xblockType)s này cho người học, người học sẽ có thể xem "
+"Nếu bạn hiển thị %(xblockType)s này cho học viên, học viên sẽ có thể xem "
 "nội dung của nó sau khi ngày phát hành trôi qua và bạn đã xuất bản bài học. "
-"Chỉ những bài học được ẩn rõ ràng với người học mới vẫn bị ẩn sau khi bạn "
+"Chỉ những bài học được ẩn rõ ràng với học viên mới vẫn bị ẩn sau khi bạn "
 "xóa tùy chọn này cho %(xblockType)s ."
 
 #: cms/templates/js/summary-configuration-editor.underscore:3
@@ -8491,7 +8491,7 @@ msgid ""
 "reverted back to a basic or timed exam. You may not configure it as a "
 "proctored exam now. Contact edX Support for assistance."
 msgstr ""
-"Tiểu mục này được phát hành cho người học dưới dạng bài kiểm tra có giám "
+"Tiểu mục này được phát hành cho học viên dưới dạng bài kiểm tra có giám "
 "sát, nhưng đã được hoàn nguyên về bài kiểm tra cơ bản hoặc tính giờ. Bây giờ"
 " bạn không thể định cấu hình nó như một bài kiểm tra được giám sát. Hãy liên"
 " hệ với bộ phận Hỗ trợ của edX để được hỗ trợ."
@@ -8503,7 +8503,7 @@ msgid ""
 "a basic exam by selecting 'None', or a timed exam, but you will NOT be able "
 "to configure it as a proctored exam in the future."
 msgstr ""
-"Bài kiểm tra giám sát này đã được phát hành cho người học. Bạn không thể chuyển "
+"Bài kiểm tra giám sát này đã được phát hành cho học viên. Bạn không thể chuyển "
 "đổi nó sang một loại bài kiểm tra đặc biệt khác. Bạn có thể hoàn nguyên tiểu"
 " mục này thành bài kiểm tra cơ bản bằng cách chọn &#39;Không&#39; hoặc bài "
 "kiểm tra tính giờ, nhưng bạn sẽ KHÔNG thể định cấu hình nó làm bài kiểm tra "
@@ -8520,9 +8520,9 @@ msgid ""
 "allow additional time for individual learners through the Instructor "
 "Dashboard."
 msgstr ""
-"Sử dụng bài kiểm tra tính giờ để giới hạn thời gian người học có thể dành "
+"Sử dụng bài kiểm tra tính giờ để giới hạn thời gian học viên có thể dành "
 "cho các vấn đề trong tiểu mục này. Thí sinh phải nộp đáp án trước khi hết "
-"thời gian. Bạn có thể dành thêm thời gian cho từng người học thông qua Bảng "
+"thời gian. Bạn có thể dành thêm thời gian cho từng học viên thông qua Bảng "
 "điều khiển dành cho người hướng dẫn."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:38
@@ -8553,8 +8553,8 @@ msgid ""
 "profile step prior to taking a proctored exam. Profile reviews take 2+ "
 "business days."
 msgstr ""
-"Sử dụng chương trình Đào tạo để giới thiệu cho người học cách giám thị, xác "
-"minh danh tính của họ và tạo hồ sơ đào tạo. Người học phải hoàn thành bước "
+"Sử dụng chương trình Đào tạo để giới thiệu cho học viên cách giám thị, xác "
+"minh danh tính của họ và tạo hồ sơ đào tạo. Học viên phải hoàn thành bước "
 "hồ sơ giới thiệu trước khi tham gia Bài kiểm tra giám sát. Quá trình xem xét hồ sơ"
 " mất hơn 2 ngày làm việc."
 
@@ -8567,9 +8567,9 @@ msgid ""
 "Use a practice proctored exam to introduce learners to the proctoring tools "
 "and processes. Results of a practice exam do not affect a learner's grade."
 msgstr ""
-"Sử dụng bài kiểm tra thực hành có giám thị để giới thiệu cho người học các "
+"Sử dụng bài kiểm tra thực hành có giám thị để giới thiệu cho học viên các "
 "công cụ và quy trình giám thị. Kết quả bài thi thực hành không ảnh hưởng đến"
-" điểm số của người học."
+" điểm số của học viên."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:67
 msgid "Time Allotted (HH:MM):"
@@ -8582,7 +8582,7 @@ msgid ""
 " exam through the Instructor Dashboard."
 msgstr ""
 "Chọn phân bổ thời gian cho Bài kiểm tra. Nếu trên 24 giờ, hãy nhập khoảng thời "
-"gian. Bạn có thể cho từng người học thêm thời gian để hoàn thành bài kiểm "
+"gian. Bạn có thể cho từng học viên thêm thời gian để hoàn thành bài kiểm "
 "tra thông qua Bảng điều khiển dành cho giảng viên."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:77
@@ -8601,7 +8601,7 @@ msgstr ""
 "Nêu rõ bất kỳ quy tắc hoặc trường hợp ngoại lệ nào về quy tắc mà nhóm đánh "
 "giá giám sát nên thực thi khi xem xét các video. Ví dụ: bạn có thể chỉ định "
 "rằng máy tính được phép sử dụng. Những quy tắc cụ thể này sẽ hiển thị cho "
-"người học trước khi người học bắt đầu bài kiểm tra, cùng với {linkStart} quy"
+"học viên trước khi học viên bắt đầu bài kiểm tra, cùng với {linkStart} quy"
 " tắc thi chung được giám sát {linkEnd} ."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:90
@@ -8618,7 +8618,7 @@ msgstr ""
 "Nêu rõ bất kỳ quy tắc hoặc trường hợp ngoại lệ nào về quy tắc mà nhóm đánh "
 "giá giám sát nên thực thi khi xem xét các video. Ví dụ: bạn có thể chỉ định "
 "rằng máy tính được phép sử dụng. Những quy tắc cụ thể này sẽ được hiển thị "
-"cho người học trước khi người học bắt đầu Bài kiểm tra."
+"cho học viên trước khi học viên bắt đầu Bài kiểm tra."
 
 #: cms/templates/js/transcript-organization-credentials.underscore:3
 msgid "Account"
@@ -8701,8 +8701,8 @@ msgid ""
 "the content in this unit. Learners who do not require verification see this "
 "content by default."
 msgstr ""
-"Người học yêu cầu xác minh phải vượt qua điểm kiểm tra đã chọn để xem nội "
-"dung trong học phần này. Những người học không yêu cầu xác minh sẽ thấy nội "
+"Học viên yêu cầu xác minh phải vượt qua điểm kiểm tra đã chọn để xem nội "
+"dung trong học phần này. Những học viên không yêu cầu xác minh sẽ thấy nội "
 "dung này theo mặc định."
 
 #: cms/templates/js/video-thumbnail.underscore:17
@@ -9518,7 +9518,7 @@ msgid ""
 "characteristics for your team. Choose carefully, because fewer people might "
 "be interested in joining your team if it seems too restrictive."
 msgstr ""
-"Giúp những người học khác quyết định có nên tham gia nhóm của bạn hay không "
+"Giúp những học viên khác quyết định có nên tham gia nhóm của bạn hay không "
 "bằng cách chỉ định một số đặc điểm cho nhóm của bạn. Hãy lựa chọn cẩn thận "
 "vì có thể sẽ có ít người quan tâm đến việc tham gia nhóm của bạn hơn nếu "
 "nhóm đó có vẻ quá hạn chế."
@@ -9954,12 +9954,12 @@ msgid ""
 "To invalidate a certificate for a particular learner, add the username or "
 "email address below."
 msgstr ""
-"Để vô hiệu hóa chứng chỉ của một người học cụ thể, hãy thêm tên người dùng "
+"Để vô hiệu hóa chứng chỉ của một học viên cụ thể, hãy thêm tên người dùng "
 "hoặc địa chỉ email bên dưới."
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:11
 msgid "Add notes about this learner"
-msgstr "Thêm ghi chú về người học này"
+msgstr "Thêm ghi chú về học viên này"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:16
 msgid "Invalidate Certificate"
@@ -9987,27 +9987,25 @@ msgstr "Đã chia ra"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
 msgid "Manage Learners"
-msgstr "Quản lý người học"
+msgstr "Quản lý học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:12
 msgid "Add learners to this cohort"
-msgstr "Thêm người học vào nhóm này"
+msgstr "Thêm học viên vào nhóm này"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:15
 msgid ""
 "Note: Learners can be in only one cohort. Adding learners to this group "
 "overrides any previous group assignment."
 msgstr ""
-"Lưu ý: Người học chỉ có thể tham gia một nhóm. Việc thêm người học vào nhóm "
-"này sẽ ghi đè mọi bài tập nhóm trước đó."
+"Lưu ý: Học viên chỉ có thể ở trong 1 nhóm. Việc thêm học viên vào nhóm này sẽ làm học viên rời khỏi bất cứ nhóm nào trước đó."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:25
 msgid ""
 "Enter email addresses and/or usernames, separated by new lines or commas, "
 "for the learners you want to add. *"
 msgstr ""
-"Nhập địa chỉ email và/hoặc tên người dùng, được phân tách bằng dòng mới hoặc"
-" dấu phẩy, cho những người học mà bạn muốn thêm. *"
+"Nhập địa chỉ email và/hoặc tên người dùng của những học viên bạn muốn thêm, phân tách bằng cách xuống dòng hoặc dấu phẩy. *"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:26
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:25
@@ -10028,7 +10026,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:39
 msgid "Add Learners"
-msgstr "Thêm người học"
+msgstr "Thêm học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:5
 msgid "Add a New Cohort"
@@ -10065,7 +10063,7 @@ msgstr "Nhóm nội dung liên quan"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:64
 msgid "No Content Group"
-msgstr "Không có nhóm nội dung"
+msgstr "Nhóm không có nội dung"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:66
 msgid "Select a Content Group"
@@ -10113,14 +10111,14 @@ msgstr "Tạo nhóm nội dung"
 #, python-format
 msgid "(contains %(student_count)s student)"
 msgid_plural "(contains %(student_count)s students)"
-msgstr[0] "(chứa sinh viên %(student_count)s )"
+msgstr[0] "(bao gồm %(student_count)s học viên)"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:14
 msgid ""
 "Learners are added to this cohort only when you provide their email "
 "addresses or usernames on this page."
 msgstr ""
-"Người học chỉ được thêm vào nhóm này khi bạn cung cấp địa chỉ email hoặc tên"
+"Học viên chỉ được thêm vào nhóm này khi bạn cung cấp địa chỉ email hoặc tên"
 " người dùng của họ trên trang này."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:15
@@ -10130,7 +10128,7 @@ msgstr "Điều đó có nghĩa là gì?"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:17
 msgid "Learners are added to this cohort automatically."
-msgstr "Người học được tự động thêm vào nhóm này."
+msgstr "Học viên được tự động thêm vào nhóm này."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:2
 msgid "Select a cohort"
@@ -10155,7 +10153,7 @@ msgstr "Xem đoàn hệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:37
 msgid "Assign learners to cohorts by uploading a CSV file"
-msgstr "Chỉ định người học vào nhóm bằng cách tải lên tệp CSV"
+msgstr "Chỉ định học viên vào nhóm bằng cách tải lên tệp CSV"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:44
 #, python-brace-format
@@ -10164,9 +10162,9 @@ msgid ""
 "file, download course profile information or cohort results on the "
 "{link_start}Data Download{link_end} page."
 msgstr ""
-"Để xem lại bài tập nhóm của người học hoặc xem kết quả tải lên tệp CSV, hãy "
-"tải xuống thông tin hồ sơ khóa học hoặc kết quả nhóm trên trang {link_start}"
-" Tải xuống dữ liệu {link_end} ."
+"Để kiểm tra học viên được thêm vào nhóm hoặc xem kết quả của tệp CSV được tải lên, hãy "
+"tải về thông tin hồ sơ khóa học hoặc các kết quả nhóm trong trang {link_start}"
+" Dữ liệu tải xuống {link_end}"
 
 #: lms/templates/instructor/instructor_dashboard_2/discussions.underscore:3
 msgid "Specify whether discussion topics are divided"
