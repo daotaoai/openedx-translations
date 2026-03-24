@@ -12845,7 +12845,7 @@ msgstr "Thư viện"
 
 #: xmodule/library_content_block.py:84
 msgid "Select the library from which you want to draw content."
-msgstr "Chọn thư viện mà bạn muốn vẽ nội dung."
+msgstr "Chọn thư viện mà bạn muốn sử dụng nội dung."
 
 #: xmodule/library_content_block.py:90
 msgid "Library Version"
@@ -12932,7 +12932,7 @@ msgstr[0] ""
 #, python-brace-format
 msgid "but there is only {actual} matching problem."
 msgid_plural "but there are only {actual} matching problems."
-msgstr[0] "nhưng chỉ có {actual} câu hỏi khớp."
+msgstr[0] "Tag bạn chọn có {actual} câu hỏi."
 
 #: xmodule/library_content_block.py:366
 msgid "Edit the library configuration."
@@ -17757,9 +17757,7 @@ msgid_plural ""
 "student will be assigned {max_count} components drawn randomly from this "
 "list."
 msgstr[0] ""
-"Hiển thị tất cả nội dung phù hợp đủ điều kiện để được thêm vào "
-"{display_name} . Mỗi học sinh sẽ được phân công các thành phần {max_count} "
-"được rút ngẫu nhiên từ danh sách này."
+"Hiển thị tất cả lựa chọn có thể thêm vào {display_name}. Mỗi học viên sẽ được phân ngẫu nhiên nhiều nhất {max_count} lựa chọn từ danh sách này."
 
 #: cms/templates/library.html:49
 msgid "Content Library"
@@ -26976,8 +26974,7 @@ msgid ""
 "Choose a problem type to fetch from the library. "
 "If 'Any Type' is selected, no filtering is applied."
 msgstr ""
-"Chọn loại bài tập để lấy từ thư viện. "
-"Nếu chọn 'Bất kỳ loại nào', sẽ không áp dụng bộ lọc."
+"Chọn một loại bài tập để lấy từ thư viện. Nếu chọn 'Bất kỳ loại nào' thì không có bộ lọc nào được áp dụng."
 
 #: xmodule/random_block_v2.py
 msgid "4. Set of tags"
@@ -26991,11 +26988,7 @@ msgid ""
 "treated with AND operator (only questions with tag1 AND tag2 "
 "are selected)."
 msgstr ""
-"Vui lòng chọn một số thành phần (tag: số lượng) để lấy "
-"câu hỏi từ thư viện. Lưu ý rằng nếu chọn nhiều hơn một tag "
-"cho một thành phần (tag1,tag2: số lượng), chúng sẽ được "
-"xử lý bằng toán tử AND (chỉ những câu hỏi có tag1 VÀ tag2 "
-"mới được chọn)."
+"Hãy chọn nhiều cặp (tag: số lượng) để sinh ngẫu nhiên câu hỏi từ thư viện. Lưu ý khi chọn nhiều tag nghĩa là áp dụng phép AND (câu hỏi cần có tất cả các tag được liệt kê)."
 
 #: xmodule/random_block_v2.py
 msgid "5. Hide question name"
@@ -27052,8 +27045,8 @@ msgstr "Nhập số lượng câu hỏi cho bộ ({tag})"
 #: xmodule/random_block_v2.py
 msgid "The specified library is configured to fetch {count} problem for set ({tag}) "
 msgid_plural "The specified library is configured to fetch {count} problems for set ({tag}) "
-msgstr[0] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
-msgstr[1] "Thư viện được chỉ định đã được cấu hình để lấy {count} câu hỏi cho ({tag}) "
+msgstr[0] "Số lượng câu hỏi nhập vào vượt quá số câu hỏi của tag đã chọn. "
+msgstr[1] "Số lượng câu hỏi nhập vào vượt quá số câu hỏi của tag đã chọn. "
 
 #: xmodule/random_block_v2.py
 msgid "Please config tag for this exam."
