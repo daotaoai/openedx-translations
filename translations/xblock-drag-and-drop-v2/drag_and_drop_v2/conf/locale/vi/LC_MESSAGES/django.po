@@ -739,7 +739,7 @@ msgstr[0] "{possible} điểm có thể (được xếp loại)"
 #: public/js/drag_and_drop.js:634
 msgid "{possible} point possible (ungraded)"
 msgid_plural "{possible} points possible (ungraded)"
-msgstr[0] "{possible} điểm có thể (không tính điểm)"
+msgstr[0] "tối đa {possible} điểm, không tích lũy vào tiến trình học"
 
 #: public/js/drag_and_drop.js:660
 msgid "Drag and Drop Problem"
