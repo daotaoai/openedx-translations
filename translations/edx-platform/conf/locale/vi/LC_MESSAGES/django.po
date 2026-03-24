@@ -5383,7 +5383,7 @@ msgstr "Gia hạn"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:641
 msgid "Data Download"
-msgstr "Tải xuống"
+msgstr "Dữ liệu"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:751
 msgid "Analytics"
@@ -24221,10 +24221,7 @@ msgid ""
 "exams and problem sets), and can be changed on the 'Grading' page (under "
 "'Settings') in Studio."
 msgstr ""
-"Bấm vào để hiển thị cấu hình chấm điểm cho khóa học. Cấu hình chấm điểm là "
-"thông tin chi tiết về các phần phụ được chấm điểm của khóa học (chẳng hạn "
-"như bài kiểm tra và bộ bài tập) và có thể thay đổi trên trang \"Chấm "
-"điểm\" (trong phần \"Cài đặt\") trong Studio."
+"Bấm chuột để hiển thị kết cấu điểm của khóa học. Kết cấu điểm là sự phân bổ thành các phần nhỏ cần được chấm điểm trong khóa học (ví dụ các bài thi và câu hỏi), và có thể được chuyển thành trang 'Chấm điểm' (dưới mục 'Thiết Lập') trong Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:14
 msgid "Grading Configuration"
@@ -25511,10 +25508,7 @@ msgid ""
 "course                 (such as exams and problem sets), and can be changed "
 "on the 'Grading'                 page (under 'Settings') in Studio."
 msgstr ""
-"Bấm vào để hiển thị cấu hình chấm điểm cho khóa học. Cấu hình chấm điểm là "
-"thông tin chi tiết về các phần phụ được chấm điểm của khóa học (chẳng hạn "
-"như bài kiểm tra và bộ bài tập) và có thể được thay đổi trên trang 'Chấm"
-" điểm' (trong phần 'Cài đặt') trong Studio."
+"Bấm chuột để hiển thị kết cấu điểm của khóa học. Kết cấu điểm là sự phân bổ thành các phần nhỏ cần được chấm điểm trong khóa học (ví dụ các bài thi và câu hỏi), và có thể được chuyển thành trang 'Chấm điểm' (dưới mục 'Thiết Lập') trong Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:74
 msgid "Click to download a CSV of                 anonymized student IDs:"
