@@ -16031,7 +16031,7 @@ msgstr "Bấm để thêm phần mới"
 
 #: cms/templates/course_outline.html:213
 msgid "New Section"
-msgstr "Phần mới"
+msgstr "Mục mới"
 
 #: cms/templates/course_outline.html:218
 msgid "Reindex current course"
@@ -16043,7 +16043,7 @@ msgstr "Lập chỉ mục lại"
 
 #: cms/templates/course_outline.html:225
 msgid "Collapse All Sections"
-msgstr "Thu gọn tất cả các phần"
+msgstr "Thu gọn tất cả các mục"
 
 #: cms/templates/course_outline.html:226
 msgid "Expand All Sections"
@@ -16059,19 +16059,18 @@ msgstr "Xem trực tiếp"
 
 #: cms/templates/course_outline.html:298
 msgid "Creating your course organization"
-msgstr "Tạo tổ chức khóa học của bạn"
+msgstr "Cách tổ chức cho khóa học của bạn"
 
 #: cms/templates/course_outline.html:299
 msgid "You add sections, subsections, and units directly in the outline."
-msgstr "Bạn thêm trực tiếp các phần, tiểu mục và đơn vị vào dàn ý."
+msgstr "Bạn thêm các mục, tiểu mục, và các đơn vị trực tiếp trong đề cương."
 
 #: cms/templates/course_outline.html:300
 msgid ""
 "Create a section, then add subsections and units. Open a unit to add course "
 "components."
 msgstr ""
-"Tạo một phần, sau đó thêm các phần phụ và đơn vị. Mở một bài học để thêm các"
-" thành phần khóa học."
+"Tạo một mục, sau đó thêm tiểu mục và các đơn vị. Mở một đơn vị để thêm các thành phần khóa học."
 
 #: cms/templates/course_outline.html:303
 msgid "Reorganizing your course"
@@ -16079,7 +16078,7 @@ msgstr "Tổ chức lại khóa học của bạn"
 
 #: cms/templates/course_outline.html:304
 msgid "Drag sections, subsections, and units to new locations in the outline."
-msgstr "Kéo các phần, phần phụ và đơn vị tới vị trí mới trong đường viền."
+msgstr "Kéo các mục, tiểu mục, và các đơn vị đến địa điểm mới trong đề cương."
 
 #: cms/templates/course_outline.html:306
 msgid "Learn more about the course outline"
@@ -16095,9 +16094,7 @@ msgid ""
 "date. When you configure a subsection, you can also set the grading policy "
 "and due date."
 msgstr ""
-"Chọn biểu tượng Định cấu hình cho một phần hoặc phần phụ để đặt ngày phát "
-"hành. Khi định cấu hình một phần phụ, bạn cũng có thể đặt chính sách chấm "
-"điểm và ngày đến hạn."
+"Chọn biểu tượng cấu hình cho một phần hoặc tiểu mục để thiết lập ngày phát hành của nó. Khi bạn cấu hình một tiểu mục, bạn cũng có thể thiết lập các chính sách chấm điểm và ngày hết hạn."
 
 #: cms/templates/course_outline.html:313
 msgid "Learn more about grading policy settings"
@@ -16112,8 +16109,7 @@ msgid ""
 "To publish draft content, select the Publish icon for a section, subsection,"
 " or unit."
 msgstr ""
-"Để xuất bản nội dung dự thảo, chọn biểu tượng Xuất bản cho một phần, tiểu "
-"mục hoặc đơn vị."
+"Để xuất bản nội dung dự thảo, chọn Xuất bản cho một mục, tiểu mục, hoặc đơn vị."
 
 #: cms/templates/course_outline.html:319
 #, python-brace-format
