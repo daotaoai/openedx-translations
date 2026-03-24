@@ -22076,7 +22076,7 @@ msgstr ""
 
 #: lms/templates/course_modes/fbe.html:24
 msgid "Show more"
-msgstr "Cho xem nhiều hơn"
+msgstr "Hiển thị đầy đủ"
 
 #: lms/templates/course_modes/fbe.html:26
 #, python-brace-format
