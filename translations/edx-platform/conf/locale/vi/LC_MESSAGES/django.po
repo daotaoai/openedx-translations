@@ -5379,7 +5379,7 @@ msgstr "Quản trị viên sinh viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:616
 msgid "Extensions"
-msgstr "Tiện ích mở rộng"
+msgstr "Gia hạn"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:641
 msgid "Data Download"
@@ -24503,7 +24503,7 @@ msgstr "Cập nhật mã giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:7
 msgid "Individual due date extensions"
-msgstr "Gia hạn ngày đáo hạn cá nhân"
+msgstr "Gia hạn hạn chót cho cá nhân"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:9
 msgid ""
@@ -24512,10 +24512,7 @@ msgid ""
 "always taken; you cannot use this tool to make an assignment due earlier for"
 " a particular student."
 msgstr ""
-"Trong phần này, bạn có khả năng cấp tiện ích mở rộng trên các tiểu mục cụ "
-"thể cho từng sinh viên. Xin lưu ý rằng ngày mới nhất luôn được lấy; bạn "
-"không thể sử dụng công cụ này để giao bài tập đến hạn sớm hơn cho một học "
-"sinh cụ thể."
+"Trong phần này, bạn có thể gia hạn trên từng tiểu mục cụ thể cho từng học viên. Lưu ý là luôn lấy ngày cuối cùng; bạn không thể sử dụng công cụ này để tạo bài tập với hạn sớm hơn cho một học sinh cụ thể."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:15
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:70
@@ -24524,20 +24521,19 @@ msgstr ""
 msgid ""
 "Specify the {platform_name} email address or username of a student here:"
 msgstr ""
-"Chỉ định địa chỉ email hoặc tên người dùng {platform_name} của sinh viên tại"
-" đây:"
+"Nhập địa chỉ email hoặc tên đăng nhập trong nền tảng {platform_name} của một học viên ở đây:"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:17
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:72
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:95
 msgid "Student Email or Username"
-msgstr "Email hoặc tên người dùng của sinh viên"
+msgstr "Nhập email hoặc tên học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:20
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:55
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:98
 msgid "Choose the graded subsection:"
-msgstr "Chọn tiểu mục được xếp loại:"
+msgstr "Chọn một tiểu mục:"
 
 #. Translators: "format_string" is the string MM/DD/YYYY HH:MM, as that is the
 #. format the system requires.
@@ -24547,8 +24543,7 @@ msgid ""
 "Specify the extension due date and time (in UTC; please specify "
 "{format_string})."
 msgstr ""
-"Chỉ định ngày và giờ đến hạn gia hạn (theo UTC; vui lòng chỉ định "
-"{format_string} )."
+"Xác định ngày giờ của hạn chót được gia hạn (theo múi giờ UTC; xin ghi rõ {format_string})."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:33
 msgid "Reason for extension"
@@ -24556,27 +24551,25 @@ msgstr "Lý do gia hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:39
 msgid "Change due date for student"
-msgstr "Thay đổi ngày đến hạn của sinh viên"
+msgstr "Thay đổi hạn chót cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:45
 msgid "Viewing granted extensions"
-msgstr "Xem các tiện ích mở rộng đã được cấp"
+msgstr "Xem những phần gia hạn đã được cấp"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:47
 msgid ""
 "Here you can see what extensions have been granted on particular subsection "
 "or for a particular student."
 msgstr ""
-"Tại đây, bạn có thể xem những phần mở rộng nào đã được cấp cho một tiểu mục "
-"cụ thể hoặc cho một sinh viên cụ thể."
+"Tại đây, bạn có thể xem những gia hạn nào đã được cấp cho tiểu mục hoặc một học viên cụ thể."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:51
 msgid ""
 "Choose a graded subsection and click the button to obtain a list of all "
 "students who have extensions for the given subsection."
 msgstr ""
-"Chọn một tiểu mục được xếp loại và nhấp vào nút để nhận danh sách tất cả học"
-" sinh có phần mở rộng cho tiểu mục nhất định."
+"Chọn một tiểu mục và nhấp vào nút để lấy danh sách tất cả các học viên được gia hạn cho tiểu mục đó."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:63
 msgid "List all students with due date extensions"
@@ -24584,15 +24577,15 @@ msgstr "Liệt kê tất cả học sinh được gia hạn ngày đến hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
 msgid "Specify a student to see all of that student's extensions."
-msgstr "Chỉ định một học sinh để xem tất cả các phần mở rộng của học sinh đó."
+msgstr "Chọn một học viên để xem tất cả những lần gia hạn của học viên đó."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:74
 msgid "List date extensions for student"
-msgstr "Liệt kê các phần mở rộng ngày cho sinh viên"
+msgstr "Liệt kê ngày gia hạn cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:86
 msgid "Resetting extensions"
-msgstr "Đặt lại tiện ích mở rộng"
+msgstr "Tái thiết lập gia hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:88
 msgid ""
@@ -24600,9 +24593,7 @@ msgid ""
 "on a particular subsection. This will revert the due date for the student "
 "back to the problem's original due date."
 msgstr ""
-"Việc đặt lại ngày đến hạn của một vấn đề sẽ hủy bỏ việc gia hạn ngày đến hạn"
-" cho một học sinh trong một tiểu mục cụ thể. Điều này sẽ hoàn nguyên ngày "
-"đến hạn của học sinh về ngày đến hạn ban đầu của vấn đề."
+"Tái thiết lập gia hạn sẽ hủy bỏ gia hạn cho học viên trên tiểu mục. Điều này sẽ chuyển ngày đến hạn của học viên trở lại ngày đến hạn ban đầu."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
 msgid "Reason for reset"
@@ -24610,7 +24601,7 @@ msgstr "Lý do thiết lập lại"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:111
 msgid "Reset due date for student"
-msgstr "Đặt lại ngày đến hạn cho sinh viên"
+msgstr "Đặt lại ngày đến hạn cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:7
 msgid "Generate Registration Code Modal"
