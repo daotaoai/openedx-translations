@@ -5375,7 +5375,7 @@ msgstr "Thảo luận"
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:570
 #: lms/templates/ccx/coach_dashboard.html:66
 msgid "Student Admin"
-msgstr "Quản trị viên sinh viên"
+msgstr "Quản lí học viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:616
 msgid "Extensions"
@@ -20310,12 +20310,12 @@ msgstr "Xóa trạng thái của học viên"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:93
 #: lms/templates/staff_problem_info.html:87
 msgid "Rescore Learner's Submission"
-msgstr "Chấm điểm bài nộp của học viên"
+msgstr "Chấm lại bài làm của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:94
 #: lms/templates/staff_problem_info.html:89
 msgid "Rescore Only If Score Improves"
-msgstr "Chỉ ghi lại nếu điểm được cải thiện"
+msgstr "Chỉ chấm lại nếu điểm có cải thiện"
 
 #: lms/templates/staff_problem_info.html:93
 msgid "Override Score"
@@ -25266,12 +25266,12 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:22
 msgid "View a specific learner's enrollment status"
-msgstr "Xem trạng thái ghi danh của một học viên cụ thể"
+msgstr "Xem trạng thái ghi danh của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:25
 #, python-brace-format
 msgid "Learner's {platform_name} email address or username *"
-msgstr "Địa chỉ email hoặc tên người dùng {platform_name} của học viên *"
+msgstr "Địa chỉ email hoặc tên người dùng của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:28
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:50
@@ -25322,13 +25322,13 @@ msgstr "Vị trí có vấn đề"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:146
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:209
 msgid "Attempts"
-msgstr "Nỗ lực"
+msgstr "Số lần thử"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:82
 msgid ""
 "Allow a learner who has used up all attempts to work on the problem again."
 msgstr ""
-"Cho phép học viên đã cố gắng hết sức để giải quyết vấn đề một lần nữa."
+"Cho phép học viên đã sử dụng hết số lần làm bài được làm bài thêm một (01) lần nữa."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:84
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:149
@@ -25340,7 +25340,7 @@ msgstr "Đặt lại số lần thử về 0"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:159
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:215
 msgid "Rescore"
-msgstr "Ghi lại điểm"
+msgstr "Chấm lại điểm"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:90
 msgid ""
@@ -25348,9 +25348,7 @@ msgid ""
 "Only If Score Improves' option updates the learner's score only if it "
 "improves in the learner's favor."
 msgstr ""
-"Đối với bài toán cụ thể, cho điểm lại câu trả lời của học viên. Tùy chọn "
-"'Chỉ tính điểm lại nếu điểm được cải thiện' chỉ cập nhật điểm của "
-"học viên nếu nó cải thiện theo hướng có lợi cho học viên."
+"Đối với câu hỏi đã nêu, chấm lại điểm những câu trả lời của học viên. Tùy chọn 'Chỉ chấm lại nếu điểm có cải thiện' để cập nhật điểm số của học viên chỉ khi điểm số được cải thiện."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:101
 msgid "Score Override"
@@ -25375,35 +25373,33 @@ msgstr "Ghi đè điểm của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:117
 msgid "Problem History"
-msgstr "Lịch sử vấn đề"
+msgstr "Lịch sử Câu hỏi"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:118
 msgid ""
 "For the specified problem, permanently and completely delete the learner's "
 "answers and scores from the database."
 msgstr ""
-"Đối với bài toán đã chỉ định, hãy xóa vĩnh viễn và hoàn toàn các câu trả lời"
-" và điểm số của học viên khỏi cơ sở dữ liệu."
+"Đối với câu hỏi đã nêu, xóa vĩnh viễn và hoàn toàn các câu trả lời và điểm của học viên trong cơ sở dữ liệu."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:125
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:181
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:224
 msgid "Task Status"
-msgstr "Trạng thái nhiệm vụ"
+msgstr "Trạng thái tác vụ"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:126
 msgid ""
 "Show the status for the rescoring tasks that you submitted for this learner "
 "and problem."
 msgstr ""
-"Hiển thị trạng thái của các nhiệm vụ chấm điểm mà bạn đã gửi cho học viên "
-"và vấn đề này."
+"Hiển thị trạng thái việc chấm lại mà bạn đã gửi cho học viên và câu hỏi này."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:128
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:186
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:227
 msgid "Show Task Status"
-msgstr "Hiển thị trạng thái nhiệm vụ"
+msgstr "Hiển thị trạng thái tác vụ"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:136
 msgid "Adjust a learner's entrance exam results"
@@ -25486,7 +25482,7 @@ msgstr "Chấm điểm tất cả bài nộp của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:220
 msgid "Rescore Only If Scores Improve"
-msgstr "Chỉ ghi lại nếu điểm được cải thiện"
+msgstr "Chỉ chấm lại nếu điểm có cải thiện"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:225
 msgid "Show the status for the tasks that you submitted for this problem."
