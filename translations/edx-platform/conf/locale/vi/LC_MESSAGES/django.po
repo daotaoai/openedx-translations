@@ -25262,7 +25262,7 @@ msgstr "Xem trạng thái ghi danh của học viên"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:25
 #, python-brace-format
 msgid "Learner's {platform_name} email address or username *"
-msgstr "Địa chỉ email hoặc tên người dùng của học viên"
+msgstr "Địa chỉ email hoặc tên người dùng của học viên trong nền tảng {platform_name} *"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:28
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:50
